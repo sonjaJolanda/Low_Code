@@ -1,0 +1,17 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'document.blg'
+[214] biber-MSWIN64:340> INFO - === 
+[263] Biber.pm:418> INFO - Reading 'document.bcf'
+[429] Biber.pm:972> INFO - Found 4 citekeys in bib section 0
+[449] Biber.pm:4383> INFO - Processing section 0
+[465] Biber.pm:4574> INFO - Looking for bibtex file 'Low_Code_Citavi.bib' for section 0
+[530] bibtex.pm:1713> INFO - LaTeX decoding ...
+[570] bibtex.pm:1518> INFO - Found BibTeX data source 'Low_Code_Citavi.bib'
+[686] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[686] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[686] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[687] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[701] bbl.pm:654> INFO - Writing 'document.bbl' with encoding 'UTF-8'
+[704] bbl.pm:757> INFO - Output to document.bbl
+[705] Biber.pm:130> WARN - Entry 'Wang.2021' (Low_Code_Citavi.bib): Invalid format '25.10.2021 - 28.10.2021' of date field 'eventdate' - ignoring
+[705] Biber.pm:132> INFO - WARNINGS: 1

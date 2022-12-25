@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}Einleitung}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Relevanz und Ziel der Arbeit}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Methodik}{5}{}%
+\contentsline {subsection}{\numberline {1.3}Aufbau der Arbeit}{5}{}%
+\contentsline {section}{\numberline {2}Entstehung von LCDP}{5}{}%
+\contentsline {subsection}{\numberline {2.1}Entstehung}{5}{}%
+\contentsline {subsection}{\numberline {2.2}Definition und Abgrenzung zu Low Code Development Platforms und High Code Development Platforms}{5}{}%
+\contentsline {subsection}{\numberline {2.3}Beispiele}{6}{}%
+\contentsline {subsection}{\numberline {2.4}Use Cases}{6}{}%
+\contentsline {section}{\numberline {3}Nachteile von LCDP}{6}{}%
+\contentsline {subsection}{\numberline {3.1}-}{6}{}%
+\contentsline {section}{\numberline {4}Potenziale und Vorteile von LCDP}{6}{}%
+\contentsline {subsection}{\numberline {4.1}-}{6}{}%
+\contentsline {section}{\numberline {5}Fazit und Ausblick}{6}{}%
+\contentsline {section}{\numberline {6}Referenzen}{7}{}%

@@ -1,0 +1,196 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{AmyGlasscock.2021}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8ca28f080567136b9db7f0684dae11f7}{%
+           family={{Amy Glasscock}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=487f6eaab6bf367a6cc8adfc06e2afb6}{%
+           family={NASCIO},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{8ca28f080567136b9db7f0684dae11f7}
+      \strng{fullhash}{8ca28f080567136b9db7f0684dae11f7}
+      \strng{bibnamehash}{8ca28f080567136b9db7f0684dae11f7}
+      \strng{authorbibnamehash}{8ca28f080567136b9db7f0684dae11f7}
+      \strng{authornamehash}{8ca28f080567136b9db7f0684dae11f7}
+      \strng{authorfullhash}{8ca28f080567136b9db7f0684dae11f7}
+      \strng{editorbibnamehash}{487f6eaab6bf367a6cc8adfc06e2afb6}
+      \strng{editornamehash}{487f6eaab6bf367a6cc8adfc06e2afb6}
+      \strng{editorfullhash}{487f6eaab6bf367a6cc8adfc06e2afb6}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Why State CIOs are Turning to Low-Code and No-Code Software Development}
+      \field{title}{The need for speed}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://uidl.naswa.org/handle/20.500.11941/4392
+      \endverb
+      \verb{url}
+      \verb https://uidl.naswa.org/handle/20.500.11941/4392
+      \endverb
+    \endentry
+    \entry{Bock.2021}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a26ac925eb1d9bfb395d3d581a03cfa8}{%
+           family={Bock},
+           familyi={B\bibinitperiod},
+           given={Alexander\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=43491d959efef545ddfa346dfe7063be}{%
+           family={Frank},
+           familyi={F\bibinitperiod},
+           given={Ulrich},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{1af6863a264c3b2cfaecfb229b4f3d9f}
+      \strng{fullhash}{1af6863a264c3b2cfaecfb229b4f3d9f}
+      \strng{bibnamehash}{1af6863a264c3b2cfaecfb229b4f3d9f}
+      \strng{authorbibnamehash}{1af6863a264c3b2cfaecfb229b4f3d9f}
+      \strng{authornamehash}{1af6863a264c3b2cfaecfb229b4f3d9f}
+      \strng{authorfullhash}{1af6863a264c3b2cfaecfb229b4f3d9f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2363-7005}
+      \field{journaltitle}{Business {\&} Information Systems Engineering}
+      \field{note}{PII: 726}
+      \field{number}{6}
+      \field{pagination}{page}
+      \field{shortjournal}{Bus Inf Syst Eng}
+      \field{title}{Low-Code Platform}
+      \field{volume}{63}
+      \field{year}{2021}
+      \field{pages}{733\bibrangedash 740}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1007/s12599-021-00726-8
+      \endverb
+    \endentry
+    \entry{Wang.2021}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=141a1e7404c5b53546fb09821c56717a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=0bd795323e3d2f604e723e25b4a68fef}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=c5f133678c8bdff0e050e19158f289ed}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Min},
+           giveni={M\bibinitperiod}}}%
+        {{hash=47f98d6965071a5f6fbec42d53e5c986}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Pu},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{6541692f984296e193a15983ec1da8ed}
+      \strng{fullhash}{eae6b1dd861082a77194d58ae7c671e5}
+      \strng{bibnamehash}{6541692f984296e193a15983ec1da8ed}
+      \strng{authorbibnamehash}{6541692f984296e193a15983ec1da8ed}
+      \strng{authornamehash}{6541692f984296e193a15983ec1da8ed}
+      \strng{authorfullhash}{eae6b1dd861082a77194d58ae7c671e5}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{bookpagination}{page}
+      \field{booktitle}{2021 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW)}
+      \field{eventtitle}{2021 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW)}
+      \field{isbn}{978-1-6654-2603-9}
+      \field{title}{The Necessity of Low-code Engineering for Industrial Software Development: A Case Study and Reflections}
+      \field{venue}{Wuhan, China}
+      \field{year}{2021}
+      \field{pages}{415\bibrangedash 420}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ISSREW53611.2021.00112
+      \endverb
+      \warn{\item Entry 'Wang.2021' (Low_Code_Citavi.bib): Invalid format '25.10.2021 - 28.10.2021' of date field 'eventdate' - ignoring}
+    \endentry
+    \entry{Wang.2021b}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=141a1e7404c5b53546fb09821c56717a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=0bd795323e3d2f604e723e25b4a68fef}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=c5f133678c8bdff0e050e19158f289ed}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Min},
+           giveni={M\bibinitperiod}}}%
+        {{hash=47f98d6965071a5f6fbec42d53e5c986}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Pu},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{6541692f984296e193a15983ec1da8ed}
+      \strng{fullhash}{eae6b1dd861082a77194d58ae7c671e5}
+      \strng{bibnamehash}{6541692f984296e193a15983ec1da8ed}
+      \strng{authorbibnamehash}{6541692f984296e193a15983ec1da8ed}
+      \strng{authornamehash}{6541692f984296e193a15983ec1da8ed}
+      \strng{authorfullhash}{eae6b1dd861082a77194d58ae7c671e5}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{bookpagination}{page}
+      \field{booktitle}{2021 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW)}
+      \field{isbn}{978-1-6654-2603-9}
+      \field{title}{The Necessity of Low-code Engineering for Industrial Software Development: A Case Study and Reflections}
+      \field{year}{2021}
+      \field{pages}{415\bibrangedash 420}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ISSREW53611.2021.00112
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
