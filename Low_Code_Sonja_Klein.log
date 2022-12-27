@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.11.6)  27 DEC 2022 15:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.11.6)  27 DEC 2022 17:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -365,123 +365,166 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Warning: Citation 'Wang.2021' on page 3 undefined on input line 25.
 
 
-LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 3 undefined on input line 41
+LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 3 undefined on input line 29
 .
 
 
-LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 3 undefined on input line 45
+Overfull \hbox (2.83173pt too wide) in paragraph at lines 27--30
+\T1/cmr/m/n/10 und 57 % voll-ständig be-nutzerdefinierten Code ver-wen-den um T
+op-Anwendungen
+ []
+
+
+Overfull \hbox (29.3299pt too wide) in paragraph at lines 31--34
+\T1/cmr/m/n/10 twick-lern, An-a-lysten für Software-Qualitätssicherung und Test
+ern. Die Gesamtbeschäf-
+ []
+
+
+LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 3 undefined on input line 48
 .
 
 
-Overfull \hbox (2.8595pt too wide) in paragraph at lines 45--46
+LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 3 undefined on input line 50
+.
+
+
+Overfull \hbox (2.8595pt too wide) in paragraph at lines 50--51
 \T1/cmr/m/n/10 Code-Plattformen un-ternehmensweit un-ter-stützen kön-nen, Fir-m
 en mit den höch-
  []
 
 [3]
-Overfull \hbox (47.83926pt too wide) in paragraph at lines 54--59
-\T1/cmr/m/n/10 reg-uläre Mi-tar-beiter in der Fach-abteilung (McK-endrick 2017)
-. IT-Entwicklungsplattformen
+
+LaTeX Warning: Citation 'AmyGlasscock.2021' on page 4 undefined on input line 5
+4.
+
+
+LaTeX Warning: Citation 'AmyGlasscock.2021' on page 4 undefined on input line 5
+7.
+
+
+Overfull \hbox (14.95424pt too wide) in paragraph at lines 53--58
+\T1/cmr/m/n/10 Code kon-nten diese in bis zu zwei Tagen en-twick-elt wer-den. [
+[]] 
  []
 
 
-LaTeX Warning: Citation 'AmyGlasscock.2021' on page 4 undefined on input line 6
-3.
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--64
-
- []
-
-
-Overfull \hbox (13.49579pt too wide) in paragraph at lines 67--68
-\T1/cmr/m/n/10 gram-mierung zu ver-lassen, vere-in-fachen Low-Code-Plattformen 
-die An-wen-dungsen-
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 80--82
 
- []
-
-
-LaTeX Warning: Citation 'Margaria.2021' on page 5 undefined on input line 91.
+LaTeX Warning: Citation 'Margaria.2021' on page 5 undefined on input line 87.
 
 
-Overfull \hbox (18.40431pt too wide) in paragraph at lines 91--93
+Overfull \hbox (18.40431pt too wide) in paragraph at lines 87--89
 \T1/cmr/m/n/10 twick-elt, wobei Hun-derte von Sprachen seit-dem en-twick-elt wu
 rden.[[]] 
  []
 
+
+Overfull \hbox (34.48141pt too wide) in paragraph at lines 117--122
+\T1/cmr/m/n/10 uläre Mi-tar-beiter in der Fach-abteilung (McK-endrick 2017). IT
+-Entwicklungsplattformen
+ []
+
 [5] [6]
 
-LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 7 undefined on input line 19
-2.
+LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 7 undefined on input line 18
+0.
+
+
+Overfull \hbox (44.21312pt too wide) in paragraph at lines 188--188
+[]\T1/cmr/bx/n/12 verbesserte Zusam-me-nar-beit von En-twick-lern und Fachkundi
+-
+ []
 
 
 LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 7 undefined on input line 19
-9.
+3.
 
 
-Overfull \hbox (17.54805pt too wide) in paragraph at lines 197--200
+Overfull \hbox (17.54805pt too wide) in paragraph at lines 191--194
 \T1/cmr/m/n/10 möglicht, bei der Bere-it-stel-lung von Lö-sun-gen mitzuwirken. 
 [[]] 
  []
 
 
-LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 7 undefined on input line 20
-2.
+LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 7 undefined on input line 19
+8.
 
 
-Overfull \hbox (0.22125pt too wide) in paragraph at lines 202--203
+Overfull \hbox (0.22125pt too wide) in paragraph at lines 198--199
 \T1/cmr/m/n/10 Low-Code beschle-u-nigt die En-twick-lung und er-füllt den Be-da
 rf der Un-ternehmen
  []
 
-[7]
 
-LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 8 undefined on input line 20
-4.
-
-
-LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 8 undefined on input line 20
-8.
+LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 7 undefined on input line 20
+0.
 
 
-Overfull \hbox (7.07144pt too wide) in paragraph at lines 207--209
+LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 7 undefined on input line 20
+7.
+
+
+Overfull \hbox (7.07144pt too wide) in paragraph at lines 206--208
 \T1/cmr/m/n/10 be-treiben. Ihre Be-für-wor-tung von Low-Code be-weist, dass un-
 ternehmen-staugliche
  []
 
 
-Overfull \hbox (15.74294pt too wide) in paragraph at lines 207--209
+Overfull \hbox (15.74294pt too wide) in paragraph at lines 206--208
 \T1/cmr/m/n/10 Low-Code-Lösungen bere-its auf dem Markt ver-füg-bar sind. [[]] 
 
  []
 
 
-LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 8 undefined on input line 21
-0.
+LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 7 undefined on input line 20
+9.
 
 
-Overfull \hbox (4.11285pt too wide) in paragraph at lines 210--211
+Overfull \hbox (4.11285pt too wide) in paragraph at lines 209--210
 []\T1/cmr/m/n/10 Einundsechzig Prozent be-fragter Un-ternehmen nen-nen Sicher-h
 eit-san-forderun-
  []
 
 
-Overfull \hbox (5.80092pt too wide) in paragraph at lines 210--211
+Overfull \hbox (5.80092pt too wide) in paragraph at lines 209--210
 \T1/cmr/m/n/10 gen als Her-aus-forderung in der dig-i-talen Trans-for-ma-tion. 
 [[]] 
  []
 
+[7]
 
 LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 8 undefined on input line 21
+8.
+
+
+LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 8 undefined on input line 22
+2.
+
+
+Overfull \hbox (25.20126pt too wide) in paragraph at lines 221--223
+\T1/cmr/m/n/10 Low-Code-Plattformen mit Top-Anwendungen er-weit-ern Flex-i-bil-
+ität, Geschwindigkeit
+ []
+
+
+LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 8 undefined on input line 23
 7.
+
+
+Overfull \hbox (3.50287pt too wide) in paragraph at lines 235--238
+\T1/cmr/m/n/10 da die Plat-tfor-men Un-ter-stützung für kom-plexe Geschäft-slog
+ik verbessern. Heute
+ []
 
 [8]
 
-LaTeX Warning: Empty bibliography on input line 230.
+LaTeX Warning: Empty bibliography on input line 240.
 
 (Low_Code_Sonja_Klein.aux)
 
@@ -499,7 +542,7 @@ Package logreq Info: Writing requests to 'Low_Code_Sonja_Klein.run.xml'.
 Here is how much of TeX's memory you used:
  8711 strings out of 478582
  169869 string characters out of 2844344
- 872527 words of memory out of 3000000
+ 873527 words of memory out of 3000000
  26866 multiletter control sequences out of 15000+600000
  477385 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -511,9 +554,9 @@ Here is how much of TeX's memory you used:
 pen/ec/dpi600\ecrm1200.pk> <C:\Users\sonja\AppData\Local\MiKTeX\fonts/pk/ljfour
 /jknappen/ec/dpi600\ecrm1728.pk> <C:\Users\sonja\AppData\Local\MiKTeX\fonts/pk/
 ljfour/jknappen/ec/dpi600\ecrm1000.pk>
-Output written on Low_Code_Sonja_Klein.pdf (8 pages, 107114 bytes).
+Output written on Low_Code_Sonja_Klein.pdf (8 pages, 107227 bytes).
 PDF statistics:
- 310 PDF objects out of 1000 (max. 8388607)
+ 309 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
