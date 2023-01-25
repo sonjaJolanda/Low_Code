@@ -3,26 +3,29 @@
 \contentsline {subsection}{\numberline {1.2}Methodik}{4}{}%
 \contentsline {subsection}{\numberline {1.3}Aufbau der Arbeit}{4}{}%
 \contentsline {section}{\numberline {2}Was sind LCDP?}{5}{}%
-\contentsline {subsection}{\numberline {2.1}Entstehung und Definition}{5}{}%
-\contentsline {subsection}{\numberline {2.2}Begriffsabgrenzung zu No Code und High Code}{6}{}%
+\contentsline {subsection}{\numberline {2.1}Aufkommen und Definition}{5}{}%
+\contentsline {subsection}{\numberline {2.2}Abgrenzung und Vergleich zu No Code und High Code}{6}{}%
 \contentsline {subsection}{\numberline {2.3}Use Cases}{7}{}%
 \contentsline {subsubsection}{\numberline {2.3.1}Anwendungsfall: MVPs}{7}{}%
 \contentsline {subsubsection}{\numberline {2.3.2}Anwendungsfall: Modernisierungen}{7}{}%
 \contentsline {subsubsection}{\numberline {2.3.3}Anwendungsfall: Smart Process Apps}{7}{}%
-\contentsline {subsubsection}{\numberline {2.3.4}Anwendungsfall: neue Plattformen}{7}{}%
+\contentsline {subsubsection}{\numberline {2.3.4}Anwendungsfall: neue Plattformen}{8}{}%
 \contentsline {subsection}{\numberline {2.4}Übersicht von Low Code Development Plattformen in der Praxis}{8}{}%
-\contentsline {section}{\numberline {3}Nachteile von LCDP}{8}{}%
-\contentsline {subsection}{\numberline {3.1}geringe Skalierbarkeit}{9}{}%
-\contentsline {subsection}{\numberline {3.2}Sicherheitsrisiken}{9}{}%
-\contentsline {subsection}{\numberline {3.3}geringere Flexibilität und Anpassbarkeit}{9}{}%
-\contentsline {section}{\numberline {4}Vorteile und Potenziale von LCDP}{9}{}%
-\contentsline {subsection}{\numberline {4.1}Schnittstellenbereitstellung}{9}{}%
-\contentsline {subsection}{\numberline {4.2}Zusammenarbeit von Entwicklern und Fachkundigen}{9}{}%
-\contentsline {subsection}{\numberline {4.3}Beschleunigter Entwicklungsprozess}{10}{}%
-\contentsline {subsection}{\numberline {4.4}Reduzierte Entwicklungskosten}{11}{}%
-\contentsline {subsection}{\numberline {4.5}hohe Sicherheitsstandards und geringe Ausfallzeiten}{11}{}%
-\contentsline {subsection}{\numberline {4.6}Einhalteung von Konventionen und Best Practices}{11}{}%
-\contentsline {subsection}{\numberline {4.7}Schwierigkeiten mit komplexer Geschäftslogik}{11}{}%
-\contentsline {subsection}{\numberline {4.8}gesteigerte Flexibilität}{12}{}%
-\contentsline {subsection}{\numberline {4.9}Cloud-based deployment}{12}{}%
-\contentsline {section}{\numberline {5}Fazit und Zukunftsausblick}{12}{}%
+\contentsline {section}{\numberline {3}Nachteile von LCDP}{9}{}%
+\contentsline {subsection}{\numberline {3.1}steile Lernkurve}{9}{}%
+\contentsline {subsection}{\numberline {3.2}geringe Skalierbarkeit}{9}{}%
+\contentsline {subsection}{\numberline {3.3}geringe Interoperabilität}{9}{}%
+\contentsline {subsection}{\numberline {3.4}geringere Flexibilität und Anpassbarkeit}{9}{}%
+\contentsline {subsection}{\numberline {3.5}geringe Teststandards}{10}{}%
+\contentsline {subsection}{\numberline {3.6}Sicherheitsrisiken}{10}{}%
+\contentsline {section}{\numberline {4}Vorteile und Potenziale von LCDP}{10}{}%
+\contentsline {subsection}{\numberline {4.1}Schnittstellenbereitstellung}{10}{}%
+\contentsline {subsection}{\numberline {4.2}Zusammenarbeit von Entwicklern und Fachkundigen}{10}{}%
+\contentsline {subsection}{\numberline {4.3}Beschleunigter Entwicklungsprozess}{11}{}%
+\contentsline {subsection}{\numberline {4.4}Reduzierte Kosten}{12}{}%
+\contentsline {subsection}{\numberline {4.5}hohe Sicherheitsstandards und geringe Ausfallzeiten}{12}{}%
+\contentsline {subsection}{\numberline {4.6}Einhalteung von Konventionen und Best Practices}{13}{}%
+\contentsline {subsection}{\numberline {4.7}Schwierigkeiten mit komplexer Geschäftslogik}{13}{}%
+\contentsline {subsection}{\numberline {4.8}gesteigerte Flexibilität}{13}{}%
+\contentsline {subsection}{\numberline {4.9}Cloud-based deployment}{13}{}%
+\contentsline {section}{\numberline {5}Fazit und Zukunftsausblick}{13}{}%
