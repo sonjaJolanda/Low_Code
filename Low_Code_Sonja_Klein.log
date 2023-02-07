@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.11.6)  25 JAN 2023 18:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.11.6)  7 FEB 2023 15:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -339,31 +339,30 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 )
 \@quotelevel=\count391
 \@quotereset=\count392
-LaTeX Font Info:    Trying to load font information for OT1+Times New Roman on 
-input line 18.
-LaTeX Font Info:    No file OT1Times New Roman.fd. on input line 18.
+LaTeX Font Info:    Trying to load font information for OT1+ on input line 17.
+LaTeX Font Info:    No file OT1.fd. on input line 17.
 
 
-LaTeX Font Warning: Font shape `OT1/Times New Roman/m/n' undefined
-(Font)              using `OT1/cmr/m/n' instead on input line 18.
+LaTeX Font Warning: Font shape `OT1//m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 17.
 
 (Low_Code_Sonja_Klein.aux)
 \openout1 = `Low_Code_Sonja_Klein.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -414,16 +413,16 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Low_Code_Sonja_Klein.bbl' found.
  (Low_Code_Sonja_Klein.bbl)
-Package biblatex Info: Reference section=0 on input line 18.
-Package biblatex Info: Reference segment=0 on input line 18.
+Package biblatex Info: Reference section=0 on input line 17.
+Package biblatex Info: Reference segment=0 on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 64.
+(Font)              <14.4> on input line 54.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 64.
+(Font)              <7> on input line 54.
 
 
-LaTeX Font Warning: Font shape `OT1/Times New Roman/b/n' undefined
-(Font)              using `OT1/Times New Roman/m/n' instead on input line 65.
+LaTeX Font Warning: Font shape `OT1//b/n' undefined
+(Font)              using `OT1//m/n' instead on input line 55.
 
 (Low_Code_Sonja_Klein.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -440,68 +439,142 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  [2]
 
-LaTeX Warning: Citation 'AmyGlasscock.2021' on page 3 undefined on input line 6
+LaTeX Warning: Citation 'AmyGlasscock.2021' on page 3 undefined on input line 5
 9.
 
 
-Overfull \hbox (15.70488pt too wide) in paragraph at lines 69--70
-\OT1/Times New Roman/b/n/12 wuchs auch die Rel-e-vanz von Low-Code De-vel-op-me
-nt Plat-tfor-men. Die au^^Yergew^^?ohnlichen
+Overfull \hbox (15.70488pt too wide) in paragraph at lines 59--60
+\OT1//b/n/12 wuchs auch die Rel-e-vanz von Low-Code De-vel-op-ment Plat-tfor-me
+n. Die au^^Yergew^^?ohnlichen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
 
-LaTeX Warning: Citation 'AmyGlasscock.2021' on page 3 undefined on input line 7
+LaTeX Warning: Citation 'AmyGlasscock.2021' on page 3 undefined on input line 6
 1.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--76
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
 
-Overfull \hbox (8.10263pt too wide) in paragraph at lines 84--85
-[]\OT1/Times New Roman/b/n/12 Wie l^^?asst sich der Be-griff von den Be-grif-fe
-n High-Code- und No-Code-Development-
+Overfull \hbox (8.10263pt too wide) in paragraph at lines 74--75
+[]\OT1//b/n/12 Wie l^^?asst sich der Be-griff von den Be-grif-fen High-Code- un
+d No-Code-Development-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--107
+Underfull \hbox (badness 10000) in paragraph at lines 85--88
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 110--111
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--116
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
 
  []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
+
+ []
+
+[4]
+
+LaTeX Warning: Citation 'DiRuscio.2022' on page 5 undefined on input line 109.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+
+LaTeX Warning: Citation 'DiRuscio.2022' on page 5 undefined on input line 112.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--113
+
+ []
+
+
+LaTeX Warning: Citation 'DiRuscio.2022' on page 5 undefined on input line 115.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--116
+
+ []
+
+
+LaTeX Warning: Citation 'KevinShuler.2023' on page 5 undefined on input line 11
+7.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 117--118
 
  []
 
+[5]
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--121
+LaTeX Warning: Citation 'DiRuscio.2022' on page 6 undefined on input line 119.
+
+
+Overfull \hbox (2.66206pt too wide) in paragraph at lines 119--120
+\OT1//b/n/12 Ap-pli-ca-tion Plat-form (LCAP) beze-ich-net wird. Ins-beson-dere 
+wur-den En-ter-prise LCAPs
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
 
  []
 
-[4]
 
-LaTeX Warning: Citation 'DiRuscio.2022' on page 5 undefined on input line 131.
+LaTeX Warning: Citation 'DiRuscio.2022' on page 6 undefined on input line 121.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+ []
+
+
+LaTeX Warning: Citation 'DiRuscio.2022' on page 6 undefined on input line 123.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+
+ []
+
+
+LaTeX Warning: Citation 'DiRuscio.2022' on page 6 undefined on input line 125.
+
+[6]
+
+LaTeX Warning: Citation 'Mendix.2023' on page 7 undefined on input line 131.
+
+
+Overfull \hbox (23.7469pt too wide) in paragraph at lines 131--132
+\OT1//b/n/12 High-Code oder tra-di-tionelle En-twick-lung bein-hal-tet manuelle
+ Pro-gram-mierung in mehreren
+ []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 131--132
@@ -509,276 +582,485 @@ Underfull \hbox (badness 10000) in paragraph at lines 131--132
  []
 
 
-LaTeX Warning: Citation 'DiRuscio.2022' on page 5 undefined on input line 134.
+LaTeX Warning: Citation 'Mendix.2023' on page 7 undefined on input line 133.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--135
-
- []
+LaTeX Warning: Citation 'DiRuscio.2022' on page 7 undefined on input line 136.
 
 
-LaTeX Warning: Citation 'DiRuscio.2022' on page 5 undefined on input line 137.
+LaTeX Warning: Citation 'Microsoft.2023' on page 7 undefined on input line 138.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--138
 
- []
-
-
-LaTeX Warning: Citation 'DiRuscio.2022' on page 5 undefined on input line 139.
-
-
-Overfull \hbox (2.66206pt too wide) in paragraph at lines 139--140
-\OT1/Times New Roman/b/n/12 Ap-pli-ca-tion Plat-form (LCAP) beze-ich-net wird. 
-Ins-beson-dere wur-den En-ter-prise LCAPs
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 139--140
-
- []
-
-[5]
-
-LaTeX Warning: Citation 'DiRuscio.2022' on page 6 undefined on input line 141.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 141--142
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
 
  []
 
 
-LaTeX Warning: Citation 'DiRuscio.2022' on page 6 undefined on input line 143.
+LaTeX Warning: Citation 'Microsoft.2023' on page 7 undefined on input line 141.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--142
 
  []
 
 
-LaTeX Warning: Citation 'DiRuscio.2022' on page 6 undefined on input line 145.
-
-
-LaTeX Warning: Citation 'Alamin.2023' on page 6 undefined on input line 164.
-
-
-LaTeX Warning: Citation 'DiRuscio.2022' on page 6 undefined on input line 166.
-
-
-LaTeX Warning: Citation 'Microsoft.2023' on page 6 undefined on input line 168.
+LaTeX Warning: Citation 'Microsoft.2023' on page 7 undefined on input line 143.
 
 
 
-LaTeX Warning: Citation 'Microsoft.2023' on page 6 undefined on input line 170.
+LaTeX Warning: Citation 'KevinShuler.2023' on page 7 undefined on input line 14
+6.
 
 
-
-LaTeX Warning: Citation 'Microsoft.2023' on page 6 undefined on input line 172.
-
-
-[6]
-
-LaTeX Warning: Citation 'OleksiiGlib.2022' on page 7 undefined on input line 18
-3.
-
-
-Overfull \hbox (1.55684pt too wide) in paragraph at lines 183--184
-\OT1/Times New Roman/b/n/12 Ob eine An-wen-dung er-fol-gre-ich sein wird, ist e
-rst m^^?oglich zu wis-sen, wenn sie tats^^?achlich
- []
-
-
-LaTeX Warning: Citation 'OleksiiGlib.2022' on page 7 undefined on input line 18
-5.
-
-
-LaTeX Warning: Citation 'OleksiiGlib.2022' on page 7 undefined on input line 18
-7.
-
-
-Overfull \hbox (40.22313pt too wide) in paragraph at lines 196--197
-\OT1/Times New Roman/b/n/12 neue Plat-tfor-men: wie Aug-mented Re-al-ity, Vir-t
-ual Re-al-ity oder di-al-o-gori-en-tierte Schnittstellen.
+Overfull \hbox (29.25658pt too wide) in paragraph at lines 146--147
+\OT1//b/n/12 dun-gen auf Un-ternehmensebene kann auf LCDPs zur^^?uck gegrif-fen
+ wer-den [[]]. 
  []
 
 [7]
 
-LaTeX Warning: Citation 'DiRuscio.2022' on page 8 undefined on input line 204.
+LaTeX Warning: Citation 'KevinShuler.2023' on page 8 undefined on input line 15
+1.
 
 
-LaTeX Warning: Citation 'DiRuscio.2022' on page 8 undefined on input line 206.
+LaTeX Warning: Citation 'OleksiiGlib.2022' on page 8 undefined on input line 15
+4.
 
 
-LaTeX Warning: Citation 'DiRuscio.2022' on page 8 undefined on input line 208.
-
-
-Overfull \hbox (0.59578pt too wide) in paragraph at lines 208--209
-[]\OT1/Times New Roman/b/n/12 Au^^Yerdem k^^?onnen manche LCDPs die En-twick-lu
-ng durch Live-Kollaborations-Tools
+Overfull \hbox (1.55684pt too wide) in paragraph at lines 154--155
+\OT1//b/n/12 Ob eine An-wen-dung er-fol-gre-ich sein wird, ist erst m^^?oglich 
+zu wis-sen, wenn sie tats^^?achlich
  []
 
 
-LaTeX Warning: Citation 'DiRuscio.2022' on page 8 undefined on input line 210.
+LaTeX Warning: Citation 'OleksiiGlib.2022' on page 8 undefined on input line 15
+6.
 
 
-Overfull \hbox (24.22063pt too wide) in paragraph at lines 210--211
-\OT1/Times New Roman/b/n/12 Node-RED beispiel-sweise un-terst^^?utzt in er-ster
- Linie die En-twick-lung von IoT-Anwendungen.
- []
+LaTeX Warning: Citation 'OleksiiGlib.2022' on page 8 undefined on input line 15
+8.
 
 
-LaTeX Warning: Citation 'DiRuscio.2022' on page 8 undefined on input line 212.
-
-
-Overfull \hbox (6.47488pt too wide) in paragraph at lines 214--215
-[]\OT1/Times New Roman/b/n/12 Bei der Be-tra-ch-tung der typ-is-chen Schritte e
-iner An-wen-dungsen-twick-lung mit LCDPs
- []
-
-
-LaTeX Warning: Citation 'Alamin.2023' on page 8 undefined on input line 216.
+LaTeX Warning: Citation 'KevinShuler.2023' on page 8 undefined on input line 16
+1.
 
 [8]
 
-LaTeX Warning: Citation 'Alamin.2023' on page 9 undefined on input line 225.
+LaTeX Warning: Citation 'KevinShuler.2023' on page 9 undefined on input line 16
+5.
 
 
-LaTeX Warning: Citation 'Alamin.2023' on page 9 undefined on input line 228.
-
-
-Overfull \hbox (14.65813pt too wide) in paragraph at lines 228--229
-\OT1/Times New Roman/b/n/12 sive Berech-nun-gen auszuf^^?uhren und Big Data zu 
-ver-wal-ten, die mit ho-her Geschwindigkeit,
+Overfull \hbox (40.22313pt too wide) in paragraph at lines 171--172
+\OT1//b/n/12 neue Plat-tfor-men: wie Aug-mented Re-al-ity, Vir-tual Re-al-ity o
+der di-al-o-gori-en-tierte Schnittstellen.
  []
 
 
-LaTeX Warning: Citation 'Alamin.2023' on page 9 undefined on input line 231.
+LaTeX Warning: Citation 'DiRuscio.2022' on page 9 undefined on input line 175.
 
 
-LaTeX Warning: Citation 'Alamin.2023' on page 9 undefined on input line 235.
+LaTeX Warning: Citation 'DiRuscio.2022' on page 9 undefined on input line 177.
+
+
+LaTeX Warning: Citation 'DiRuscio.2022' on page 9 undefined on input line 179.
+
+
+Overfull \hbox (0.59578pt too wide) in paragraph at lines 179--180
+[]\OT1//b/n/12 Au^^Yerdem k^^?onnen manche LCDPs die En-twick-lung durch Live-K
+ollaborations-Tools
+ []
+
+
+LaTeX Warning: Citation 'DiRuscio.2022' on page 9 undefined on input line 181.
+
+
+Overfull \hbox (24.22063pt too wide) in paragraph at lines 181--182
+\OT1//b/n/12 Node-RED beispiel-sweise un-terst^^?utzt in er-ster Linie die En-t
+wick-lung von IoT-Anwendungen.
+ []
+
+
+LaTeX Warning: Citation 'DiRuscio.2022' on page 9 undefined on input line 183.
 
 [9]
-
-LaTeX Warning: Citation 'Khorram.2020' on page 10 undefined on input line 238.
-
-
-LaTeX Warning: Citation 'Guerra.2020' on page 10 undefined on input line 242.
-
-
-LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 10 undefined on input line 2
-67.
-
-
-Overfull \hbox (33.17737pt too wide) in paragraph at lines 267--268
-[]\OT1/Times New Roman/b/n/12 F^^?unfundsechzig Prozent be-fragter Un-ternehmen
- nen-nen man-gel-nde tech-nis-che F^^?ahigkeiten
+Overfull \hbox (6.47488pt too wide) in paragraph at lines 185--186
+[]\OT1//b/n/12 Bei der Be-tra-ch-tung der typ-is-chen Schritte einer An-wen-dun
+gsen-twick-lung mit LCDPs
  []
 
 
-Overfull \hbox (19.71315pt too wide) in paragraph at lines 267--268
-\OT1/Times New Roman/b/n/12 oder Ken-nt-nisse als Her-aus-forderung in der dig-
-i-talen Trans-for-ma-tion. [[]] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 267--268
-
- []
-
-[10]
-
-LaTeX Font Warning: Font shape `OT1/Times New Roman/m/it' undefined
-(Font)              using `OT1/Times New Roman/m/n' instead on input line 269.
-
-
-LaTeX Warning: Citation 'DiRuscio.2022' on page 11 undefined on input line 269.
-
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 269--270
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
 
  []
 
 
-LaTeX Warning: Citation 'DiRuscio.2022' on page 11 undefined on input line 272.
-
-
-
-LaTeX Warning: Citation 'MichelleGardner.2022' on page 11 undefined on input li
-ne 274.
-
-
-LaTeX Warning: Citation 'OleksiiGlib.2022' on page 11 undefined on input line 2
-74.
-
-
-LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 11 undefined on input line 2
-81.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 281--282
-
- []
-
-
-LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 11 undefined on input line 2
-84.
-
-[11]
-
-LaTeX Warning: Citation 'Kaiser.2021' on page 12 undefined on input line 286.
-
-
-Overfull \hbox (3.49849pt too wide) in paragraph at lines 286--287
-\OT1/Times New Roman/b/n/12 Aufwand f^^?ur Codierung, Im-ple-men-tierung, In-st
-al-la-tion und Kon-fig-u-ra-tion [[]]. 
- []
-
-
-LaTeX Warning: Citation 'DiRuscio.2022' on page 12 undefined on input line 288.
-
-
-
-LaTeX Warning: Citation 'Microsoft.2023' on page 12 undefined on input line 290
-.
-
-
-LaTeX Warning: Citation 'Microsoft.2023' on page 12 undefined on input line 292
-.
-
-
-LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 12 undefined on input line 3
-00.
-
-
-LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 12 undefined on input line 3
+LaTeX Warning: Citation 'KevinShuler.2023' on page 10 undefined on input line 2
 02.
 
 
-LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 12 undefined on input line 3
-17.
-
-[12]
-
-LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 13 undefined on input line 3
-21.
-
-
-LaTeX Warning: Citation 'DiRuscio.2022' on page 13 undefined on input line 326.
-
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 337--338
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
 
  []
 
 
-LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 13 undefined on input line 3
-49.
+LaTeX Warning: Citation 'KevinShuler.2023' on page 10 undefined on input line 2
+08.
 
-[13] [14]
+[10]
 
-LaTeX Warning: Empty bibliography on input line 352.
+LaTeX Warning: Citation 'Alamin.2023' on page 11 undefined on input line 212.
+
+
+LaTeX Warning: Citation 'Alamin.2023' on page 11 undefined on input line 215.
+
+
+Overfull \hbox (14.65813pt too wide) in paragraph at lines 215--216
+\OT1//b/n/12 sive Berech-nun-gen auszuf^^?uhren und Big Data zu ver-wal-ten, di
+e mit ho-her Geschwindigkeit,
+ []
+
+
+LaTeX Warning: Citation 'Alamin.2023' on page 11 undefined on input line 218.
+
+
+LaTeX Warning: Citation 'Alamin.2023' on page 11 undefined on input line 222.
+
+
+LaTeX Warning: Citation 'Khorram.2020' on page 11 undefined on input line 225.
+
+[11]
+
+LaTeX Warning: Citation 'Alamin.2023' on page 12 undefined on input line 228.
+
+
+LaTeX Warning: Citation 'Bucaioni.2022' on page 12 undefined on input line 234.
+
+
+
+LaTeX Warning: Citation 'Bucaioni.2022' on page 12 undefined on input line 236.
+
+
+
+Overfull \hbox (15.42616pt too wide) in paragraph at lines 236--237
+\OT1//b/n/12 op-er-abilit^^?at (6,3%), Be-nutzer-fre-undlichkeit und Flex-i-bil
+it^^?at (jew-eils 5,4%) [[]]. 
+ []
+
+
+LaTeX Warning: Citation 'Bucaioni.2022' on page 12 undefined on input line 238.
+
+
+
+LaTeX Warning: Citation 'Mendix.2023' on page 12 undefined on input line 242.
+
+
+Overfull \hbox (4.64713pt too wide) in paragraph at lines 242--243
+\OT1//b/n/12 LCDPs un-terst^^?utzen das sichere In-te-gri-eren von Daten und Lo
+gik aus be-liebi-gen Quellen,
+ []
+
+[12]
+
+LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 13 undefined on input line 2
+47.
+
+
+Overfull \hbox (33.17737pt too wide) in paragraph at lines 247--248
+[]\OT1//b/n/12 F^^?unfundsechzig Prozent be-fragter Un-ternehmen nen-nen man-ge
+l-nde tech-nis-che F^^?ahigkeiten
+ []
+
+
+Overfull \hbox (17.53725pt too wide) in paragraph at lines 247--248
+\OT1//b/n/12 oder Ken-nt-nisse als Her-aus-forderung in der dig-i-talen Trans-f
+or-ma-tion [[]]. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--248
+
+ []
+
+
+LaTeX Font Warning: Font shape `OT1//m/it' undefined
+(Font)              using `OT1//m/n' instead on input line 249.
+
+
+LaTeX Warning: Citation 'DiRuscio.2022' on page 13 undefined on input line 249.
+
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
+
+ []
+
+
+LaTeX Warning: Citation 'DiRuscio.2022' on page 13 undefined on input line 252.
+
+
+[13]
+
+LaTeX Warning: Citation 'MichelleGardner.2022' on page 14 undefined on input li
+ne 254.
+
+
+LaTeX Warning: Citation 'OleksiiGlib.2022' on page 14 undefined on input line 2
+54.
+
+
+LaTeX Warning: Citation 'KevinShuler.2023' on page 14 undefined on input line 2
+56.
+
+
+Overfull \hbox (67.67006pt too wide) in paragraph at lines 256--257
+[]\OT1//b/n/12 In einer Um-frage von 2018 fand Mendix her-aus, dass 25% ihrer L
+ow-Code-Entwicklergemeinschaft
+ []
+
+
+LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 14 undefined on input line 2
+61.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--262
+
+ []
+
+
+LaTeX Warning: Citation 'KevinShuler.2023' on page 14 undefined on input line 2
+63.
+
+
+LaTeX Warning: Citation 'KevinShuler.2023' on page 14 undefined on input line 2
+65.
+
+
+LaTeX Warning: Citation 'KevinShuler.2023' on page 14 undefined on input line 2
+67.
+
+
+Overfull \hbox (56.28961pt too wide) in paragraph at lines 267--268
+\OT1//b/n/12 twick-lung, die auf einer Pro-gram-mier-sprache basiert, um 50 bis
+ 90% re-duzieren [[]]. 
+ []
+
+
+LaTeX Warning: Citation 'DiRuscio.2022' on page 14 undefined on input line 269.
+
+
+[14]
+
+LaTeX Warning: Citation 'Microsoft.2023' on page 15 undefined on input line 271
+.
+
+
+LaTeX Warning: Citation 'Microsoft.2023' on page 15 undefined on input line 273
+.
+
+
+LaTeX Warning: Citation 'Sanchis.2020b' on page 15 undefined on input line 276.
+
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
+
+ []
+
+
+LaTeX Warning: Citation 'Sanchis.2020b' on page 15 undefined on input line 278.
+
+
+
+LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 15 undefined on input line 2
+84.
+
+
+LaTeX Warning: Citation 'KevinShuler.2023' on page 15 undefined on input line 2
+86.
+
+
+Overfull \hbox (10.30814pt too wide) in paragraph at lines 286--287
+\OT1//b/n/12 gibt Teams, die diese Sicher-heits-ma^^Y-nah-men regelm^^?a^^Yig a
+k-tu-al-isieren, um sicherzustellen,
+ []
+
+
+LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 15 undefined on input line 2
+88.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+
+ []
+
+[15]
+
+LaTeX Warning: Citation 'Sanchis.2020b' on page 16 undefined on input line 290.
+
+
+
+LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 16 undefined on input line 2
+95.
+
+
+LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 16 undefined on input line 3
+01.
+
+
+Overfull \hbox (6.75543pt too wide) in paragraph at lines 300--302
+[]\OT1//b/n/12 Low-Code-Plattformen er-weit-ern Flex-i-bilit^^?at, Geschwindigk
+eit und Au-toma-tisierung.
+ []
+
+
+Overfull \hbox (0.5652pt too wide) in paragraph at lines 300--302
+\OT1//b/n/12 Vierund-sechzig Prozent der Un-ternehmen, die Low-Code f^^?ur Top-
+Anwendungen nutzen,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--302
+
+ []
+
+
+LaTeX Warning: Citation 'Sanchis.2020b' on page 16 undefined on input line 303.
+
+
+
+Overfull \hbox (4.73831pt too wide) in paragraph at lines 303--304
+\OT1//b/n/12 gesch^^?aftlichen An-forderun-gen zu gew^^?ahrleisten. Da Low-Code
+-Entwicklungsplattformen
+ []
+
+[16]
+
+LaTeX Warning: Citation 'DiRuscio.2022' on page 17 undefined on input line 306.
+
+
+
+LaTeX Warning: Citation 'KevinShuler.2023' on page 17 undefined on input line 3
+18.
+
+
+LaTeX Warning: Citation 'KevinShuler.2023' on page 17 undefined on input line 3
+19.
+
+
+Overfull \hbox (10.32343pt too wide) in paragraph at lines 317--320
+\OT1//b/n/12 ternehmen, agil zu sein, und dem Streben nach schlanken, ef-fizien
+-teren Gesch^^?aftssystemen
+ []
+
+
+LaTeX Warning: Citation 'KevinShuler.2023' on page 17 undefined on input line 3
+22.
+
+
+LaTeX Warning: Citation 'KevinShuler.2023' on page 17 undefined on input line 3
+24.
+
+
+Overfull \hbox (4.38182pt too wide) in paragraph at lines 326--327
+\OT1//b/n/12 82% der Un-ternehmen an, dass die App-Entwicklung au^^Yer-halb der
+ IT-Abteilung wichtig
+ []
+
+[17]
+
+LaTeX Warning: Citation 'KevinShuler.2023' on page 18 undefined on input line 3
+28.
+
+
+LaTeX Warning: Citation 'KevinShuler.2023' on page 18 undefined on input line 3
+30.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+
+ []
+
+
+LaTeX Warning: Citation 'KevinShuler.2023' on page 18 undefined on input line 3
+32.
+
+
+Overfull \hbox (26.33856pt too wide) in paragraph at lines 332--333
+[]\OT1//b/n/12 Laut der Gartner-Umfrage haben 4% der Be-fragten derzeit B^^?urg
+erentwicklungsinitiativen
+ []
+
+
+Overfull \hbox (5.75682pt too wide) in paragraph at lines 332--333
+\OT1//b/n/12 Sys-teme und dem Bekan-ntwer-den ihrer Vorteile bei En-twick-lern 
+und IT-F^^?uhrungskr^^?aften
+ []
+
+
+Overfull \hbox (20.44832pt too wide) in paragraph at lines 332--333
+\OT1//b/n/12 wird der Druck auf die Un-ternehmen steigen, diese Sys-teme einzuf
+^^?uhren [[]]. 
+ []
+
+
+LaTeX Warning: Citation 'KevinShuler.2023' on page 18 undefined on input line 3
+34.
+
+
+LaTeX Warning: Citation 'KevinShuler.2023' on page 18 undefined on input line 3
+36.
+
+
+Overfull \hbox (9.01602pt too wide) in paragraph at lines 336--337
+\OT1//b/n/12 im-mer noch 20%, die dies nicht tun. Weltweit liegt diese Zahl bei
+ 23% [[]]. 
+ []
+
+
+LaTeX Warning: Citation 'KevinShuler.2023' on page 18 undefined on input line 3
+38.
+
+
+Overfull \hbox (19.30804pt too wide) in paragraph at lines 338--339
+\OT1//b/n/12 ihrer hochw-er-tig-sten An-wen-dun-gen damit en-twick-elt oder ber
+e-it-gestellt [[]]. 
+ []
+
+
+LaTeX Warning: Citation 'Microsoft.2022' on page 18 undefined on input line 344
+.
+
+
+LaTeX Warning: Citation 'Microsoft.2022' on page 18 undefined on input line 344
+.
+
+
+Overfull \hbox (22.72887pt too wide) in paragraph at lines 344--345
+\OT1//b/n/12 und 150 Entschei-dungstr^^?agern in Un-ternehmen, die bere-its Low
+ Code/No Code-Plattformen
+ []
+
+[18]
+
+LaTeX Warning: Citation 'Microsoft.2022' on page 19 undefined on input line 346
+.
+
+
+Overfull \hbox (21.15758pt too wide) in paragraph at lines 346--347
+\OT1//b/n/12 als Hin-der-nis. Entschei-dungstr^^?ager dessen wis-sen am ehesten
+, wie der Entschei-dungsprozess
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
+
+ []
+
+[19]
+
+LaTeX Warning: Empty bibliography on input line 360.
 
 (Low_Code_Sonja_Klein.aux)
 
@@ -798,18 +1080,18 @@ Package logreq Info: Writing requests to 'Low_Code_Sonja_Klein.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  9383 strings out of 478582
- 183261 string characters out of 2844344
- 895399 words of memory out of 3000000
- 27528 multiletter control sequences out of 15000+600000
+ 182994 string characters out of 2844344
+ 895467 words of memory out of 3000000
+ 27529 multiletter control sequences out of 15000+600000
  473506 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,68p,840b,1136s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 60i,6n,68p,1391b,1136s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/sonja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmr12.pfb><C:/Users/sonja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmr17.pfb>
-Output written on Low_Code_Sonja_Klein.pdf (14 pages, 71702 bytes).
+Output written on Low_Code_Sonja_Klein.pdf (19 pages, 86172 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
+ 74 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
