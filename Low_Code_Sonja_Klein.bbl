@@ -1,0 +1,646 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Alamin.2023}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=8f84c9d483262667eb76117af15f5e6f}{%
+           family={Alamin},
+           familyi={A\bibinitperiod},
+           given={Md\bibnamedelima Abdullah\bibnamedelima Al},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f5e4409c1d71ea22f688b495eae95521}{%
+           family={Uddin},
+           familyi={U\bibinitperiod},
+           given={Gias},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1732dd1bb897c6eacc698545ce053311}{%
+           family={Malakar},
+           familyi={M\bibinitperiod},
+           given={Sanjay},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c8de8a16d06d1bb2ed2c8ae700365b1}{%
+           family={Afroz},
+           familyi={A\bibinitperiod},
+           given={Sadia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28e121186ef2e36df8a220e621b664df}{%
+           family={Haider},
+           familyi={H\bibinitperiod},
+           given={Tameem},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c989b9ca434e1128132d867dcad0d23e}{%
+           family={Iqbal},
+           familyi={I\bibinitperiod},
+           given={Anindya},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{69af2d2cf4b2865ce058f0f5ab138946}
+      \strng{fullhash}{9db0223ae2d58edb12dd8f2b6142d039}
+      \strng{bibnamehash}{69af2d2cf4b2865ce058f0f5ab138946}
+      \strng{authorbibnamehash}{69af2d2cf4b2865ce058f0f5ab138946}
+      \strng{authornamehash}{69af2d2cf4b2865ce058f0f5ab138946}
+      \strng{authorfullhash}{9db0223ae2d58edb12dd8f2b6142d039}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Low-code software development (LCSD) is an emerging approach to democratize application development for software practitioners from diverse backgrounds. LCSD platforms promote rapid application development with a drag-and-drop interface and minimal programming by hand. As it is a relatively new paradigm, it is vital to study developers' difficulties when adopting LCSD platforms. Software engineers frequently use the online developer forum Stack Overflow (SO) to seek assistance with technical issues. We observe a growing body of LCSD-related posts in SO. This paper presents an empirical study of around 33K SO posts (questions + accepted answers) containing discussions of 38 popular LCSD platforms. We use Topic Modeling to determine the topics discussed in those posts. Additionally, we examine how these topics are spread across the various phases of the agile software development life cycle (SDLC) and which part of LCSD is the most popular and challenging. Our study offers several interesting findings. First, we find 40 LCSD topics that we group into five categories: Application Customization, Database and File Management, Platform Adoption, Platform Maintenance, and Third-party API Integration. Second, while the Application Customization (30{\%}) and Data Storage (25{\%}) topic categories are the most common, inquiries relating to several other categories (e.g., the Platform Adoption topic category) have gained considerable attention in recent years. Third, all topic categories are evolving rapidly, especially during the Covid-19 pandemic. Fourth, the How-type questions are prevalent in all topics, but the What-type and Why-type (i.e., detail information for clarification) questions are more prevalent in the Platform Adoption and Platform Maintenance category. Fifth, LCSD practitioners find topics related to Platform Query the most popular, while topics related to Message Queue and Library Dependency Management as the most difficult to get accepted answers to. Sixth, the Why-type and What-type questions and Agile Maintenance and Deployment phase are the most challenging among practitioners. The findings of this study have implications for all three LCSD stakeholders: LCSD platform vendors, LCSD developers/practitioners, Researchers, and Educators. Researchers and LCSD platform vendors can collaborate to improve different aspects of LCSD, such as better tutorial-based documentation, testing, and DevOps support.}
+      \field{journaltitle}{Empirical software engineering}
+      \field{note}{Journal Article}
+      \field{number}{1}
+      \field{pagination}{page}
+      \field{title}{Developer discussion topics on the adoption and barriers of low code software development platforms}
+      \field{volume}{28}
+      \field{year}{2023}
+      \field{pages}{4}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s10664-022-10244-0
+      \endverb
+      \verb{eprint}
+      \verb 36407813
+      \endverb
+    \endentry
+    \entry{AmyGlasscock.2021}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8ca28f080567136b9db7f0684dae11f7}{%
+           family={{Amy Glasscock}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=487f6eaab6bf367a6cc8adfc06e2afb6}{%
+           family={NASCIO},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{8ca28f080567136b9db7f0684dae11f7}
+      \strng{fullhash}{8ca28f080567136b9db7f0684dae11f7}
+      \strng{bibnamehash}{8ca28f080567136b9db7f0684dae11f7}
+      \strng{authorbibnamehash}{8ca28f080567136b9db7f0684dae11f7}
+      \strng{authornamehash}{8ca28f080567136b9db7f0684dae11f7}
+      \strng{authorfullhash}{8ca28f080567136b9db7f0684dae11f7}
+      \strng{editorbibnamehash}{487f6eaab6bf367a6cc8adfc06e2afb6}
+      \strng{editornamehash}{487f6eaab6bf367a6cc8adfc06e2afb6}
+      \strng{editorfullhash}{487f6eaab6bf367a6cc8adfc06e2afb6}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Why State CIOs are Turning to Low-Code and No-Code Software Development}
+      \field{title}{The need for speed}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://uidl.naswa.org/handle/20.500.11941/4392
+      \endverb
+      \verb{url}
+      \verb https://uidl.naswa.org/handle/20.500.11941/4392
+      \endverb
+    \endentry
+    \entry{Bucaioni.2022}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7509fbaadaebbfa90926b16d2f9e3671}{%
+           family={Bucaioni},
+           familyi={B\bibinitperiod},
+           given={Alessio},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=714fb57ca0e3b3672f6f8c7130b05136}{%
+           family={Cicchetti},
+           familyi={C\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=35a9bb6983bbaa9de4c2f261ac007d1b}{%
+           family={Ciccozzi},
+           familyi={C\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{203c8ba293796e66f240279c189ab2e4}
+      \strng{fullhash}{203c8ba293796e66f240279c189ab2e4}
+      \strng{bibnamehash}{203c8ba293796e66f240279c189ab2e4}
+      \strng{authorbibnamehash}{203c8ba293796e66f240279c189ab2e4}
+      \strng{authornamehash}{203c8ba293796e66f240279c189ab2e4}
+      \strng{authorfullhash}{203c8ba293796e66f240279c189ab2e4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1619-1366}
+      \field{journaltitle}{Software and Systems Modeling}
+      \field{note}{PII: 964}
+      \field{number}{5}
+      \field{pagination}{page}
+      \field{shortjournal}{Softw Syst Model}
+      \field{title}{Modelling in low-code development: a multi-vocal systematic review}
+      \field{volume}{21}
+      \field{year}{2022}
+      \field{pages}{1959\bibrangedash 1981}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1007/s10270-021-00964-0
+      \endverb
+    \endentry
+    \entry{DiRuscio.2022}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=4f89e18da939d2df2931b7fb2951afb5}{%
+           family={{Di Ruscio}},
+           familyi={D\bibinitperiod},
+           given={Davide},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e35258e227539c30deef93a12388c71}{%
+           family={Kolovos},
+           familyi={K\bibinitperiod},
+           given={Dimitris},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea78ad6d206c269cbc42896d09b60fe2}{%
+           family={Lara},
+           familyi={L\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=76f850a0f4b3f0c880e4fded7c881870}{%
+           family={Pierantonio},
+           familyi={P\bibinitperiod},
+           given={Alfonso},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=27a3be36a6076dbe3484c719bc0787fb}{%
+           family={Tisi},
+           familyi={T\bibinitperiod},
+           given={Massimo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=515762f385a3afa5b8d98ae225c0daf3}{%
+           family={Wimmer},
+           familyi={W\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{236270e602e66874c131746f561e14cb}
+      \strng{fullhash}{9e657c0131bcba4bf2eebf54f6db4b0a}
+      \strng{bibnamehash}{236270e602e66874c131746f561e14cb}
+      \strng{authorbibnamehash}{236270e602e66874c131746f561e14cb}
+      \strng{authornamehash}{236270e602e66874c131746f561e14cb}
+      \strng{authorfullhash}{9e657c0131bcba4bf2eebf54f6db4b0a}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1619-1366}
+      \field{journaltitle}{Software and Systems Modeling}
+      \field{note}{PII: 970}
+      \field{number}{2}
+      \field{pagination}{page}
+      \field{shortjournal}{Softw Syst Model}
+      \field{title}{Low-code development and model-driven engineering: Two sides of the same coin?}
+      \field{volume}{21}
+      \field{year}{2022}
+      \field{pages}{437\bibrangedash 446}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1007/s10270-021-00970-2
+      \endverb
+    \endentry
+    \entry{EmmaVanPelt.2019}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4de4790c924ecab51d11b2d49eef3fc8}{%
+           family={{Emma Van Pelt}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=119775a99e04ee0600fec6684856d2ef}{%
+           family={Forrester},
+           familyi={F\bibinitperiod}}}%
+      }
+      \name{editora}{1}{}{%
+        {{hash=a25eeca4dcbd00ec1538cd6b341326a9}{%
+           family={{Forrester's Application Development {\&} Delivery research group}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{4de4790c924ecab51d11b2d49eef3fc8}
+      \strng{fullhash}{4de4790c924ecab51d11b2d49eef3fc8}
+      \strng{bibnamehash}{4de4790c924ecab51d11b2d49eef3fc8}
+      \strng{authorbibnamehash}{4de4790c924ecab51d11b2d49eef3fc8}
+      \strng{authornamehash}{4de4790c924ecab51d11b2d49eef3fc8}
+      \strng{authorfullhash}{4de4790c924ecab51d11b2d49eef3fc8}
+      \strng{editorbibnamehash}{119775a99e04ee0600fec6684856d2ef}
+      \strng{editornamehash}{119775a99e04ee0600fec6684856d2ef}
+      \strng{editorfullhash}{119775a99e04ee0600fec6684856d2ef}
+      \strng{editorabibnamehash}{a25eeca4dcbd00ec1538cd6b341326a9}
+      \strng{editoranamehash}{a25eeca4dcbd00ec1538cd6b341326a9}
+      \strng{editorafullhash}{a25eeca4dcbd00ec1538cd6b341326a9}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{editoratype}{collaborator}
+      \field{subtitle}{How To Recognize Low-Code Platforms Built For The Most Demanding Applications}
+      \field{title}{Large Enterprises Succeeding With Low-Code}
+      \field{year}{2019}
+    \endentry
+    \entry{KevinShuler.2023}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b850775ad76eef66f37530dd018a1311}{%
+           family={{Kevin Shuler}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=0d230b7867ecbe94693caa938cbc26e8}{%
+           family={{Quandary Consulting Group}},
+           familyi={Q\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Quandary}%
+      }
+      \strng{namehash}{b850775ad76eef66f37530dd018a1311}
+      \strng{fullhash}{b850775ad76eef66f37530dd018a1311}
+      \strng{bibnamehash}{b850775ad76eef66f37530dd018a1311}
+      \strng{authorbibnamehash}{b850775ad76eef66f37530dd018a1311}
+      \strng{authornamehash}{b850775ad76eef66f37530dd018a1311}
+      \strng{authorfullhash}{b850775ad76eef66f37530dd018a1311}
+      \strng{editorbibnamehash}{0d230b7867ecbe94693caa938cbc26e8}
+      \strng{editornamehash}{0d230b7867ecbe94693caa938cbc26e8}
+      \strng{editorfullhash}{0d230b7867ecbe94693caa938cbc26e8}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{56+ Critical Low-Code Statistics to Review for 2023}
+      \field{urlday}{7}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://quandarycg.com/low-code-statistics/
+      \endverb
+      \verb{url}
+      \verb https://quandarycg.com/low-code-statistics/
+      \endverb
+    \endentry
+    \entry{Khorram.2020}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=33305fccfce903ac011cbeea99710079}{%
+           family={Khorram},
+           familyi={K\bibinitperiod},
+           given={Faezeh},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e8592edb55d6e91a5e6095f25ef238c4}{%
+           family={Mottu},
+           familyi={M\bibinitperiod},
+           given={Jean-Marie},
+           giveni={J\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4dca062d611abceddc52156c8f998e29}{%
+           family={Sunyé},
+           familyi={S\bibinitperiod},
+           given={Gerson},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=0f42df77be43843c597b5363ebf82212}{%
+           family={Guerra},
+           familyi={G\bibinitperiod},
+           given={Esther},
+           giveni={E\bibinitperiod}}}%
+        {{hash=46b9b518f8aba8994f739e2d3154de1e}{%
+           family={Iovino},
+           familyi={I\bibinitperiod},
+           given={Ludovico},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{209bf11f0374f667020c47cf63779921}
+      \strng{fullhash}{209bf11f0374f667020c47cf63779921}
+      \strng{bibnamehash}{209bf11f0374f667020c47cf63779921}
+      \strng{authorbibnamehash}{209bf11f0374f667020c47cf63779921}
+      \strng{authornamehash}{209bf11f0374f667020c47cf63779921}
+      \strng{authorfullhash}{209bf11f0374f667020c47cf63779921}
+      \strng{editorbibnamehash}{12333a8bb2d6f85a317241a8043cf660}
+      \strng{editornamehash}{12333a8bb2d6f85a317241a8043cf660}
+      \strng{editorfullhash}{12333a8bb2d6f85a317241a8043cf660}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{bookpagination}{page}
+      \field{booktitle}{Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings}
+      \field{eventtitle}{MODELS '20: ACM/IEEE 23rd International Conference on Model Driven Engineering Languages and Systems}
+      \field{isbn}{9781450381352}
+      \field{title}{Challenges {\&} opportunities in low-code testing}
+      \field{venue}{Virtual Event Canada}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/3417990.3420204
+      \endverb
+      \warn{\item Entry 'Khorram.2020' (LowCodeCitavi.bib): Invalid format '16 10 2020 23 10 2020' of date field 'eventdate' - ignoring}
+    \endentry
+    \entry{Mendix.2023}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0898fce97c9ce8190ba32844bf6c9382}{%
+           family={Mendix},
+           familyi={M\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=0898fce97c9ce8190ba32844bf6c9382}{%
+           family={Mendix},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{0898fce97c9ce8190ba32844bf6c9382}
+      \strng{fullhash}{0898fce97c9ce8190ba32844bf6c9382}
+      \strng{bibnamehash}{0898fce97c9ce8190ba32844bf6c9382}
+      \strng{authorbibnamehash}{0898fce97c9ce8190ba32844bf6c9382}
+      \strng{authornamehash}{0898fce97c9ce8190ba32844bf6c9382}
+      \strng{authorfullhash}{0898fce97c9ce8190ba32844bf6c9382}
+      \strng{editorbibnamehash}{0898fce97c9ce8190ba32844bf6c9382}
+      \strng{editornamehash}{0898fce97c9ce8190ba32844bf6c9382}
+      \strng{editorfullhash}{0898fce97c9ce8190ba32844bf6c9382}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Definitive Guide to Low-Code Development}
+      \field{urlday}{26}
+      \field{urlmonth}{1}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.mendix.com/low-code-guide/#lowcode-features-and-benefits
+      \endverb
+      \verb{url}
+      \verb https://www.mendix.com/low-code-guide/#lowcode-features-and-benefits
+      \endverb
+    \endentry
+    \entry{MichelleGardner.2022}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee8e734843514a1cf371aeb8b7abf78b}{%
+           family={{Michelle Gardner}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Appian}%
+      }
+      \strng{namehash}{ee8e734843514a1cf371aeb8b7abf78b}
+      \strng{fullhash}{ee8e734843514a1cf371aeb8b7abf78b}
+      \strng{bibnamehash}{ee8e734843514a1cf371aeb8b7abf78b}
+      \strng{authorbibnamehash}{ee8e734843514a1cf371aeb8b7abf78b}
+      \strng{authornamehash}{ee8e734843514a1cf371aeb8b7abf78b}
+      \strng{authorfullhash}{ee8e734843514a1cf371aeb8b7abf78b}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Differences, Similarities, and How to Choose}
+      \field{title}{What Is Low-code vs. No-code?}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://lowcode.com/articles/low-code-vs--no-code--the-differences--similarities--and-how-to-.html
+      \endverb
+      \verb{url}
+      \verb https://lowcode.com/articles/low-code-vs--no-code--the-differences--similarities--and-how-to-.html
+      \endverb
+    \endentry
+    \entry{Microsoft.2023}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Microsoft}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{editorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{editornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{editorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Learn about low-code development and the differences between low-code and no-code platforms.}
+      \field{title}{Low-code vs. no-code app development}
+      \field{urlday}{25}
+      \field{urlmonth}{1}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://powerapps.microsoft.com/en-us/low-code-no-code-development-platforms/
+      \endverb
+      \verb{url}
+      \verb https://powerapps.microsoft.com/en-us/low-code-no-code-development-platforms/
+      \endverb
+    \endentry
+    \entry{OleksiiGlib.2022}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6d786f2547cbefde0a5d381e735b2ba0}{%
+           family={{Oleksii Glib}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=2c7e32f53b5639f6a2df5de52f2e5116}{%
+           family={Acropolium},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{6d786f2547cbefde0a5d381e735b2ba0}
+      \strng{fullhash}{6d786f2547cbefde0a5d381e735b2ba0}
+      \strng{bibnamehash}{6d786f2547cbefde0a5d381e735b2ba0}
+      \strng{authorbibnamehash}{6d786f2547cbefde0a5d381e735b2ba0}
+      \strng{authornamehash}{6d786f2547cbefde0a5d381e735b2ba0}
+      \strng{authorfullhash}{6d786f2547cbefde0a5d381e735b2ba0}
+      \strng{editorbibnamehash}{2c7e32f53b5639f6a2df5de52f2e5116}
+      \strng{editornamehash}{2c7e32f53b5639f6a2df5de52f2e5116}
+      \strng{editorfullhash}{2c7e32f53b5639f6a2df5de52f2e5116}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{BUILDING AN MVP WITH A LOW-CODE APPROACH: PROS, CONS, GUIDE}
+      \field{urlday}{25}
+      \field{urlmonth}{1}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://acropolium.com/blog/low-code-mvp/
+      \endverb
+      \verb{url}
+      \verb https://acropolium.com/blog/low-code-mvp/
+      \endverb
+    \endentry
+    \entry{Microsoft.2022}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ed72af092b884342cc1ead01e1f6aaa7}{%
+           family={{Richard Riley}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Microsoft}%
+      }
+      \list{organization}{1}{%
+        {Microsoft}%
+      }
+      \strng{namehash}{ed72af092b884342cc1ead01e1f6aaa7}
+      \strng{fullhash}{ed72af092b884342cc1ead01e1f6aaa7}
+      \strng{bibnamehash}{ed72af092b884342cc1ead01e1f6aaa7}
+      \strng{authorbibnamehash}{ed72af092b884342cc1ead01e1f6aaa7}
+      \strng{authornamehash}{ed72af092b884342cc1ead01e1f6aaa7}
+      \strng{authorfullhash}{ed72af092b884342cc1ead01e1f6aaa7}
+      \strng{editorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{editornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{editorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Low-Code Trend Report 2022: Building a learning culture on a low-code platform}
+      \field{urlday}{7}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://cloudblogs.microsoft.com/powerplatform/2022/05/24/low-code-trend-report-2022-building-a-learning-culture-on-a-low-code-platform/
+      \endverb
+      \verb{url}
+      \verb https://cloudblogs.microsoft.com/powerplatform/2022/05/24/low-code-trend-report-2022-building-a-learning-culture-on-a-low-code-platform/
+      \endverb
+    \endentry
+    \entry{Sanchis.2020b}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=51806f1e05030b6d6bebf4eb2837634f}{%
+           family={Sanchis},
+           familyi={S\bibinitperiod},
+           given={Raquel},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0d9e29bca2f36c75d93152aac105eb0f}{%
+           family={García-Perales},
+           familyi={G\bibinithyphendelim P\bibinitperiod},
+           given={Óscar},
+           giveni={Ó\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9570014452598478b49a43878ee48a6}{%
+           family={Fraile},
+           familyi={F\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9ec5d810d4b67b9286d240a3ced6a58}{%
+           family={Poler},
+           familyi={P\bibinitperiod},
+           given={Raul},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9f7f6604671c14b4c212add948569c59}
+      \strng{fullhash}{89bc95948dbfba035a2e5f93932271fb}
+      \strng{bibnamehash}{9f7f6604671c14b4c212add948569c59}
+      \strng{authorbibnamehash}{9f7f6604671c14b4c212add948569c59}
+      \strng{authornamehash}{9f7f6604671c14b4c212add948569c59}
+      \strng{authorfullhash}{89bc95948dbfba035a2e5f93932271fb}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{PII: app10010012}
+      \field{number}{1}
+      \field{pagination}{page}
+      \field{title}{Low-Code as Enabler of Digital Transformation in Manufacturing Industry}
+      \field{volume}{10}
+      \field{year}{2020}
+      \field{pages}{12}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/app10010012
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

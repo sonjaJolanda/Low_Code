@@ -1,15 +1,17 @@
 \documentclass[12pt]{article} % Schriftgröße 12
 \usepackage[a4paper, left=3cm, right=2.5cm, top=2cm]{geometry} % Randbreite
 \usepackage[onehalfspacing]{setspace} % Zeilenabstand  1,5x
-\renewcommand{\familydefault}{} % Arial oder Times New Roman
 
 \renewcommand*\contentsname{Inhalt}
-
-\usepackage[backend=biber]{biblatex}
 \usepackage{enumitem}
-\addbibresource{Low_Code_Citavi.bib}
 
-\title{Werden sich Low-Code Development Platforms durchsetzen?}
+\renewcommand{\familydefault}{} % Arial oder Times New Roman
+
+\usepackage[backend=biber, style=authoryear]{biblatex}
+\renewcommand*{\nameyeardelim}{\addcomma\addspace}
+\addbibresource{LowCodeCitavi.bib}
+
+\title{Werden sich Low-Code Development Plattformen durchsetzen?}
 \author{Sonja Klein}
 \date{25.01.2023}
 
@@ -17,20 +19,10 @@
 \begin{document}
 	
 	%Tips:
-	%++++++++ no lonely subsections
-	%++++++++ Gliederungspunkte müssen zum übergeordneten Punkt gehören. Sie müssen zu den anderen Punkte in gleicher Rangfolge stehen.
-	%++++++++ Struktur vom allgemeinen ins Spezielle
-	
-	%++++++++ Zitieren nur mir Autor/Jahreszahl (bei direkten Zitaten auch Seitenzahl)
 	%++++++++ Beispiel Zitieren: Damit das gewünschte Verhalten erreicht wird, muss bei der angesprochene Person sowohl der Wille als auch das Können vorhanden sein (Comelli und van Rosenstiel, 2011).
 	
 	%++++++++ Absatzlayout: Blocksatz, Einheitlicher Abstand nach Absätzen 
-	
-	%-------------------------------------------------------------------------------------
-	%- Keine inhaltlichen Wiederholungen
-	%- Wörtliche Zitate vermeiden
-	%- Keine Titel von Autoren (Prof., Dr.,…) mit angeben
-	
+
 	%--CHECKLISTE--------------------------------------------------------------------------
 	%- deutliche Fragestellung (3,0 | 2,5)
 	%- Vorgehen deutlich (3,0 | 2,5)
@@ -56,13 +48,13 @@
 	\newpage
 	
 	\section{Einleitung}
-	Low Code erlebte einen Aufschwung während der Pandemie. Neben Teams und Zoom wuchs auch die Relevanz von Low-Code Development Plattformen. Die außergewöhnlichen Umstände brachten noch nie dagewesene und dringende Herausforderungen mit sich und Low-Code-Lösungen waren oftmals die Antwort auf diese. Corona-Testzentren brauchten beispielsweise innerhalb kürzester Zeit Terminportale und mit Low-Code konnten diese in bis zu zwei Tagen entwickelt werden \cite{AmyGlasscock.2021}. \newline 
+	Low Code erlebte einen Aufschwung während der Pandemie. Neben Teams und Zoom wuchs auch die Relevanz von Low-Code Development Plattformen. Die außergewöhnlichen Umstände brachten noch nie dagewesene und dringende Herausforderungen mit sich und Low-Code-Lösungen waren oftmals die Antwort auf diese. Corona-Testzentren brauchten beispielsweise innerhalb kürzester Zeit Terminportale und mit Low-Code konnten diese in bis zu zwei Tagen entwickelt werden \autocite{AmyGlasscock.2021}. \newline 
 	
-	LC/NC gewann also immer mehr an Bedeutung. Das wird auch in einer staatlichen Umfrage von NASCIO deutlich. 2020 und 2021 wurden CIOs gefragt, welche neue Technologie ihrer Meinung nach in den nächsten 3 bis 5 Jahren die größte Bedeutung haben wird. Während 2020 LC/NC noch auf dem zweiten Platz mit 33\%, direkt hinter AI (Künstlicher Intelligenz, RPA, ...) mit 61\% lag, teilte LC/NC sich 2021 schon den ersten Platz mit 31\%. AI machte in diesem Jahr nur noch 30\% aus \cite{AmyGlasscock.2021}.
+	LC/NC gewann also immer mehr an Bedeutung. Das wird auch in einer staatlichen Umfrage von NASCIO deutlich. 2020 und 2021 wurden CIOs gefragt, welche neue Technologie ihrer Meinung nach in den nächsten 3 bis 5 Jahren die größte Bedeutung haben wird. Während 2020 LC/NC noch auf dem zweiten Platz mit 33\%, direkt hinter AI (Künstlicher Intelligenz, RPA, ...) mit 61\% lag, teilte LC/NC sich 2021 schon den ersten Platz mit 31\%. AI machte in diesem Jahr nur noch 30\% aus \autocite{AmyGlasscock.2021}.
 	
 	\subsection{Relevanz und Ziel der Arbeit}	
 	Diese Hausarbeit befasst sich deshalb mit folgender Fragestellung:\newline
-			Werden sich Low-Code Development Platforms durchsetzen? \newline
+			Werden sich Low-Code Development Plattformen durchsetzen? \newline
 			
 	Das Gebiet der Low Code Entwicklung ist vergleichsweise noch recht neu. Aus diesem Grund bietet diese Hausarbeit zu Beginn eine Einführung in die Thematik. Dies ermöglicht dem Leser einen leichten Einstieg. Im Laufe der Arbeit soll sich für den Leser herauskristallisieren, ob das Entwickeln mit Low Code Development Plattformen sich in der Zukunft durchsetzen wird. \newline
 	
@@ -70,12 +62,12 @@
 	\setlist{nolistsep}
 	\begin{enumerate}[label=(\roman*)]
 		\setlength{\itemsep}{1pt}
-		\item Was sind Low Code Development Platforms? 
-		\item Wie lässt sich der Begriff von den Begriffen High-Code- und No-Code-Development-Plattforms abgrenzen?
-		\item Welche Use Cases für Low Code Development Platforms gibt es? 
+		\item Was sind Low Code Development Plattformen? 
+		\item Wie lässt sich der Begriff von den Begriffen High-Code- und No-Code-Development-Plattformen abgrenzen?
+		\item Welche Use Cases für Low Code Development Plattformen gibt es? 
 		\item Welche Low Code Development Plattformen werden in der Praxis genutzt?
-		\item Was sind die Nachteile des Entwickelns mit Low Code Development Platforms? 
-		\item Was sind die Vorteile des Entwickeln mit Low Code Development Platforms? 
+		\item Was sind die Nachteile des Entwickelns mit Low Code Development Plattformen? 
+		\item Was sind die Vorteile des Entwickeln mit Low Code Development Plattformen? 
 		\item In welchem Ausmaß wird die Nutzung von LCDPs in der Zukunft prognostiziert?	
 	\end{enumerate}
 
@@ -83,108 +75,108 @@
 	
 	\subsection{Methodik}
 	Zur Beantwortung der Fragestellung wird die Methodik der Literaturrecherche verwendet. Hierbei liegt der Fokus auf folgenden Begrifflichkeiten:
-	"Low Code" und "Low Code Development Platforms", "No Code“ und "No Code Development Plaforms". 
+	"Low Code" und "Low Code Development Platforms", "No Code“ und "No Code Development Platforms". 
 	Um ein allgemeines Bild über die Thematik zu schaffen, waren erste Anlaufstellen für Quellen das WorldWideWeb und YouTube. \newline
 	
-	Auf Grundlage dessen wurde nach passender Literatur gesucht. In den online-Bibliotheken der Hochschule für Technik, Wirtschaft und Gestaltung Konstanz und in der Universität Konstanz (KonSearch) zum Thema Low Code war die Suche nur wenige relevante Treffer. Die Vorwärts- und Rückwärtssuche in Google Scholar, SpringerLink und AISnet.org brachten jedoch einige relevante Quellen. 
+	Auf Grundlage dessen wurde nach passender Literatur gesucht. In den online-Bibliotheken der Hochschule für Technik, Wirtschaft und Gestaltung Konstanz und in der Universität Konstanz (KonSearch) zum Thema Low Code ergab die Suche nur wenige relevante Treffer. Die Vorwärts- und Rückwärts-Suche in Google Scholar, SpringerLink und AISnet.org brachten jedoch einige relevante Quellen. 
 	
 	Außerdem wurde während der Ausarbeitung mit weiteren Phrasen wie "Low Code Security", "Low Code for Legacy Code", "Low Code for MVP", etc. gesucht. \newline 
 	 
 	Neben wissenschaftlichen Veröffentlichungen wurde außerdem auch auf Internetdokumente zurückgegriffen. Dabei wurde auf die Auswahl der richtigen Quelle geachtet.
 	
 	\subsection{Aufbau der Arbeit}
-	Die vorliegende Arbeit ist in fünf Kapitel untergliedert. Im aktuellen Kapitel wird dem Leser zunächst die Struktur, der Ablauf, das Verfahren sowie die Wichtigkeit dieser Hausarbeit erläutert. \newline
+	Die vorliegende Arbeit ist in fünf Kapitel untergliedert. Im aktuellen Abschnitt wird dem Leser zunächst die Struktur, der Ablauf, das Verfahren sowie die Wichtigkeit dieser Hausarbeit erläutert. \newline
 	
-	Im zweiten Kapitel wird durch eine kurze Beschreibung des Aufkommens von Low Code Development Platforms an das Thema heran geführt. Anschließend wird mit der Erklärung von Use Cases und darauf folgend Beispielen von Low Code Development Plattformen ein Verständnis der aktuellen Situation geschaffen. \newline
+	Im zweiten Kapitel wird durch eine kurze Beschreibung des Aufkommens von Low Code Development Plattformen an eine Begriffsdefinition heran geführt. Anschließend wird mit der Erklärung von Use Cases und darauf folgend Beispielen von Low Code Development Plattformen ein Verständnis der aktuellen Lage in der Industrie geschaffen. \newline
 	
-	Das dritte Kapitel informiert dem Leser über mögliche Nachteile die das Entwickeln mit diesen Plattformen mit sich bringt. 
+	Das dritte Kapitel informiert den Leser über mögliche Nachteile die das Entwickeln mit diesen Plattformen mit sich bringt. 
 	Die Vorteile des Entwickelns mit Hilfe von Low Code Plattformen werden im vierten Kapitel beleuchtet. \newline
 	
-	Den Abschluss der Arbeit umfasst ein Fazit, welches die Beantwortung der Leitfrage "Werden sich Low-Code Development Platforms durchsetzen?" als Aufgabe hat. 
+	Den Abschluss der Arbeit umfasst ein Fazit, welches die Beantwortung der Leitfrage "Werden sich Low Code Development Plattformen durchsetzen?" als Aufgabe hat. 
 	
 	\section{Was sind LCDP?}
-	In diesem Kapitel wird zunächst kurz auf das Aufkommen von Low Code Entwicklungsplattformen eingegangen. Daraufhin wird der Begriff von den Termini High-Code- und No-Code-Development-Plattforms abgegrenzt. Um dem Leser einen Einblick über die aktuelle Situation zu schaffen werden als nächstes einige Use Cases für diese Plattformen erklärt und darauf hin Real-Welt Beispiele genannt. 
+	In diesem Kapitel wird zunächst kurz auf das Aufkommen von Low Code Entwicklungsplattformen eingegangen. Daraufhin wird der Begriff von den Termini High-Code- und No-Code-Development-Plattformen abgegrenzt. Um dem Leser einen Einblick über die aktuelle Situation zu schaffen werden als nächstes einige Use Cases für diese Plattformen erklärt und darauf hin Real-Welt Beispiele genannt. 
 	
 	\subsection{Aufkommen und Definition}		
-	In den vergangenen Jahrzehnten gab es einige Branchentrends, die darauf abzielten, die Menge an handgeschriebenem Code zu reduzieren, der für die Erstellung von Software erforderlich ist \cite{DiRuscio.2022}. \newline
+	In den vergangenen Jahrzehnten gab es einige Branchentrends, die darauf abzielten, die Menge an handgeschriebenem Code zu reduzieren, der für die Erstellung von Software erforderlich ist \autocite{DiRuscio.2022}. \newline
 	
 	Die erstmalige Verwendung des Begriffs Low-Code geht auf das Marktanalyseunternehmen Forrester im Jahr 2014 zurück, bei dem Low-Code-Entwicklungsplattformen (LCDP) als Plattformen, die eine schnelle Bereitstellung von Geschäftsanwendungen mit einem Minimum an manueller Programmierung und minimalen Vorabinvestitionen in Einrichtung, Schulung und Bereitstellung ermöglichen, definiert wurden. 
-	Im Jahr 2016 unterteilte Forrester die erfolgreichen Anwendungsbereiche der LCDPs in vier spezifische Anwendungsszenarien, d.h. Datenbank, Anfragebearbeitung, Prozess und Mobile-First \cite{DiRuscio.2022}. \newline 
+	Im Jahr 2016 unterteilte Forrester die erfolgreichen Anwendungsbereiche der LCDPs in vier spezifische Anwendungsszenarien, d.h. Datenbank, Anfrageverarbeitung, Prozess und Mobile-First \autocite{DiRuscio.2022}. \newline 
 	
-	Diese Definition entwickelte sich weiter und 2017 legte Forrester eine detailliertere Version vor, in der LCDPs als Produkte und/oder Cloud-Dienste für die Anwendungsentwicklung, die visuelle, deklarative Techniken anstelle von Programmierung verwenden und den Kunden zu geringen oder gar keinen Kosten in Form von Geld und Schulungszeit zu Beginn zur Verfügung stehen, wobei die Kosten im Verhältnis zum Geschäftswert der Plattformen steigen, beschrieben werden. 
-	Der Schwerpunkt liegt hier auf visuellen Schnittstellen und deklarativen Techniken. Die Fokussierung auf den Begriff "Plattform" wird als ein wichtiger Aspekt hervorgehoben, der diese Lösungen von der vorherigen Generation deklarativer Werkzeuge unterscheidet: LCDPs sind in erster Linie Plattformen, mit Funktionen für die Anwendungsbereitstellung, Lebenszyklusmanagement sowie Plattformmanagement \cite{DiRuscio.2022}. \newline
+	Diese Definition entwickelte sich weiter und 2017 legte Forrester eine detailliertere Version vor, in der LCDPs als Produkte und/oder Cloud-Dienste für die Anwendungsentwicklung, die visuelle, deklarative Techniken anstelle von Programmierung verwenden und den Kunden zu geringen oder gar keinen Kosten in Form von Geld und Schulungszeit zu Beginn verhelfen, wobei die Kosten im Verhältnis zum Geschäftswert der Plattformen steigen, beschrieben werden. 
+	Der Schwerpunkt liegt hier auf visuellen Schnittstellen und deklarativen Techniken. Die Fokussierung auf den Begriff "Plattform" wird als ein wichtiger Aspekt hervorgehoben, der diese Lösungen von der vorherigen Generation deklarativer Werkzeuge unterscheidet: LCDPs sind in erster Linie Plattformen, mit Funktionen für die Anwendungsbereitstellung, Lebenszyklusmanagement sowie Plattformmanagement \autocite{DiRuscio.2022}. \newline
 	
-	Das Konzept der Bürgerentwickler geht auf ein Buch von James Martin aus dem Jahr 1982 mit dem Titel "Application Development Without Programmers" zurück. Es brachte eine Programmiersprache der vierten Generation hervor, die computergestützte Softwareentwicklungswerkzeuge verwendet und einer Person ohne Programmierkenntnisse, einem Bürgerentwickler, das Entwickeln ermöglichte. Diese Bewegung scheiterte jedoch, weil sie zu viel versprach und zu wenig hielt. Die Tools unterstützten zum Beispiel keine Best Practices. Versionskontrolle, Tests, Bereitstellung, Dokumentation und andere Best Practices für die Entwicklung mussten manuell durchgeführt werden. Aber da Low-Code- und No-Code-Plattformen heutzutage zunehmend zugänglicher werden und die Zusammenarbeit einfacher wird, ist dieses Konzept nun gängige Praxis in der Entwicklung mit LCDPs \cite{KevinShuler.2023}. \newline
+	Das Konzept der Bürgerentwickler geht auf ein Buch von James Martin aus dem Jahr 1982 mit dem Titel "Application Development Without Programmers" zurück. Es brachte eine Programmiersprache der vierten Generation hervor, die computergestützte Softwareentwicklungswerkzeuge verwendet und einer Person ohne Programmierkenntnisse, einem Bürgerentwickler, das Entwickeln ermöglichte. Diese Bewegung scheiterte jedoch, weil sie zu viel versprach und zu wenig hielt. Die Tools unterstützten zum Beispiel keine Best Practices. Versionskontrolle, Tests, Bereitstellung, Dokumentation und andere Best Practices für die Entwicklung mussten manuell durchgeführt werden. Aber da Low-Code- und No-Code-Plattformen heutzutage zunehmend zugänglicher werden und die Zusammenarbeit einfacher wird, ist dieses Konzept nun gängige Praxis in der Entwicklung mit LCDPs \autocite{KevinShuler.2023}. \newline
 	
-	Gartner identifizierte 2016 außerdem ein ähnliches Segment, welches als Low-Code Application Platform (LCAP) bezeichnet wird. Insbesondere wurden Enterprise LCAPs vorgestellt, die darauf abzielen, Anwendungen der Unternehmensklasse zu erstellen, die eine hohe Leistung, Skalierbarkeit, Hochverfügbarkeit, Disaster Recovery, Sicherheit, SLAs, Ressourcennutzungstracking, technischen Support durch den Anbieter und API-Zugang zu und von lokalen und Cloud-Diensten erfordern \cite{DiRuscio.2022}. \newline %den Absatz noch mal lesen und verbessern
+	Gartner identifizierte 2016 außerdem ein ähnliches Segment, welches als Low-Code Application Platform (LCAP) bezeichnet wird. Insbesondere wurden Enterprise LCAPs vorgestellt, die darauf abzielen, Anwendungen der Unternehmensklasse zu erstellen, die eine hohe Leistung, Skalierbarkeit, Hochverfügbarkeit, Disaster Recovery, Sicherheit, SLAs, Ressourcennutzungstracking, technischen Support durch den Anbieter und API-Zugang zu und von lokalen und Cloud-Diensten erfordern \autocite{DiRuscio.2022}. \newline %den Absatz noch mal lesen und verbessern
 	
-	Das Jahr 2017 markiert den Beginn einer Reihe von Übernahmen von LCDP-Anbietern. Appian startete im Mai 2017 einen Börsengang und erreichte 2018 eine Marktbewertung von fast 2 Milliarden US-Dollar. Im Juli 2018 erhielt OutSystems Investitionen in Höhe von 360 Millionen US-Dollar. Im August 2018 kündigte Siemens die Übernahme von Mendix für 730 Millionen US-Dollar an. Im Jahr 2017 schätzte Forrester die globale Marktgröße für LCDPs auf 3,8 Milliarden US-Dollar \cite{DiRuscio.2022}. \newline 
+	Das Jahr 2017 markiert den Beginn einer Reihe von Übernahmen von LCDP-Anbietern. Appian startete im Mai 2017 einen Börsengang und erreichte 2018 eine Marktbewertung von fast 2 Milliarden US-Dollar. Im Juli 2018 erhielt OutSystems Investitionen in Höhe von 360 Millionen US-Dollar. Im August 2018 kündigte Siemens die Übernahme von Mendix für 730 Millionen US-Dollar an. Im Jahr 2017 schätzte Forrester die globale Marktgröße für LCDPs auf 3,8 Milliarden US-Dollar \autocite{DiRuscio.2022}. \newline 
 		
-	Forrester führt außerdem regelmäßig Umfragen durch, bei welchen Entwickler zur Nutzung von LCDPs befragt werden. 2018 gaben 23\% der Entwickler an, Low-Code-Plattformen zu nutzen, und weitere 22\% planten, dies innerhalb eines Jahres zu tun. Im Jahr 2019 nutzten 37\% der Entwickler Low-Code-Produkte oder planten, sie zu nutzen \cite{DiRuscio.2022}.\newline
+	Forrester führt außerdem regelmäßig Umfragen durch, bei welchen Entwickler zur Nutzung von LCDPs befragt werden. 2018 gaben 23\% der Befragten an, Low-Code-Plattformen zu nutzen, und weitere 22\% planten, dies innerhalb eines Jahres zu tun. Im Jahr 2019 nutzten 37\% der Entwickler Low-Code-Produkte oder planten, sie zu nutzen \autocite{DiRuscio.2022}.\newline
 	
-	Im Jahr 2021 boten die meisten großen Cloud-Anbieter LCDPs innerhalb ihrer Cloud-basierten Lösungen an. Microsoft war einer der ersten, die den Trend aufgriffen und im November 2016 Power Apps LCDP veröffentlichte. Im Januar 2020 übernahm Google den LCDP-Anbieter AppSheet und machte ihn zu seinem Flaggschiff unter den Low-Code-Lösungen. Im Juni 2020 veröffentlichte Amazon Honeycode, eine LCDP für die Entwicklung von Web- und Mobilanwendungen \cite{DiRuscio.2022}.
+	Im Jahr 2021 boten die meisten großen Cloud-Anbieter LCDPs innerhalb ihrer Cloud-basierten Lösungen an. Microsoft war einer der ersten, die den Trend aufgriffen und im November 2016 Power Apps LCDP veröffentlichte. Im Januar 2020 übernahm Google den LCDP-Anbieter AppSheet und machte ihn zu seinem Flaggschiff unter den Low-Code-Lösungen. Im Juni 2020 veröffentlichte Amazon Honeycode, eine LCDP für die Entwicklung von Web- und Mobilanwendungen \autocite{DiRuscio.2022}.
 	
 	\subsection{Wichtige Begriffe}
 	Um sich in der Thematik der Low Code Entwicklung mühelos informieren zu können, ist es wichtig im Zusammenhang mit der Low Code Entwicklung genutzte Begriffe zu verstehen. Das folgende Unterkapitel bietet deshalb eine kurze Übersicht über diese Begriffe.
 	
 	\subsubsection{Abgrenzung zu High-Code}
-	High-Code oder traditionelle Entwicklung beinhaltet manuelle Programmierung in mehreren Sprachen und mit verschiedenen Technologien. Es können beliebige Lösung mit individuellen Anforderungen erstellt werden, dafür werden jedoch in hohem Maße professionelle Entwicklerressourcen benötigt \cite{Mendix.2023}. \newline
+	High-Code oder traditionelle Entwicklung beinhaltet manuelle Programmierung in mehreren Sprachen und mit verschiedenen Technologien. Es können beliebige Lösung mit individuellen Anforderungen erstellt werden, dafür werden jedoch in hohem Maße professionelle Entwicklerressourcen benötigt \autocite{Mendix.2023}. \newline
 	
-	High-Code-Development ist zeitintensiv und kostspielig. Es werden spezialisierte Fähigkeiten mit einem kleinen Talentpool benötigt. Außerdem ist eine separate Entwicklung für Mobilgeräte, Web und verschiedene Betriebssysteme/Geräte erforderlich, was sich durch die meisten LCDPs vermeiden lässt \cite{Mendix.2023}. 
+	High-Code-Development ist zeitintensiv und kostspielig. Es werden spezialisierte Fähigkeiten mit einem kleinen Talentpool benötigt. Außerdem ist eine separate Entwicklung für Mobilgeräte, Web und verschiedene Betriebssysteme/Geräte erforderlich, was sich durch die meisten LCDPs vermeiden lässt \autocite{Mendix.2023}. 
 	
 	\subsubsection{Abgrenzung zu No-Code}
-	Der Begriff "No-Code-Entwicklungsplattform", oder auch "NCDP" wird für Plattformen verwendet, die durch visuelle Sprachen, grafische Benutzeroberflächen und Konfiguration die Notwendigkeit der Programmierung eliminieren. Während der Begriff im Marketing weit verbreitet ist, lehnen es Marktanalysefirmen derzeit ab, ihn zur Identifizierung eines klaren Marktsegments zu verwenden \cite{DiRuscio.2022}.
+	Der Begriff "No-Code-Entwicklungsplattform", oder auch "NCDP" wird für Plattformen verwendet, die durch visuelle Sprachen, grafische Benutzeroberflächen und Konfiguration die Notwendigkeit der Programmierung eliminieren. Während der Begriff im Marketing weit verbreitet ist, lehnen es Marktanalysefirmen derzeit ab, ihn zur Identifizierung eines klaren Marktsegments zu verwenden \autocite{DiRuscio.2022}.
 	
-	Im Gegensatz zu dem Entwickeln mit LCDPs ist es bei NCDPs jedem ohne jegliche Programmierkenntnisse möglich zu entwickeln. Das reduziert das benötigte Know-How für ein Projekt und somit auch die Kosten \cite{Microsoft.2023}. \newline
+	Im Gegensatz zu dem Entwickeln mit LCDPs ist es bei NCDPs jedem ohne jegliche Programmierkenntnisse möglich zu entwickeln. Das reduziert das benötigte Know-How für ein Projekt und somit auch die Kosten \autocite{Microsoft.2023}. \newline
 	
-	Auf der anderen Seite kännen starre Templates bedeuten, dass die Anpassung der Anwendung und die Flexibilität eingeschränkt werden.
-	Und, App-Entwickler ohne professionelle Entwicklungserfahrung könnten wichtige Aspekte der Benutzerfreundlichkeit übersehen \cite{Microsoft.2023}. \newline	
+	Auf der anderen Seite können starre Templates bedeuten, dass die Anpassung der Anwendung und die Flexibilität eingeschränkt werden.
+	Und, App-Entwickler ohne professionelle Entwicklungserfahrung könnten wichtige Aspekte der Benutzerfreundlichkeit übersehen \autocite{Microsoft.2023}. \newline	
 	
-	Low-Code- und No-Code-Plattformen können für unterschiedliche Zwecke nützlich sein. Eine Low-Code-Plattform wird meist von IT-Fachleuten mit einigen Programmierkenntnissen verwendet, um benutzerdefinierte Anwendungen zu erstellen, während No-Code-Plattformen in der Regel Geschäftsanwendern ohne Programmierkenntnisse ermöglichen, ihre eigenen Entwicklungsanforderungen zu erfüllen \cite{Microsoft.2023}. 
+	Low-Code- und No-Code-Plattformen können für unterschiedliche Zwecke nützlich sein. Eine Low-Code-Plattform wird meist von IT-Fachleuten mit einigen Programmierkenntnissen verwendet, um benutzerdefinierte Anwendungen zu erstellen, während No-Code-Plattformen in der Regel Geschäftsanwendern ohne Programmierkenntnisse ermöglichen, ihre eigenen Entwicklungsanforderungen zu erfüllen \autocite{Microsoft.2023}. 
 
 	\subsection{Use Cases}	
-	Low-Code-Plattformen können zwar für die Entwicklung einfacher Automatisierungen und Integrationen verwendet werden, aber auch für die Entwicklung komplexer Anwendungen auf Unternehmensebene kann auf LCDPs zurück gegriffen werden \cite{KevinShuler.2023}. 
+	Low-Code-Plattformen können zwar für die Entwicklung einfacher Automatisierungen und Integrationen verwendet werden, aber auch für die Entwicklung komplexer Anwendungen auf Unternehmensebene kann auf LCDPs zurück gegriffen werden \autocite{KevinShuler.2023}. 
 	
 	Aber nicht alle Geschäftsprobleme sind für LC geeignet. Bevor sich für den Low Code Ansatz entschieden wird, sollte geprüft werden, ob es für den eigenen Anwendungsfall eine geeignete LCDP gibt. In diesem Kapitel werden mögliche Use Cases für Low Code Entwicklungsplattformen erläutert. Dadurch wird dem Leser nicht nur eine bessere Vorstellung dieses Themas geschaffen sondern auch die Vielzahl der Anwendungsgebiete verdeutlicht.
 
-	\subsection{Anwendungsfall: ERP und CRM}
-	Das wohl bekannteste Beispiel für die Entwicklung mit LCDPs: es kann alles von einem benutzerdefinierten ERP bis zu einem benutzerdefinierten CRM erstellt werden. Und Unternehmen arbeiten oft mit Supportpartnern oder Anbietern zusammen, um Beschaffung, Personalwesen und andere komplexe Arbeitsabläufe zu automatisieren \cite{KevinShuler.2023}.
+	\subsubsection{Anwendungsfall: ERP und CRM}
+	Das wohl bekannteste Beispiel für die Entwicklung mit LCDPs: es kann alles von einem benutzerdefinierten ERP bis zu einem benutzerdefinierten CRM erstellt werden. Und Unternehmen arbeiten oft mit Supportpartnern oder Anbietern zusammen, um Beschaffung, Personalwesen und andere komplexe Arbeitsabläufe zu automatisieren \autocite{KevinShuler.2023}.
 	
 	\subsubsection{Anwendungsfall: MVPs} \label{MVP}
-	Ob eine Anwendung erfolgreich sein wird, ist erst möglich zu wissen, wenn sie tatsächlich gestartet wird. Das bedeutet aber nicht dass dafür immer in einer umfassende Entwicklung investiert werden muss \cite{OleksiiGlib.2022}.
+	Ob eine Anwendung erfolgreich sein wird, ist erst möglich zu wissen, wenn sie tatsächlich gestartet wird. Das bedeutet aber nicht dass dafür immer in eine umfassende Entwicklung investiert werden muss \autocite{OleksiiGlib.2022}.
 	
-	Ein MVP (Minimum Viable Product) ist eine erste Version eines Produkts mit seinen Kernfunktionen, die in der Regel dazu dient, eine Hypothese zu überprüfen. So kann festgestellt werden, ob es einen Markt für das Produkt gibt und was verbessert werden sollte, um mehr Nutzer zu gewinnen \cite{OleksiiGlib.2022}.
+	Ein MVP (Minimum Viable Product) ist eine erste Version eines Produkts mit seinen Kernfunktionen, die in der Regel dazu dient, eine Hypothese zu überprüfen. So kann festgestellt werden, ob es einen Markt für das Produkt gibt und was verbessert werden sollte, um mehr Nutzer zu gewinnen \autocite{OleksiiGlib.2022}.
 	
-	Low Code Development Plattformen ermöglichen die rasche Entwicklung eines MVP. Mit Low-Code-MVP-Entwicklungsansätzen können also Konzepte validiert werden, ohne in qualifizierte und teure Entwicklungsteams und einen fortschrittlichen technischen Stack zu investieren \cite{OleksiiGlib.2022}.
+	Low Code Development Plattformen ermöglichen die rasche Entwicklung eines MVP. Mit Low-Code-MVP-Entwicklungsansätzen können also Konzepte validiert werden, ohne in qualifizierte und teure Entwicklungsteams und einen fortschrittlichen technischen Stack zu investieren \autocite{OleksiiGlib.2022}.
 	
 	\subsubsection{Anwendungsfall: Modernisierungen und Mobile-First}	
-	Altsysteme verursachen in der Regel mehr Ärger (und Kosten) als sie wert sind. Mehr als 75\% des IT-Budgets der Bundesregierung in Höhe von 80 Milliarden Dollar werden für die Wartung von Altsystemen aufgewendet, und viele davon sind über 25 Jahre alt. Legacy-Systeme behindern Unternehmen, indem sie einen Großteil ihres IT-Budgets verschlingen und sie an veraltete Plattformen binden, die zu wenig leisten und die Reaktionsfähigkeit des Unternehmens einschränken \cite{KevinShuler.2023}.
+	Altsysteme verursachen in der Regel mehr Ärger (und Kosten) als sie wert sind. Mehr als 75\% des IT-Budgets der Bundesregierung in Höhe von 80 Milliarden Dollar werden für die Wartung von Altsystemen aufgewendet, und viele davon sind über 25 Jahre alt. Legacy-Systeme behindern Unternehmen, indem sie einen Großteil ihres IT-Budgets verschlingen und sie an veraltete Plattformen binden, die zu wenig leisten und die Reaktionsfähigkeit des Unternehmens einschränken \autocite{KevinShuler.2023}.
 	
 	%--------- da fehlt noch die Hinleitung zu diesem Thema, aber da stand halt nicht mehr im Text, keine Ahnung ob ich dann da meine Schlussfolgerung einfach ziehen soll oder ob ich da noch was finden kann---------------------------------
 	
-	And Ricoh replaced their legacy systems, resulting in a 253\% ROI in 7 month \cite{KevinShuler.2023}.
+	And Ricoh replaced their legacy systems, resulting in a 253\% ROI in 7 month \autocite{KevinShuler.2023}.
 	
-	\subsubsection{Anwendungsfall: Smart Process Apps}
-	Smart Process Apps: Operational efficiency apps sind Anwendungen mit dem Ziel durch die Automatisierung manueller Prozesse Kosten zu senken. Die North Carolina State Uni bspw. nutzt eine LCDP, um eine App zur Kursanmeldung zu erstellen, die 500.000 Anmeldungen für Nicht-Kreditkurse pro Jahr ermöglicht.
+	%\subsubsection{Anwendungsfall: Smart Process Apps}
+	%Smart Process Apps: Operational efficiency apps sind Anwendungen mit dem Ziel durch die Automatisierung manueller Prozesse Kosten zu senken. Die North Carolina State Uni bspw. nutzt eine LCDP, um eine App zur Kursanmeldung zu erstellen, die 500.000 Anmeldungen für Nicht-Kreditkurse pro Jahr ermöglicht.
 	
-	\subsubsection{Anwendungsfall: neue Plattformen}
-	neue Plattformen: wie Augmented Reality, Virtual Reality oder dialogorientierte Schnittstellen. Einige Multiexperience DPs (MXDPs) ermöglichen die Entw. für diese über NC/LC 
+	%\subsubsection{Anwendungsfall: neue Plattformen}
+	%neue Plattformen: wie Augmented Reality, Virtual Reality oder dialogorientierte Schnittstellen. Einige Multiexperience DPs (MXDPs) ermöglichen die Entw. für diese über NC/LC 
 	
 	
 	\subsection{Übersicht von Low Code Development Plattformen in der Praxis}	
-	LCDPs unterstützen die Entwicklung von Zielumgebungen, die Web-only oder auch nativ sein können. So können sie sowohl Desktop- als auch Mobilgeräte nativ unterstützen und sich in bestehende Arbeitsabläufe integrieren, die mit beliebten Software-as-a-Service (SaaS)-Anwendungen entwickelt wurden, darunter Zapier, Amazon AppFlow und Trello. Appian ist eine der langlebigsten LCDP, während Amazon Honeycode und Google AppSheet zu neueren Ansätzen gehören. \cite{DiRuscio.2022}
+	LCDPs unterstützen die Entwicklung von Zielumgebungen, die Web-only oder auch nativ sein können. So können sie sowohl Desktop- als auch Mobilgeräte nativ unterstützen und sich in bestehende Arbeitsabläufe integrieren, die mit beliebten Software-as-a-Service (SaaS)-Anwendungen entwickelt wurden, darunter Zapier, Amazon AppFlow und Trello. Appian ist eine der langlebigsten LCDP, während Amazon Honeycode und Google AppSheet zu neueren Ansätzen gehören. \autocite{DiRuscio.2022}
 	
-	Einige der Merkmale, die bestehende LCDPs unterscheiden beruhen auf der User Experience der hochentwickelten grafischen Benutzeroberflächen, die Werkzeuge und Widgets bereitstellen, mit denen Entwickler die gewünschten Anwendungen konzipieren können. Drag-and-Drop-Möglichkeiten, fortgeschrittene Berichtsfunktionen, Entscheidungsmaschinen zur Modellierung komplexer Logik und Formular-building-Tools sind nur Beispiele für Funktionen im Frontend von LCDPs. \cite{DiRuscio.2022}
+	Einige der Merkmale, die bestehende LCDPs unterscheiden beruhen auf der User Experience der hochentwickelten grafischen Benutzeroberflächen, die Werkzeuge und Widgets bereitstellen, mit denen Entwickler die gewünschten Anwendungen konzipieren können. Drag-and-Drop-Möglichkeiten, fortgeschrittene Berichtsfunktionen, Entscheidungsmaschinen zur Modellierung komplexer Logik und Formular-building-Tools sind nur Beispiele für Funktionen im Frontend von LCDPs. \autocite{DiRuscio.2022}
 	
-	Außerdem können manche LCDPs die Entwicklung durch Live-Kollaborations-Tools unterstützen, um geografisch verteilten Entwicklern gemeinsames, kollaboratives Arbeiten an denselben Anwendungen zu ermöglichen. \cite{DiRuscio.2022}
+	Außerdem können manche LCDPs die Entwicklung durch Live-Kollaborations-Tools unterstützen, um geografisch verteilten Entwicklern gemeinsames, kollaboratives Arbeiten an denselben Anwendungen zu ermöglichen. \autocite{DiRuscio.2022}
 	
-	Ein weiteres Unterscheidungsmerkmal aktueller LCDPs bezieht sich auf die unterstützte Anwendungsdomäne. Diese sollte im Mittelpunkt des Interesses stehen. Node-RED beispielsweise unterstützt in erster Linie die Entwicklung von IoT-Anwendungen. Andere Plattformen unterstützen die Entwicklung von Chatbots, während die Mehrzahl der bestehenden LCDPs darauf abzielen, universell einsetzbar zu sein und die Entwicklung beliebiger datenintensiver Anwendungen zu unterstützen. \cite{DiRuscio.2022}
+	Ein weiteres Unterscheidungsmerkmal aktueller LCDPs bezieht sich auf die unterstützte Anwendungsdomäne. Diese sollte im Mittelpunkt des Interesses stehen. Node-RED beispielsweise unterstützt in erster Linie die Entwicklung von IoT-Anwendungen. Andere Plattformen unterstützen die Entwicklung von Chatbots, während die Mehrzahl der bestehenden LCDPs darauf abzielen, universell einsetzbar zu sein und die Entwicklung beliebiger datenintensiver Anwendungen zu unterstützen. \autocite{DiRuscio.2022}
 	
-	LCDPs können Benutzern auch vordefinierte Artefakte zur Verfügung stellen, die als Ausgangspunkte verwendet werden können. Salesforce App Cloud enthält beispielsweise den umfangreichen AppExchange-Marktplatz, der aus vorgefertigten Anwendungen und Komponenten, wiederverwendbaren Objekten und Elementen, Drag-and-Drop-Process-Builder und integriertem Kanban-Board besteht. \cite{DiRuscio.2022}
+	LCDPs können Benutzern auch vordefinierte Artefakte zur Verfügung stellen, die als Ausgangspunkte verwendet werden können. Salesforce App Cloud enthält beispielsweise einen umfangreichen AppExchange-Marktplatz, der aus vorgefertigten Anwendungen und Komponenten, wiederverwendbaren Objekten und Elementen, Drag-and-Drop-Process-Builder und integriertem Kanban-Board besteht. \autocite{DiRuscio.2022}
 	
 	Bei der Betrachtung der typischen Schritte einer Anwendungsentwicklung mit LCDPs kann man in jedem Schritt außerdem unterschiedliche Ausführungen in den verschiedenen Plattformen sehen. \newline
 	
-	Dies sind die 12 besten Low-Code-Plattformen, die es derzeit gibt: 
+	Dies sind die 12 besten Low-Code-Plattformen, die es derzeit gibt \autocite{KevinShuler.2023}: 
 	\begin{enumerate}
 	\item Zoho Creator
 	\item Appian
@@ -199,164 +191,177 @@
 	\item Workato
 	\item Pipefy
 	\end{enumerate}
-	Es gibt jedoch mehr als 220 Low-Code-Plattformen auf dem Markt und mehrere, die maschinelles Lernen nutzen \cite{KevinShuler.2023}. 
+	Es gibt jedoch mehr als 220 Low-Code-Plattformen auf dem Markt und mehrere, die maschinelles Lernen nutzen \autocite{KevinShuler.2023}. 
 	
 	
-	\section{Nachteile von LCDP}
-	Viele Unternehmen zögern noch den Low Code Ansatz in größere Projekte zu integrieren. In diesem Kapitel werden unterschiedliche Nachteile von Low Code Development Platforms genauer beleuchtet um die Gründe für dafür aufzuzeigen. \newline
+	\section{Nachteile von Low Code Development Plattformen} \label{Nachteile}
+	Viele Unternehmen zögern noch den Low Code Ansatz in größere Projekte zu integrieren. In diesem Kapitel werden unterschiedliche Nachteile von Low Code Development Plattformen genauer beleuchtet um die Gründe für dafür aufzuzeigen. \newline
 	
-	Der Outsystems State of Applications Development Report aus dem Jahr 2019 nennt mehrere Gründe, warum Unternehmen Low-Code derzeit nicht nutzen oder planen, es zu nutzen. Das Mangelndes Wissen über Low-Code macht mit 43\% nahezu der Hälfte aller Unternehmen sorgen. Besorgnis über die Bindung an eine Plattform oder einen Anbieter macht mit 37\% ebenfalls vielen Unternehmen Sorgen. Der Glauben, dass Low-Code die eigenen Anforderungen nicht erfüllen kann trifft bei 32\% zu. Bedenken hinsichtlich der Skalierbarkeit von Low-Code-Anwendungen ist bei 28\% der Unternehmen ein Problem und Bedenken bezüglich der Sicherheit von Low-Code-Anwendungen bei 25\% \cite{KevinShuler.2023}.
+	Der Outsystems State of Applications Development Report aus dem Jahr 2019 nennt mehrere Gründe, warum Unternehmen Low-Code derzeit nicht nutzen oder nicht planen, es zu nutzen. Das Mangelndes Wissen über Low-Code macht mit 43\% nahezu der Hälfte aller Unternehmen sorgen. Besorgnis über die Bindung an eine Plattform oder einen Anbieter macht mit 37\% ebenfalls vielen Unternehmen Sorgen. Der Glauben, dass Low-Code die eigenen Anforderungen nicht erfüllen kann trifft bei 32\% zu. Bedenken hinsichtlich der Skalierbarkeit von Low-Code-Anwendungen ist bei 28\% der Unternehmen ein Problem und Bedenken bezüglich der Sicherheit von Low-Code-Anwendungen bei 25\% \autocite{KevinShuler.2023}.
 			
 	\subsection{Steile Lernkurve}
 	Die meisten Plattformen haben weniger intuitive grafische Oberflächen. Bei einigen von ihnen sind die Drag-and-Drop-Funktionen begrenzt, und sie bieten nicht genügend Lehrmaterial, einschließlich Beispielanwendungen und Online-Tutorials, um die Plattform zu erlernen. 
-	Für die Nutzung einiger Plattformen sind nach wie vor Kenntnisse in der Softwareentwicklung erforderlich, was die Akzeptanz bei bürgerlichen Entwicklern, die eigentlich die Hauptzielgruppe dieser Plattformen und Produkte sein sollten, einschränkt \cite{Alamin.2023}.
-	
-	\subsection{Geringe Skalierbarkeit}	
-	Low-Code-Plattformen sollten vorzugsweise Cloud-basiert und in der Lage sein, intensive Berechnungen auszuführen und Big Data zu verwalten, die mit hoher Geschwindigkeit, Vielfalt und Volumen entstehen. Aufgrund des Mangels an offenen Standards ist es jedoch sehr schwierig, die Skalierbarkeit der Plattformen zu bewerten, zu erforschen und zur Skalierbarkeit dieser Plattformen beizutragen \cite{Alamin.2023}.
+	Für die Nutzung einiger Plattformen sind nach wie vor Kenntnisse in der Softwareentwicklung erforderlich, was die Akzeptanz bei bürgerlichen Entwicklern, die eigentlich die Hauptzielgruppe dieser Plattformen und Produkte sein sollten, einschränkt \autocite{Alamin.2023}.
 	
 	\subsection{Geringe Interoperabilität und eine enge Bindung an einen Anbieter}
-	Interoperabilität bezeichnet die Interaktion und den Austausch von Informationen und Artefakten zwischen verschiedenen Low-Code-Plattformen, z.B. zur gemeinsamen Nutzung von Architekturdesign, Implementierung oder entwickelter Dienste. Dies ist unerlässlich, um Probleme im Zusammenhang mit der Herstellerabhängigkeit zu verringern. Leider sind die meisten Low-Code-Plattformen proprietär und geschlossen. Es fehlt an Standards in diesem Bereich, was die Entwicklung und Zusammenarbeit zwischen verschiedenen Ingenieuren und Entwicklern erschwert. So können sie nicht voneinander lernen und die Wiederverwendung von bereits definierten Architekturen, Artefakten und Implementierungen wird weiterhin behindert \cite{Alamin.2023}.  
+	Interoperabilität bezeichnet die Interaktion und den Austausch von Informationen und Artefakten zwischen verschiedenen Low-Code-Plattformen, z.B. zur gemeinsamen Nutzung von Architekturdesign, Implementierung oder entwickelter Dienste. Dies ist unerlässlich, um Probleme in dem Zusammenhang mit der Herstellerabhängigkeit zu verringern. Leider sind die meisten Low-Code-Plattformen proprietär und geschlossen. Es fehlt an Standards in diesem Bereich, was die Entwicklung und Zusammenarbeit zwischen verschiedenen Ingenieuren und Entwicklern erschwert. So können sie nicht voneinander lernen und die Wiederverwendung von bereits definierten Architekturen, Artefakten und Implementierungen wird weiterhin behindert \autocite{Alamin.2023}.  
+	
+	Low-Code-Plattformen sollten außerdem vorzugsweise Cloud-basiert und in der Lage sein, intensive Berechnungen auszuführen und Big Data zu verwalten, die mit hoher Geschwindigkeit, Vielfalt und Volumen entstehen. Aufgrund des Mangels an offenen Standards ist es jedoch sehr schwierig, die Skalierbarkeit der Plattformen zu bewerten, zu erforschen und zur Skalierbarkeit dieser Plattformen beizutragen \autocite{Alamin.2023}.
 	
 	\subsection{Geringere Flexibilität und Anpassbarkeit}	
-	Die Möglichkeit, neue Funktionen hinzuzufügen, die von der genutzten Plattform nicht angeboten werden, ist bei LCDPs oft schwer
-	oder sogar unmöglich. Aufgrund fehlender Standards erfordern einige von ihnen umfangreiche Codierung, um neue Funktionen hinzuzufügen, die die architektonischen und gestalterischen Vorgaben der zu erweiternden Plattform einhalten \cite{Alamin.2023}.
+	Die Möglichkeit, neue Funktionen hinzuzufügen, die von der genutzten Plattform nicht angeboten werden, ist bei Low Code Development Plattformen oft schwer oder sogar unmöglich. Aufgrund fehlender Standards erfordern einige von ihnen umfangreiche Codierung, um neue Funktionen hinzuzufügen, die die architektonischen und gestalterischen Vorgaben der zu erweiternden Plattform einhalten \autocite{Alamin.2023}.
 	
 	\subsection{Geringe Teststandards} 
-	Es gibt keinen allgemeinen Rahmen, der die Low-Code-Testfunktionen unterstützt, der von LCDP-Entwicklern für den Aufbau der Testkomponente ihrer geplanten LCDPs verwendet werden kann. Dies ist problematisch, denn das Fehlen eines solchen Rahmens hat dazu geführt, dass Abhängigkeiten bestehender LCDPs von technischen Testwerkzeugen Dritter Tools enstanden sind, die für bürgerliche Entwickler nicht nutzbar sind. Hinzu kommt, einige kommerzielle LCDPs zwar neue Low-Code-Testing-Frameworks vorschlagen, diese aber nicht alle  Low-Code-Testing-Merkmale erfüllen, nicht für andere LCDPs wiederverwendbar sind, und bzw. oder ihre Ressourcen nicht öffentlich zugänglich sind \cite{Khorram.2020}.	
+	Es gibt keinen allgemeinen Rahmen, der die Low-Code-Testfunktionen unterstützt, der von LCDP-Entwicklern für den Aufbau der Testkomponente ihrer geplanten Low Code Development Plattform verwendet werden kann. Dies ist problematisch, denn das Fehlen eines solchen Rahmens hat dazu geführt, dass Abhängigkeiten bestehender LCDPs von technischen Testwerkzeugen Dritter Tools entstanden sind, die für bürgerliche Entwickler nicht nutzbar sind. Hinzu kommt, dass einige kommerzielle LCDPs zwar neue Low-Code-Testing-Frameworks vorschlagen, diese aber nicht alle  Low-Code-Testing-Merkmale erfüllen, nicht für andere LCDPs wiederverwendbar sind, und bzw. oder ihre Ressourcen nicht öffentlich zugänglich sind \autocite{Khorram.2020}.	
 	
 	\subsection{Auswahlschwierigkeiten}	
-	Das Verstehen und Bewerten der LCDP, die für das zu lösende Problem genutzt werden soll sind schwierige Aufgaben, denn  Entscheidungsträger müssen zwischen Hunderten von heterogenen Plattformen wählen, die ohne spezielle Unterstützung schwer zu bewerten sind. Bis 2022 gab es mehr als 400 LCSD-Plattformen, die von fast allen großen Unternehmen wie Google (2020) und Salesforce (2022) angeboten werden. Eine falsche Auswahl von LCDP kann jedoch zu einer Verschwendung von Zeit und Ressourcen führen \cite{Alamin.2023}. 
+	Das Verstehen und Bewerten der Low Code Development Plattformen, die für das zu lösende Problem genutzt werden soll sind schwierige Aufgaben, denn  Entscheidungsträger müssen zwischen Hunderten von heterogenen Plattformen wählen, die ohne spezielle Unterstützung schwer zu bewerten sind. Bis 2022 gab es mehr als 400 LCDP-Plattformen, die von fast allen großen Unternehmen wie Google (2020) und Salesforce (2022) angeboten werden. Eine falsche Auswahl der Plattform kann jedoch zu einer Verschwendung von Zeit und Ressourcen führen \autocite{Alamin.2023}. 
 	
 	%---------------------------------------------------------------------------------------------------
-	\section{Vorteile  und Potenziale von LCDP}
-	Während wir nun mit den Nachteilen von Low Code Entwicklungsplattformen die Gründe für das Zögern einiger Unternehmen betrachtet haben, stellen wir dem nun im folgenden Kapitel ihre Vorteile und Potenziale gegenüber.	
+	\section{Vorteile  und Potenziale von Low Code Development Plattformen}
+	Während wir nun mit den Nachteilen von Low Code Entwicklungsplattformen die Gründe für das Zögern einiger Unternehmen betrachtet haben, stellen wir dem nun im folgenden Kapitel ihre Vorteile und Potenziale gegenüber.
 	
-	Obwohl die Verteilung des Nutzens eher uneinheitlich ist, gibt es eine deutliche Kluft zwischen den drei wichtigsten Vorteilen und dem Rest. Die drei wichtigsten Vorteile sind verbesserte Kapitalrendite (RoI) (19,9\%), Abstraktion (16,36\%) und GUI-basierte Entwicklung (12,7\%) \cite{Bucaioni.2022}. 
+	Neben den Vorteilen selber, sind auch Informationen zu Ihres Nutzens hilfreich zu wissen. Obwohl die Verteilung des Nutzens eher uneinheitlich ist, gibt es eine deutliche Kluft zwischen den drei wichtigsten Vorteilen und dem Rest. Die drei wichtigsten Vorteile sind eine verbesserte Kapitalrendite (Return of Investment) (19,9\%), Abstraktion (16,36\%) und die Graphical-User-Interface-basierte Entwicklung (12,7\%) \autocite{Bucaioni.2022}. 
 	
-	Hinter diesen gibt es eine Gruppe von vier Vorteilen: Automatisierung (8,1\%), Interoperabilität (6,3\%), Benutzerfreundlichkeit und Flexibilität (jeweils 5,4\%) \cite{Bucaioni.2022}.
+	Hinter diesen gibt es eine Gruppe von vier Vorteilen: die Automatisierung (8,1\%), die Interoperabilität (6,3\%), die Benutzerfreundlichkeit und die Flexibilität (jeweils 5,4\%) \autocite{Bucaioni.2022}.
 	
-	Schließlich haben wir eine weitere Gruppe von 6 Vorteilen: Datenschutz oder Sicherheit und Anpassbarkeit (je 4,5\%), Wartbarkeit (3,6\%), Wiederverwendbarkeit, Offenheit	und Digitalisierung von Geschäftsprozessen (je 2,7\%) \cite{Bucaioni.2022}.
+	Schließlich ergibt sich eine weitere Gruppe von 6 Vorteilen: der Datenschutz oder Sicherheit und Anpassbarkeit (je 4,5\%), die Wartbarkeit (3,6\%), die Wiederverwendbarkeit und die Offenheit und Digitalisierung von Geschäftsprozessen (je 2,7\%) \autocite{Bucaioni.2022}.
 	% Also irgendwie muss das noch in Zusammenhang miz dem Rest gebracht werden 
 	
 	\subsection{Schnittstellenbereitstellung} 
-	LCDPs unterstützen das sichere Integrieren von Daten und Logik aus beliebigen Quellen, Systemen oder Diensten - einschließlich wichtiger Altsysteme. Anwendungen können mithilfe vorkonfigurierter APIs und Konnektoren erstellt werden und so das Erstellen und Verwalten von Systemen in größerem Umfang ermöglichen, das gemeinsame Nutzen von Daten über Projekte und Teams hinweg unterstützen und eine schnellere Erstellung wiederverwendbarer Komponenten und Microservices mit nahtlosem Zugriff auf Unternehmensdaten bieten \cite{Mendix.2023}.
+	LCDPs unterstützen das sichere Integrieren von Daten und Logik aus beliebigen Quellen, Systemen oder Diensten - einschließlich wichtiger Altsysteme. Anwendungen können mithilfe vorkonfigurierter APIs und Konnektoren erstellt werden und so das Erstellen und Verwalten von Systemen in größerem Umfang ermöglichen, das gemeinsame Nutzen von Daten über Projekte und Teams hinweg unterstützen und eine schnellere Erstellung wiederverwendbarer Komponenten und Mikroservices mit nahtlosem Zugriff auf Unternehmensdaten bieten \autocite{Mendix.2023}.
 	
-	\subsection{Zusammenarbeit von Entwicklern und Fachkundigen}		
-	Software durchdringt mittlerweile alle Aspekte unseres Lebens. Dadurch ist die Nachfrage nach Softwareentwicklern größer als das Angebot an entsprechend qualifizierten Fachleuten, und die Lücke wird immer größer. Darüber hinaus fühlen sich hochqualifizierte Softwareentwickler von intellektuell anspruchsvollen (und finanziell lohnenden) Softwaresystemen angezogen und nicht von alltäglichen Anwendungen. Dadurch entsteht eine wachsende Lücke für Geschäftsanwendungen, die effektiver wären als gemeinsam genutzte Tabellenkalkulationen, aber zu teuer sind, um sie manuell zu implementieren und zu warten. %QUELLE DAFÜR FINDEN!!! )muss entweder emmavanpelt, diruscio oder michellegardener sein
+	\subsection{Zusammenarbeit von Entwicklern und Fachkundigen} \label{Personalmangel}	
+	Software durchdringt mittlerweile alle Aspekte unseres Lebens. Dadurch ist die Nachfrage nach Softwareentwicklern größer als das Angebot an entsprechend qualifizierten Fachleuten, und die Lücke wird immer größer. Darüber hinaus fühlen sich hochqualifizierte Softwareentwickler von intellektuell anspruchsvollen und finanziell lohnenden Softwaresystemen angezogen und nicht von alltäglichen Anwendungen. Dadurch entsteht eine wachsende Lücke für Geschäftsanwendungen, die effektiver wären als gemeinsam genutzte Tabellenkalkulationen, aber zu teuer sind, um sie manuell zu implementieren und zu warten \autocite{DiRuscio.2022}.
 
-	Fünfundsechzig Prozent befragter Unternehmen nennen mangelnde technische Fähigkeiten oder Kenntnisse als Herausforderung in der digitalen Transformation \cite{EmmaVanPelt.2019}. \newline %Figure2
+	Fünfundsechzig Prozent befragter Unternehmen nennen mangelnde technische Fähigkeiten oder Kenntnisse als Herausforderung in der digitalen Transformation \autocite{EmmaVanPelt.2019}. \newline %Figure2
 	
-	Die durchschnittlichen Computerkenntnisse haben sich in den letzten 40 Jahren jedoch dramatisch verbessert. Die Grundlagen der Programmierung werden in vielen Ländern im Rahmen der Sekundarschule gelehrt, und die neuen Generationen von Fachleuten sind \emph{Digital Natives}. Während die meisten Fachexperten eine umfangreiche Ausbildung benötigen, um einen Teil der Komplexität eines CASE-Tools zu beherrschen, das vor 40 Jahren auf den Markt kam, verfügt eine wachsende Zahl heutiger Fachexperten über umfangreiche Erfahrungen im Umgang mit Computern und nicht-trivialer Software und benötigt viel weniger Ausbildung, um eine LCDP zur Implementierung maßgeschneiderter Anwendungen zu verwenden\cite{DiRuscio.2022}. \newline
+	Die durchschnittlichen Computerkenntnisse haben sich in den letzten 40 Jahren jedoch dramatisch verbessert. Die Grundlagen der Programmierung werden in vielen Ländern im Rahmen der Sekundarschule gelehrt, und die neue Generation von Fachleuten sind \emph{Digital Natives}. Während die meisten Fachexperten eine umfangreiche Ausbildung benötigen, um einen Teil der Komplexität eines CASE-Tools zu beherrschen, das vor 40 Jahren auf den Markt kam, verfügt eine wachsende Zahl heutiger Fachexperten über umfangreiche Erfahrungen im Umgang mit Computern und nicht-trivialer Software und benötigt viel weniger Ausbildung, um eine Low Code Development Plattform zur Implementierung maßgeschneiderter Anwendungen zu verwenden \autocite{DiRuscio.2022}. \newline
 	
-	Auch die Medien, über die die Nutzer lernen haben sich in letzter Zeit stark verändert. Vor ein paar Jahrzehnten waren die primären Lernmedien für Anwendungsentwicklung Bücher, die von Technologieexperten geschrieben wurden. Dies hat sich mit dem Wachstum des Internets und insbesondere durch Video-Sharing-Dienste wie YouTube, die es einfacher machen aktuelles Schulungsmaterial für unterschiedliche Zielgruppen bereitzustellen, dramatisch verändert.
-	Dies ermöglicht es Citizen Developern (dt. Bürgerentwickler) ihr eigenes Schulungsmaterial (z. B. Walk-Throughs, Screencasts) zu entwickeln und weiterzugeben, anstatt als passive Konsumenten zu agieren \cite{DiRuscio.2022}.
+	Auch die Medien, über die die Nutzer lernen haben sich in letzter Zeit stark verändert. Vor ein paar Jahrzehnten waren die primären Lernmedien für Anwendungsentwicklung Bücher, die von Technologieexperten geschrieben wurden. Dies hat sich mit dem Wachstum und der Verbreitung des Internets und insbesondere durch Video-Sharing-Dienste wie YouTube, die es einfacher machen aktuelles Schulungsmaterial für unterschiedliche Zielgruppen bereitzustellen, dramatisch verändert.
+	Dies ermöglicht es Citizen Developern (dt. Bürgerentwickler) ihr eigenes Schulungsmaterial (z. B. Walk-Throughs, Screencasts) zu entwickeln und weiterzugeben, anstatt als passive Konsumenten zu agieren \autocite{DiRuscio.2022}.
 	
-	Low-Code-Plattformen werden in der Regel an professionelle Entwickler vermarktet, erfordern aber keine Programmierkenntnisse. Mit vielen Low-Code-Plattformen ist es möglich, eine Anwendung zu erstellen oder einen Geschäftsprozess zu automatisieren und Daten zu integrieren, ohne dass ein einziges Mal programmiert werden muss \cite{MichelleGardner.2022}. Laut einer Studie von Gartner aus dem Jahr 2021 werden bis 2025 mehr als die Hälfte der Low-Code-Nutzer keine Informatiker sein. Die Einfachheit der LCDPs ermöglicht es Unternehmern und Fachleuten aus der Industrie, die keine technischen Kenntnisse haben, an der Entwicklung mitzuwirken. Dadurch können diese außerdem ihr Fachwissen in das Produkt einfließen lassen \cite{OleksiiGlib.2022}.
+	Low-Code-Plattformen werden in der Regel an professionelle Entwickler vermarktet, erfordern aber keine Programmierkenntnisse. Mit vielen Low-Code-Plattformen ist es möglich, eine Anwendung zu erstellen oder einen Geschäftsprozess zu automatisieren und Daten zu integrieren, ohne dass ein einziges Mal programmiert werden muss \autocite{MichelleGardner.2022}. Laut einer Studie von Gartner aus dem Jahr 2021 werden bis 2025 mehr als die Hälfte der Low-Code-Nutzer keine Informatiker sein. Die Einfachheit der LCDPs ermöglicht es Unternehmern und Fachleuten aus der Industrie, die keine technischen Kenntnisse haben, an der Entwicklung mitzuwirken. Dadurch können diese außerdem ihr Fachwissen in das Produkt einfließen lassen \autocite{OleksiiGlib.2022}.
 	
-	In einer Umfrage von 2018 fand Mendix heraus, dass 25\% ihrer Low-Code-Entwicklergemeinschaft keine Erfahrung mit Code haben. Stattdessen haben 40\% der Nutzer einen Hintergrund in der Wirtschaft. 70\% der Entwickler ohne Hintergrunderfahrung in Low-Code lernten innerhalb eines Monats, wie man Anwendungen erstellt. Und 28\% lernten es in weniger als zwei Wochen \cite{KevinShuler.2023}.
-		
-	% noch mehr den Vorteil vom Fachwissen in das Produkt reinbringen schreiben?
+	In einer Umfrage von 2018 fand Mendix heraus, dass 25\% ihrer Low-Code-Entwicklergemeinschaft keine Erfahrung mit Code haben. Stattdessen haben 40\% der Nutzer einen Hintergrund in der Wirtschaft. Aber 70\% der Entwickler ohne Hintergrunderfahrung in Low-Code lernten innerhalb eines Monats, wie man Anwendungen erstellt. Und 28\% lernten es in weniger als zwei Wochen \autocite{KevinShuler.2023}. Diese Studie bekräftigt das Konzept der Bürgerentwickler noch einmal.
 	
 	\subsection{Beschleunigter Entwicklungsprozess}	\label{faster}
-	Vierundsiebzig Prozent befragter Unternehmen nennen die Unfähigkeit so schnell das Softwareprodukt zu liefern wie es das Unternehmen braucht als Herausforderung in der digitalen Transformation \cite{EmmaVanPelt.2019}. \newline %Figure2
+	Vierundsiebzig Prozent befragter Unternehmen nennen die Unfähigkeit so schnell das Softwareprodukt zu liefern wie es das Unternehmen braucht als Herausforderung in der digitalen Transformation \autocite{EmmaVanPelt.2019}. \newline %Figure2
 	
-	Low-Code kann die Anwendungsentwicklung um den Faktor 10 beschleunigen, d. h. Entwickler können neue Anwendungen innerhalb von Tagen oder Wochen statt Monaten konzipieren, erstellen, testen und bereitstellen \cite{KevinShuler.2023}.
+	Low-Code kann die Anwendungsentwicklung um den Faktor 10 beschleunigen, d.h. Entwickler können neue Anwendungen innerhalb von Tagen oder Wochen statt Monaten konzipieren, erstellen, testen und bereitstellen \autocite{KevinShuler.2023}.
 	
-	Die IDC stellte fest, dass Low-Code den Softwareentwicklungszyklus bei neuen Anwendungen um 62\% und bei der Hinzufügung neuer Funktionen um 72\% verkürzt, einen zusätzlichen Jahresumsatz von 19,8 Millionen US-Dollar erzielt und die Produktivität um 123\% gesteigert hat \cite{KevinShuler.2023}.
+	Die IDC (International Data Corporation) stellte fest, dass Low-Code den Softwareentwicklungszyklus bei neuen Anwendungen um 62\% und bei der Hinzufügung neuer Funktionen um 72\% verkürzt, einen zusätzlichen Jahresumsatz von 19,8 Millionen US-Dollar erzielt und die Produktivität um 123\% gesteigert hat \autocite{KevinShuler.2023}.
 	
-	Low-Code- und No-Code-Plattformen können den Zeitaufwand für die Erstellung benutzerdefinierter Anwendungen im Vergleich zur herkömmlichen Anwendungsentwicklung, die auf einer Programmiersprache basiert, um 50 bis 90\% reduzieren \cite{KevinShuler.2023}.
+	Low-Code- und No-Code-Plattformen können den Zeitaufwand für die Erstellung benutzerdefinierter Anwendungen im Vergleich zur herkömmlichen Anwendungsentwicklung, die auf einer Programmiersprache basiert, um 50 bis 90\% reduzieren \autocite{KevinShuler.2023}.
 		
-	Moderne LCDPs können beispielsweise nicht nur Code generieren, sondern die erzeugten Softwaresysteme auch auf skalierbaren cloudbasierten Infrastrukturen einsetzen und und sie den Nutzern weltweit über webbasierte Schnittstellen sofort zur Verfügung stellen. Dies reduziert die Zeit und den Aufwand für die Freigabe von Anwendungen (und Updates) und erhöht die Attraktivität von LCDPs als Medium für eine schnelle Anwendungsentwicklung und -bereitstellung \cite{DiRuscio.2022}.
+	Moderne LCDPs können beispielsweise nicht nur Code generieren, sondern die erzeugten Softwaresysteme auch auf skalierbaren Cloud-basierten Infrastrukturen einsetzen und und sie den Nutzern weltweit über webbasierte Schnittstellen sofort zur Verfügung stellen. Dies reduziert die Zeit und den Aufwand für die Freigabe von Anwendungen und Updates und erhöht die Attraktivität von Low Code Development Plattformen als Medium für eine schnelle Anwendungsentwicklung und -bereitstellung \autocite{DiRuscio.2022}.
 	
-	Eine weitere Verbesserung: da im Grunde jeder in einem Unternehmen eine Rolle bei der Low-Code-Entwicklung spielen kann, können auch Nicht-Programmierer den Prozess beschleunigen, anstatt darauf zu warten, dass diejenigen mit Programmierkenntnissen Zeit haben, sich der App zu widmen \cite{Microsoft.2023}.
+	Es gibt aber auch noch eine weitere Verbesserung im Bezug auf die Zeit. Da im Grunde jeder in einem Unternehmen eine Rolle bei der Low-Code-Entwicklung spielen kann, können auch Nicht-Programmierer den Prozess beschleunigen, anstatt darauf zu warten, dass diejenigen mit Programmierkenntnissen Zeit haben, sich der App zu widmen \autocite{Microsoft.2023}.
 	
-	Low-Code-Plattformen optimieren außerdem die App-Entwicklung und machen die Teams letztlich produktiver. Entwickler tauschen ein wenig Programmierflexibilität gegen mehr Effizienz ein, aber Low-Code-Plattformen geben ihnen Zeit, damit sie sich auf Projekte konzentrieren können, die eine umfangreichere Programmierung erfordern \cite{Microsoft.2023}.
+	Low-Code-Plattformen optimieren außerdem die App-Entwicklung und machen die Teams letztlich produktiver. Entwickler tauschen ein wenig Programmierflexibilität gegen mehr Effizienz ein, aber Low-Code-Plattformen geben ihnen Zeit, damit sie sich auf Projekte konzentrieren können, die eine umfangreichere Programmierung erfordern \autocite{Microsoft.2023}.
 	
 	\subsection{Reduzierte Kosten}	
-	Durch die Verkürzung des Entwicklungszyklus aus zeitlicher Sicht werden auch die Kosten, unabhängig davon, ob die App vom Unternehmen selbst oder von externen Entwicklern entwickelt wird, reduziert \cite{Sanchis.2020b}. \newline
+	Durch die Verkürzung des Entwicklungszyklus aus zeitlicher Sicht werden auch die Kosten, unabhängig davon, ob die App vom Unternehmen selbst oder von externen Entwicklern entwickelt wird, reduziert \autocite{Sanchis.2020b}. \newline
 	
-	Aber das ist nicht der einzige Faktor der zur Kosteneinsparung beiträgt. Wie in \ref{MVP} bereits behandelt, können mit LCDPs auch MVPs erstellt werden, was zur Minimierung von instabilen oder inkonsistenten Anforderungen führt. Die Verwendung von Low-Code bedeutet, dass Entwickler schnell minimale lebensfähige Produkte erstellen können, um Ideen und Kundenanforderungen zu validieren, bevor sie Ressourcen für Features und Funktionalitäten verschwenden, die der Kunde möglicherweise gar nicht, oder nicht in der Form, möchte \cite{Sanchis.2020b}.
+	Aber das ist nicht der einzige Faktor welcher zur Kosteneinsparung beiträgt. Wie in \ref{MVP} bereits behandelt, können mit Low Code Development Plattformen auch MVPs erstellt werden. Das führt zu Minimierung von instabilen oder inkonsistenten Anforderungen. Die Verwendung von Low-Code bedeutet, dass Entwickler schnell minimale lebensfähige Produkte erstellen können, um Ideen und Kundenanforderungen zu validieren, bevor sie Ressourcen für Features und Funktionalitäten verschwenden, die der Kunde möglicherweise gar nicht, oder nicht in der Form, möchte \autocite{Sanchis.2020b}. \newline
 	
-	% DAS NOCH MACHEN UND GENAUER AUSARBEITEN BZW QUELLE SUCHEN	
-	% Low-code development reduces the need for more developers, reducing hiring costs. And, the right low-code platform can make everyone in the organization—not just IT—more productive.
+	Außerdem kann, wie in \ref{Personalmangel} bereits erläutert, durch LCDPs die Anzahl der benötigten Entwickler mit Programmierkenntnissen reduziert werden. Das spart ebenfalls Kosten.  
 	
 	\subsection{Hohe Sicherheitsstandards und geringe Ausfallzeiten} 
-	Einundsechzig Prozent befragter Unternehmen nennen Sicherheitsanforderungen als Herausforderung in der digitalen Transformation \cite{EmmaVanPelt.2019}. %Figure2
+	Einundsechzig Prozent befragter Unternehmen nennen Sicherheitsanforderungen als Herausforderung in der digitalen Transformation \autocite{EmmaVanPelt.2019}. \newline  %Figure2 
 	
-	Viele Unternehmen haben eine große Ansammlung von Anwendungen, zwischen denen sie Daten mit Tabellenkalkulationen austauschen, manchmal auch per Email. Dadurch sind diese Daten einem unnötigen Risiko ausgesetzt. Eine E-Mail oder ein Passwort genügen, um Ihre Kundendaten zu gefährden. Mit Low-Code wird die Cybersicherheit einer unternehmensweiten, cloudbasierten Plattform bereitgestellt. Und es gibt Teams, die diese Sicherheitsmaßnahmen regelmäßig aktualisieren, um sicherzustellen, dass alle ihre Kunden die Vorschriften einhalten \cite{KevinShuler.2023}. 
+	Viele Unternehmen haben eine große Ansammlung von Anwendungen, zwischen denen sie Daten mit Tabellenkalkulationen austauschen, manchmal auch per Email. Dadurch sind diese Daten einem unnötigen Risiko ausgesetzt. Eine E-Mail oder ein Passwort genügen, um Ihre Kundendaten zu gefährden. Mit Low-Code wird die Cybersicherheit durch eine unternehmensweite, Cloud-basierte Plattform bereitgestellt. Und es gibt Teams, die diese Sicherheitsmaßnahmen regelmäßig aktualisieren, um sicherzustellen, dass alle ihre Kunden die Vorschriften einhalten \autocite{KevinShuler.2023}. \newline
 	
-	Low-Code-Plattformen können außerdem oft auch hohe Unternehmensanforderungen im Bezug auf Sicherheit erfüllen. Unternehmen mit einer geringsten Toleranz gegenüber Ausfallzeiten und Datenverlusten kombiniert mit Anforderungen wie kontinuierliche Audits und unabhängige Sicherheitszertifizierungen, betreiben ihre Top-Anwendungen am ehesten auf Low-Code. Ihre Befürwortung von Low-Code beweist, dass unternehmenstaugliche Low-Code-Lösungen bereits auf dem Markt verfügbar sind \cite{EmmaVanPelt.2019}. \newline
+	Low-Code-Plattformen können außerdem oft auch hohe Unternehmensanforderungen im Bezug auf Sicherheit erfüllen. Unternehmen mit einer geringen Toleranz gegenüber Ausfallzeiten und Datenverlusten kombiniert mit Anforderungen wie kontinuierliche Audits und unabhängige Sicherheitszertifizierungen, betreiben ihre Top-Anwendungen am ehesten auf Low-Code. Ihre Befürwortung von Low-Code beweist, dass unternehmenstaugliche Low-Code-Lösungen bereits auf dem Markt verfügbar sind \autocite{EmmaVanPelt.2019}. \newline
 	
-	Und auch Datenschutz durch eine gesteigerte Privatsphäre spielt eine Rolle. Da durch LCDPs ohne eine tiefgreifende Expertise in der Programmierung entwickelt werden kann, können Unternehmen für die Entwicklung mehr und mehr auf eigene Mitarbeiter zurückgreifen und müssen diese Aufgabe nicht an Dritte auslagern. Das erhöht die Vertraulichkeit im Umgang mit eigenen Daten \cite{Sanchis.2020b}.
+	Und auch Datenschutz durch eine gesteigerte Privatsphäre spielt eine Rolle. Da durch Low Code Entwicklungsplattformen ohne eine tiefgreifende Expertise in der Programmierung entwickelt werden kann, können Unternehmen für die Entwicklung mehr und mehr auf eigene Mitarbeiter zurückgreifen und müssen diese Aufgabe nicht an Dritte auslagern. Das erhöht die Vertraulichkeit im Umgang mit den eigenen Daten \autocite{Sanchis.2020b}.
 	
 	\subsection{Schwierigkeiten mit komplexer Geschäftslogik}
 	Unternehmen werden sich Low-Code zuwenden, um komplexe Geschäftslogik zu erstellen.
-	Während viele Firmen heute benutzerdefinierten Code verwenden, um Anwendungen für komplexe
-	Geschäftslogik zu nutzen, sind sie bestrebt, auf dem Erfolg aufzubauen, den die Low-Code-Entwicklung in anderen Bereichen des Unternehmens gebracht hat. In Zukunft werden Unternehmen wahrscheinlich eher Low-Code als benutzerdefinierten Code einsetzen, um geschäftskritischen Anwendungen auszuführen \cite{EmmaVanPelt.2019}.
+	Obwohl viele Firmen heute benutzerdefinierten Code verwenden, um Anwendungen für komplexe Geschäftslogik zu nutzen, sind sie bestrebt, auf dem Erfolg aufzubauen, den die Low-Code-Entwicklung in anderen Bereichen des Unternehmens gebracht hat. In Zukunft werden Unternehmen wahrscheinlich eher Low-Code als benutzerdefinierten Code einsetzen, um geschäftskritische Anwendungen auszuführen \autocite{EmmaVanPelt.2019}.
 	
 	\subsection{Gesteigerte Flexibilität}
-	Ist eine Anwendung flexibel anpassbar, so kann die Anwendung immer den aktuellen Anforderungen entsprechend angepasst werden. Ist eine Anwendung flexibel anpassbar, so kann die Anwendung immer den aktuellen Anforderungen entsprechend angepasst werden. 
+	Ist eine Anwendung flexibel anpassbar, so kann diese immer den aktuellen Anforderungen entsprechend angepasst werden.
 	
 	Low-Code-Plattformen erweitern Flexibilität, Geschwindigkeit und Automatisierung. Vierundsechzig Prozent der Unternehmen, die Low-Code für Top-Anwendungen nutzen, nennen als Grund für diese Entscheidung weil es die flexibelste Option ist. 
-	Mehr als die Hälfte sagen, dass sie Low-Code verwenden, weil es die schnellste Speed-of-Delivery vorweisen kann. Und 49\% sagen, dass Low-Code die besten Möglichkeiten zur Prozessautomatisierung bietet \cite{EmmaVanPelt.2019}. \newline
+	Mehr als die Hälfte sagen, dass sie Low-Code verwenden, weil es die schnellste Speed-of-Delivery vorweisen kann. Und 49\% sagen, dass Low-Code die besten Möglichkeiten zur Prozessautomatisierung bietet \autocite{EmmaVanPelt.2019}. \newline
 	
-	Die Wartungsphase einer Software ist ebenfalls von entscheidender Bedeutung um eine permanente Übereinstimmung zwischen dem von der App angebotenen und den geschäftlichen Anforderungen zu gewährleisten. Da Low-Code-Entwicklungsplattformen im Wesentlichen daraus bestehen, wenig Code anzubieten, muss auch wenig Code gewartet werden, was die Flexibilität steigert \cite{Sanchis.2020b}.
+	Die Wartungsphase einer Software ist ebenfalls von entscheidender Bedeutung um eine permanente Übereinstimmung zwischen dem von der App angebotenen und den geschäftlichen Anforderungen zu gewährleisten. Da Low-Code-Entwicklungsplattformen im Wesentlichen daraus bestehen, wenig Code anzubieten, muss auch wenig Code gewartet werden, was die Flexibilität steigert \autocite{Sanchis.2020b}.
 	
-	\subsection{Cloud-basiertes Deployment}
-	Moderne LCDPs können nicht nur Code generieren, sondern die erstellten Softwaresysteme auch auf skalierbaren cloudbasierten Infrastrukturen bereitstellen und sie den Nutzern weltweit über webbasierte Schnittstellen sofort zugänglich machen. Dies kann den Zeit- und Arbeitsaufwand für die Freigabe von Anwendungen (und Updates) für Nutzer drastisch verkürzen und die Attraktivität von LCDPs als Medium für die schnelle Anwendungsentwicklung und -bereitstellung erhöhen \cite{DiRuscio.2022}.
+	%\subsection{Cloud-basiertes Deployment}
+	%Moderne Low Code Entwicklungsplattformen können nicht nur Code generieren, sondern die erstellten Softwaresysteme auch auf skalierbaren Cloud-basierten Infrastrukturen bereitstellen und sie den Nutzern weltweit über webbasierte Schnittstellen sofort zugänglich machen. Dies kann den Zeit- und Arbeitsaufwand für die Freigabe von Anwendungen (und Updates) für Nutzer drastisch verkürzen und die Attraktivität von LCDPs als Medium für die schnelle Anwendungsentwicklung und -bereitstellung erhöhen \autocite{DiRuscio.2022}.
 	
 
 
 	%Software-Projekte haben keine so mega hohe Erfolgsquote, LCDPs haben den Anspruch das zu verbessern <- Quellen 
-	%vielleicht auch noch die NASCIO Studie zitieren, die belegt dass Unternehmen Low Code als wichtigen Trend betrachten
 	%---------------------------------------------------------------------------------------------------
 	
-	\section{Marktforschungen und Prognosen}
-	Um unsere Leitfrage näher zu kommen, werden im folgenden Kapitel auch aktuelle Marktforschungen und Prognosen näher betrachtet. Unsere Leitfrage setzt eine Vermutung über die Zukunft voraus. Die aktuelle Lage in der Industrie und Prognosen von Marktforschungsinstituten bilden die beste Grundlage um Aussagen über die Zukunft treffen zu können. 
+	\section{Marktforschungen und Prognosen} \label{Zukunftsaussicht}
+	Um unserer Leitfrage nochmals näher zu kommen, werden im folgenden Kapitel aktuelle Marktforschungen und Prognosen von Marktforschungsinstituten näher betrachtet. Unsere Leitfrage setzt eine Vermutung über die Zukunft voraus. \newline
 
 	Der globale Markt für Low-Code wird bis 2027 auf rund 65 Milliarden US-Dollar geschätzt. Außerdem wird erwartet, dass er bis 2030 187 Milliarden Dollar erreichen wird. Das entspricht einer Wachstumsrate von 31,1\% für den Zeitraum 2020-2030.
-	Im Jahr 2019 waren es 10,3 Milliarden US-Dollar. COVID 19 treibte diese Entwicklung aufgrund immer mehr Remote-Arbeitsumgebungen, der Notwendigkeit für Unternehmen, agil zu sein, und dem Streben nach schlanken, effizienteren Geschäftssystemen voran \cite{KevinShuler.2023}.
-	Bis 2025 werden Unternehmen 70\% ihrer neuen Anwendungen mit Low-Code- oder No-Code-Plattformen entwickeln (Im Jahr 2020 waren es noch weniger als 25\%) \cite{KevinShuler.2023}. 
+	Im Jahr 2019 waren es 10,3 Milliarden US-Dollar. COVID-19 trieb diese Entwicklung aufgrund der gesteigerten Anzahl an Remote-Arbeitsumgebungen, der Notwendigkeit für Unternehmen, agil zu sein, und dem Streben nach schlanken, effizienteren Geschäftssystemen voran \autocite{KevinShuler.2023}.
+	Bis 2025 werden Unternehmen 70\% ihrer neuen Anwendungen mit Low-Code- oder No-Code-Plattformen entwickeln. Im Jahr 2020 waren es noch weniger als 25\% \autocite{KevinShuler.2023}. \newline
 	
 	Bis 2024 werden die meisten Unternehmen (80\%) Richtlinien für Bürgerentwickler eingeführt haben. Dies wird der Versuch sein, die IT-Abteilungen zu entlasten und gleichzeitig die Arbeitsabläufe zu verbessern, da Unternehmen in zunehmend unberechenbaren Märkten arbeiten. 	
-	Derzeit geben 72\% der IT-Führungskräfte an, dass ihr Ticket-Backlog strategische Projekte behindert. Tatsächlich verbringen sie einen Großteil ihrer Zeit mit der Wartung von Altsystemen.	26\% der Führungskräfte halten Low-Code-Plattformen für die wichtigste Investition in die Automatisierung (seit der Pandemie von 10\% angestiegen) \cite{KevinShuler.2023}.
+	Derzeit geben 72\% der IT-Führungskräfte an, dass ihr Ticket-Backlog strategische Projekte behindert. Tatsächlich verbringen sie einen Großteil ihrer Zeit mit der Wartung von Altsystemen. 26\% der Führungskräfte halten Low-Code-Plattformen für die wichtigste Investition in die Automatisierung (seit der Pandemie von 10\% angestiegen) \autocite{KevinShuler.2023}. \newline
 	
-	Gartner geht davon aus, dass es bis 2023 in großen Unternehmen viermal mehr Bürgerentwickler als professionelle Entwickler geben wird. LCDPs werden innerhalb von 2 bis 5 Jahren den Mainstream erreichen \cite{KevinShuler.2023}.
+	Gartner geht davon aus, dass es bis 2023 in großen Unternehmen viermal mehr Bürgerentwickler als professionelle Entwickler geben wird. Low Code Entwicklungsplattformen werden innerhalb von zwei bis fünf Jahren den Mainstream erreichen \autocite{KevinShuler.2023}. \newline
 	
-	In einem Bericht von 451 Research und Filemaker, Inc. aus dem Jahr 2017 gaben 82\% der Unternehmen an, dass die App-Entwicklung außerhalb der IT-Abteilung wichtig ist. In diesem Bericht wurde festgestellt, dass fast 60\% der Individualsoftware außerhalb der IT-Abteilung entwickelt wurden. Laut Gartner könnte diese Zahl dank Low-Code bis 2024 auf 70\% steigen. 
+	In einem Bericht von 451 Research und Filemaker, Inc. aus dem Jahr 2017 gaben 82\% der Unternehmen an, dass die App-Entwicklung außerhalb der IT-Abteilung wichtig ist. In diesem Bericht wurde festgestellt, dass fast 60\% der Individualsoftware außerhalb der IT-Abteilung entwickelt wurden. Laut Gartner könnte diese Zahl dank Low-Code bis 2024 auf 70\% steigen. \newline
 	
-	Forrester schätzt, dass bis Ende 2021 75\% der gesamten Unternehmenssoftware mit Low-Code entwickelt werden wird. Bis 2023 werden Unternehmen mehr als 500 Millionen Apps in der Cloud entwickeln (das entspricht der Anzahl der in den letzten 40 Jahren entwickelten Apps) \cite{KevinShuler.2023}.
+	Forrester schätzt, dass bis Ende 2021 75\% der gesamten Unternehmenssoftware mit Low-Code entwickelt werden wird. Bis 2023 werden Unternehmen mehr als 500 Millionen Apps in der Cloud entwickeln (das entspricht der Anzahl der in den letzten 40 Jahren entwickelten Apps) \autocite{KevinShuler.2023}. \newline
 	
-	Bis 2024 werden 75\% der Unternehmen mindestens vier Low-Code-Plattformen für die Entwicklung von Geschäftsanwendungen nutzen. Angetrieben durch die Pandemie werden über 50\% der mittleren und großen Unternehmen eine Low-Code- oder No-Code-Plattform für die Anwendungsentwicklung nutzen \cite{KevinShuler.2023}. \newline
+	Bis 2024 werden 75\% der Unternehmen mindestens vier Low-Code-Plattformen für die Entwicklung von Geschäftsanwendungen nutzen. Angetrieben durch die Pandemie werden über 50\% der mittleren und großen Unternehmen eine Low-Code- oder No-Code-Plattform für die Anwendungsentwicklung nutzen \autocite{KevinShuler.2023}. \newline
 	
-	Laut der Gartner-Umfrage haben 4\% der Befragten derzeit Bürgerentwicklungsinitiativen eingerichtet. Und 20\% der Unternehmen, die noch keine solchen Initiativen haben, sind dabei, solche zu entwickeln oder zu evaluieren. Mit zunehmender Verbreitung dieser Systeme und dem Bekanntwerden ihrer Vorteile bei Entwicklern und IT-Führungskräften wird der Druck auf die Unternehmen steigen, diese Systeme einzuführen \cite{KevinShuler.2023}.
+	Laut der Gartner-Umfrage haben 4\% der Befragten derzeit Bürgerentwicklungsinitiativen eingerichtet. Und 20\% der Unternehmen, die noch keine solchen Initiativen haben, sind dabei, solche zu entwickeln oder zu evaluieren. Mit zunehmender Verbreitung dieser Systeme und dem Bekanntwerden ihrer Vorteile bei Entwicklern und IT-Führungskräften wird der Druck auf die Unternehmen steigen, diese Systeme einzuführen \autocite{KevinShuler.2023}. \newline
 	
-	47\% der Entwickler gaben an, dass sie keinen Zugang zu den Tools haben, die sie benötigen, um Anwendungen schnell genug zu erstellen, um Termine einzuhalten. Und 41\% der Entwickler wünschen sich, dass mehr als die Hälfte der Anwendungen in ihrem Unternehmen auf Low-Code-Plattformen erstellt werden \cite{KevinShuler.2023}.
+	47\% der Entwickler gaben an, dass sie keinen Zugang zu den Tools haben, die sie benötigen, um Anwendungen schnell genug zu erstellen, um Termine einzuhalten. Und 41\% der Entwickler wünschen sich, dass mehr als die Hälfte der Anwendungen in ihrem Unternehmen auf Low-Code-Plattformen erstellt werden \autocite{KevinShuler.2023}. \newline
 	
-	Während 4 von 5 Unternehmen in den USA derzeit Low-Code verwenden, sind es immer noch 20\%, die dies nicht tun. Weltweit liegt diese Zahl bei 23\% \cite{KevinShuler.2023}.
+	Während 4 von 5 Unternehmen in den USA derzeit Low-Code verwenden, sind es immer noch 20\%, die dies nicht tun. Weltweit liegt diese Zahl bei 23\% \autocite{KevinShuler.2023}. Laut Appian haben 31\% der Unternehmen, die derzeit Low-Code verwenden, keine ihrer hochwertigsten Anwendungen damit entwickelt oder bereitgestellt \autocite{KevinShuler.2023}. Die Gründe für diese Zahlen, werden unter \ref{Nachteile} erläutert. \newline
 	
-	Laut Appian haben 31\% der Unternehmen, die derzeit Low-Code verwenden, keine ihrer hochwertigsten Anwendungen damit entwickelt oder bereitgestellt \cite{KevinShuler.2023}.
-	
-	
-	
-	%------!!!!!!!--- das darunter irgendwie einbauen oder raus nehmen und darüber schauen dass das irgendwie besser zusammenm gehört (das ist basically üersetzt und eoingefügt)----!!!!!!!-----------
-	
-	Microsoft informiert mit einer Umfrage zum Low Code Productivity Impacts Trend Index, welche von einem unabhängigen Forschungsunternehmen, Edelman Data x Intelligence, unter 322 Nutzern von Low Code/No Code-Plattformen oder -Apps, 300 potenziellen Nutzern von Low Code/No Code-Plattformen oder -Apps, 150 Entscheidungsträgern in Unternehmen, die Low Code/No Code-Fähigkeiten einstellen möchten, und 150 Entscheidungsträgern in Unternehmen, die bereits Low Code/No Code-Plattformen oder -Apps in ihrem Unternehmen nutzen, durchgeführt wurde \cite{Microsoft.2022}. Die Studie beantwortet die Frage warum, wenn Low-Code- und No-Code-Plattformen ein so großes Potenzial für die Unternehmenskultur haben, sie dann nicht schon heute häufiger eingesetzt werden. Eine überwältigende Mehrheit der Entscheidungsträger in Unternehmen und Nutzer (71 Prozent bzw. 76 Prozent) verweist auf ein mangelndes Bewusstsein für potenzielle Anwendungsfälle. Auch Bedenken hinsichtlich der Cybersicherheit sowie der Kosten und des Schulungsaufwands für die Mitarbeiter, welche den Nutzen dieser Plattformen oder Anwendungen maximieren sollen, stehen an erster Stelle. Wie bei jeder Unternehmensinvestition wollen die Führungskräfte sicher sein, dass sie eine sinnvolle Rendite erzielen werden \cite{Microsoft.2022}.
-	
-	Einmal eingeführt, sprechen die Ergebnisse schnell für sich selbst und setzen einen Innovationszyklus in Gang - doch die Sicherung der Anfangsinvestitionen erweist sich als Hindernis. Entscheidungsträger dessen wissen am ehesten, wie der Entscheidungsprozess in ihrem Unternehmen abläuft; sie spielen eine Schlüsselrolle, wenn es darum geht, mit den Anwendern in Kontakt zu treten, um die notwendigen Beweise für die Investition des Unternehmens zu erbringen. Angesichts der eindeutigen kulturellen Vorteile und der Erfolgsgeschichten der Anwender haben BDMs ein überzeugendes Argument für die Einführung, das sie der Führungsebene vorlegen können \cite{Microsoft.2022}.
+	Die Sicherung der Anfangsinvestitionen erweist sich als Hindernis, doch einmal eingeführt, sprechen die Ergebnisse schnell für sich selbst und setzen einen Innovationszyklus in Gang. Entscheidungsträger dieser Anfangsinvestitionen wissen am ehesten, wie der Entscheidungsprozess in ihrem Unternehmen abläuft; sie spielen eine Schlüsselrolle, wenn es darum geht, mit den Anwendern in Kontakt zu treten, um die notwendigen Beweise für die Investition des Unternehmens zu erbringen. Angesichts der eindeutigen kulturellen Vorteile und der Erfolgsgeschichten der Anwender haben diese Entscheidungskräfte aber ein überzeugendes Argument für die Einführung, das sie der Führungsebene vorlegen können \autocite{Microsoft.2022}.
 		
 	%---------------------------------------------------------------------------------------------------
 	
 	\section{Fazit und Zukunftsausblick}
-	Um diese Hausarbeit abzurunden, fasst dieser Abschnitt nun die zuvor gewonnen Informationen und Erkenntnisse zusammen. Anhand dessen wird dann eine Beantwortung der Leitfrag "Werden sich Low-Code Development Platforms durchsetzen?" geboten. \newline
+	Um diese Hausarbeit abzurunden, fasst dieser Abschnitt nun die zuvor gewonnen Informationen und Erkenntnisse zusammen. Anhand dessen wird dann eine Beantwortung der Leitfrage "Werden sich Low-Code Development Plattformen durchsetzen?" geboten. \newline
 	
-	Innerhalb der vorherigen Kapitel wurden detailreich einige Nach- und einige Vorteile von Low Code Development Plattformen erläutert. Während die Nachteile 
+	Rückblickend auf die vorhergehenden Kapitel kann man einige Nachteile aber auch viele Vorteile von Low Code Entwicklungsplattformen feststellen. Die Gegenüberstellung dieser und die darauf folgenden aktuellen Zahlen und Prognosen eigenen sich dafür zu beantworten ob sich diese Art der Entwicklung durchsetzen kann und wird. \newline
 	
-	% Forrester ding von emmavanpelt auf seite 7/17 schauen
+	Low Code Entwicklungsplattformen machen einigen Entscheidungsträgern wegen ihrer Nachteile immer noch Bedenken. Ein Nachteil von LCDPs ist zum Beispiel die steile Lernkurve, die manche Entwicklungsplattformen immer noch mit sich bringen und Bürgerentwickler abschrecken. 
 	
-	Anhand der nun genannten Informationen lässt sich annehmen dass LCDPs sich in der Zukunft durchsetzen werden. 
+	Aber auch die geringe Interoperabilität stellt einen Nachteil dar, der durch die wenigen offenen Standards entsteht. Durch sie wird die Zusammenarbeit zwischen Fachkundigen und Entwicklern erschwert und die Skalierbarkeit geringer gehalten. 
 	
+	Low Code Entwicklungsplattformen können außerdem wenig flexibel und anpassbar sein. Individuelle, neuartige Anpassungen sind wegen fehlender Standards unter Umständen schwer zu integrieren.
+	
+	Ein weiterer, nicht außer Acht zu lassender Nachteil sind die geringen Teststandards. Auch im Bereich des Testens führen die fehlenden Standards zu Problemen, wie entstandene Abhängigkeiten zwischen LCDPs und Testwerkzeugen Dritter. Die Qualität dieser Werkzeuge und Benutzbarkeit für Bürgerentwickler ist dadurch abhängig von einem weiteren Anbieter.  
+
+	Die hohe Anzahl an LCDPs mit Unterschiedlichen Merkmalen bringt Auswahlschwierigkeiten mit sich. Die richtige Entscheidung ist aber essentiell um die Verschwendung von Zeit und Ressourcen zu vermeiden. \newline
+	
+	Neben diesen Nachteilen gibt es aber auch eine lange Liste an Vorteilen dieser Entwicklungsplattformen. Vorkonfigurierte APIs und Konnektoren in LCDPs machen das Erstellen von großen Systemen und gemeinsame Nutzen von Daten ohne hohen Aufwand möglich. 
+	
+	Einer der größten Vorteile von LCDPs ist die Zusammenarbeit von Entwickler mit Programmierkenntnissen und Bürgerentwicklern. Dies wirkt dem Personalmangel entgegen, reduziert die Personalkosten und steigert dabei die Qualität des Projektergebnisses durch den Einfluss von Fachkundigen. 
+	
+	Low Code Entwicklungsplattformen beschleunigen Außerdem den Entwicklungsprozess. Der reduzierte Aufwand für die Entwicklung und Freigabe von Anwendungen und Updates hält die Time-To-Market gering. Zusätzlich kann der Entwicklungsprozess dadurch beschleunigt werden, dass der Projektfortschritt weniger Abhängig von Projektmitgliedern mit Programmierkenntnissen ist. 
+	
+	Auch hohe Sicherheitsstandards und geringe Ausfallzeiten kann als Vorteil genannt werden. Der Cloud-basierte Ansatz erhöht die Cybersicherheit und auch spezielle Teams der Low-Code-Plattform-Anbieter, welche die Sicherheit sicherstellen sorgen für einen hohen Sicherheitsstandard. Dazu kommt noch eine gesteigerte Privatsphäre durch den Verzicht auf das Auslagern der Entwicklung. 
+	
+	Im Gegensatz zum bereits erwähnten Nachteil der geringen Flexibilität kann die Entwicklung auch gerade durch die Nutzung von LCDPs flexibel sein. Der geringe Programmieranteil und schon vordefinierte Bausteine steigern die Speed-of-Delivery und erhöhen somit die Flexibilität der Anwendungsentwicklung. 
+	
+	Der für Entscheidungsträger innerhalb der Unternehmen wohl wichtigsten Vorteil sind die reduzierten Kosten, welche das Entwickeln mit Low Code mit sich bringt. Die reduzierte Anzahl an technisch qualifizierten Mitarbeitern innerhalb des Projektes, der beschleunigte Entwicklungsprozess und neue Anwendungsmöglichkeiten wie die Erstellung von Minimum Viable Products senken die Entwicklungskosten. \newline
+	
+	Die Gegenüberstellung der nun genannten Vor- und Nachteile lässt XZS \newline
+	% wie kann ich sagen dass das jetzt bedeutet das LCDPs Zukunft haben???
+	
+	
+	Des weiteren haben in \ref{Zukunftsaussicht} auch einen Blick in die Zukunft gehabt. Aktuelle Marktforschungsergebnisse und Prognosen vermuten einen sehr hohen Anstieg in der Nutzung von Low Code Entwicklungsplattformen. 
+	%was soll ich denn da jetzt noch schreiben????
+	
+	%Ich brauche so ca noch 60 Wörter mehr haha
+	
+	% Forrester ding von emmavanpelt auf seite 7/17 schauen	
 	\newpage	
-	\printbibliography %[title={\section{Referenzen}}] %da noch mal in der Präsi schauen ob die richtig ist
+	\printbibliography 
 
 \end{document}

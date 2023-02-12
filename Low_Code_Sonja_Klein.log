@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.11.6)  7 FEB 2023 15:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.12)  12 FEB 2023 16:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./Low_Code_Sonja_Klein.tex
 (Low_Code_Sonja_Klein.tex
-LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-02-24>
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-02>
 (C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
-File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -19,15 +19,15 @@ File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \c@subparagraph=\count190
 \c@figure=\count191
 \c@table=\count192
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen138
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
 )
 (C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
 (C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
 (C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
@@ -39,22 +39,31 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@cnth=\count193
 \Gm@cntv=\count194
 \c@Gm@tempcnt=\count195
-\Gm@bindingoffset=\dimen139
-\Gm@wd@mp=\dimen140
-\Gm@odd@mp=\dimen141
-\Gm@even@mp=\dimen142
-\Gm@layoutwidth=\dimen143
-\Gm@layoutheight=\dimen144
-\Gm@layouthoffset=\dimen145
-\Gm@layoutvoffset=\dimen146
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks17
 
 (C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
 (C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
+(C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip50
+\enit@outerparindent=\dimen149
+\enit@toks=\toks18
+\enit@inbox=\box51
+\enit@count@id=\count196
+\enitdp@description=\count197
+)
 (C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
-Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
+Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
 
 (C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
 .sty
@@ -73,7 +82,7 @@ Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 ) (C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count196
+\etb@tempcnta=\count198
 )
 (C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
@@ -82,220 +91,219 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )) (C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count197
+\lrq@indent=\count199
 
 (C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
 (C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
-Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
 (C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count198
-\c@listtotal=\count199
-\c@listcount=\count266
-\c@liststart=\count267
-\c@liststop=\count268
-\c@citecount=\count269
-\c@citetotal=\count270
-\c@multicitecount=\count271
-\c@multicitetotal=\count272
-\c@instcount=\count273
-\c@maxnames=\count274
-\c@minnames=\count275
-\c@maxitems=\count276
-\c@minitems=\count277
-\c@citecounter=\count278
-\c@maxcitecounter=\count279
-\c@savedcitecounter=\count280
-\c@uniquelist=\count281
-\c@uniquename=\count282
-\c@refsection=\count283
-\c@refsegment=\count284
-\c@maxextratitle=\count285
-\c@maxextratitleyear=\count286
-\c@maxextraname=\count287
-\c@maxextradate=\count288
-\c@maxextraalpha=\count289
-\c@abbrvpenalty=\count290
-\c@highnamepenalty=\count291
-\c@lownamepenalty=\count292
-\c@maxparens=\count293
-\c@parenlevel=\count294
-\blx@tempcnta=\count295
-\blx@tempcntb=\count296
-\blx@tempcntc=\count297
-\c@blx@maxsection=\count298
-\c@blx@maxsegment@0=\count299
-\blx@notetype=\count300
-\blx@parenlevel@text=\count301
-\blx@parenlevel@foot=\count302
-\c@blx@sectionciteorder@0=\count303
-\blx@entrysetcounter=\count304
-\blx@biblioinstance=\count305
-\labelnumberwidth=\skip49
-\labelalphawidth=\skip50
-\biblabelsep=\skip51
-\bibitemsep=\skip52
-\bibnamesep=\skip53
-\bibinitsep=\skip54
-\bibparsep=\skip55
-\bibhang=\skip56
+\c@tabx@nest=\count266
+\c@listtotal=\count267
+\c@listcount=\count268
+\c@liststart=\count269
+\c@liststop=\count270
+\c@citecount=\count271
+\c@citetotal=\count272
+\c@multicitecount=\count273
+\c@multicitetotal=\count274
+\c@instcount=\count275
+\c@maxnames=\count276
+\c@minnames=\count277
+\c@maxitems=\count278
+\c@minitems=\count279
+\c@citecounter=\count280
+\c@maxcitecounter=\count281
+\c@savedcitecounter=\count282
+\c@uniquelist=\count283
+\c@uniquename=\count284
+\c@refsection=\count285
+\c@refsegment=\count286
+\c@maxextratitle=\count287
+\c@maxextratitleyear=\count288
+\c@maxextraname=\count289
+\c@maxextradate=\count290
+\c@maxextraalpha=\count291
+\c@abbrvpenalty=\count292
+\c@highnamepenalty=\count293
+\c@lownamepenalty=\count294
+\c@maxparens=\count295
+\c@parenlevel=\count296
+\blx@tempcnta=\count297
+\blx@tempcntb=\count298
+\blx@tempcntc=\count299
+\c@blx@maxsection=\count300
+\blx@maxsegment@0=\count301
+\blx@notetype=\count302
+\blx@parenlevel@text=\count303
+\blx@parenlevel@foot=\count304
+\blx@sectionciteorder@0=\count305
+\blx@sectionciteorderinternal@0=\count306
+\blx@entrysetcounter=\count307
+\blx@biblioinstance=\count308
+\labelnumberwidth=\skip51
+\labelalphawidth=\skip52
+\biblabelsep=\skip53
+\bibitemsep=\skip54
+\bibnamesep=\skip55
+\bibinitsep=\skip56
+\bibparsep=\skip57
+\bibhang=\skip58
 \blx@bcfin=\read2
 \blx@bcfout=\write3
 \blx@langwohyphens=\language79
-\c@mincomprange=\count306
-\c@maxcomprange=\count307
-\c@mincompwidth=\count308
+\c@mincomprange=\count309
+\c@maxcomprange=\count310
+\c@mincompwidth=\count311
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
 (C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
-File: blx-dm.def 2022/02/02 v3.17 biblatex localization (PK/MW)
+File: blx-dm.def 2022/07/12 v3.18b biblatex localization (PK/MW)
 )
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'authoryear.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count309
-\c@savedafterword=\count310
-\c@annotator=\count311
-\c@savedannotator=\count312
-\c@author=\count313
-\c@savedauthor=\count314
-\c@bookauthor=\count315
-\c@savedbookauthor=\count316
-\c@commentator=\count317
-\c@savedcommentator=\count318
-\c@editor=\count319
-\c@savededitor=\count320
-\c@editora=\count321
-\c@savededitora=\count322
-\c@editorb=\count323
-\c@savededitorb=\count324
-\c@editorc=\count325
-\c@savededitorc=\count326
-\c@foreword=\count327
-\c@savedforeword=\count328
-\c@holder=\count329
-\c@savedholder=\count330
-\c@introduction=\count331
-\c@savedintroduction=\count332
-\c@namea=\count333
-\c@savednamea=\count334
-\c@nameb=\count335
-\c@savednameb=\count336
-\c@namec=\count337
-\c@savednamec=\count338
-\c@translator=\count339
-\c@savedtranslator=\count340
-\c@shortauthor=\count341
-\c@savedshortauthor=\count342
-\c@shorteditor=\count343
-\c@savedshorteditor=\count344
-\c@labelname=\count345
-\c@savedlabelname=\count346
-\c@institution=\count347
-\c@savedinstitution=\count348
-\c@lista=\count349
-\c@savedlista=\count350
-\c@listb=\count351
-\c@savedlistb=\count352
-\c@listc=\count353
-\c@savedlistc=\count354
-\c@listd=\count355
-\c@savedlistd=\count356
-\c@liste=\count357
-\c@savedliste=\count358
-\c@listf=\count359
-\c@savedlistf=\count360
-\c@location=\count361
-\c@savedlocation=\count362
-\c@organization=\count363
-\c@savedorganization=\count364
-\c@origlocation=\count365
-\c@savedoriglocation=\count366
-\c@origpublisher=\count367
-\c@savedorigpublisher=\count368
-\c@publisher=\count369
-\c@savedpublisher=\count370
-\c@language=\count371
-\c@savedlanguage=\count372
-\c@origlanguage=\count373
-\c@savedoriglanguage=\count374
-\c@pageref=\count375
-\c@savedpageref=\count376
-\shorthandwidth=\skip57
-\shortjournalwidth=\skip58
-\shortserieswidth=\skip59
-\shorttitlewidth=\skip60
-\shortauthorwidth=\skip61
-\shorteditorwidth=\skip62
-\locallabelnumberwidth=\skip63
-\locallabelalphawidth=\skip64
-\localshorthandwidth=\skip65
-\localshortjournalwidth=\skip66
-\localshortserieswidth=\skip67
-\localshorttitlewidth=\skip68
-\localshortauthorwidth=\skip69
-\localshorteditorwidth=\skip70
+\c@afterword=\count312
+\c@savedafterword=\count313
+\c@annotator=\count314
+\c@savedannotator=\count315
+\c@author=\count316
+\c@savedauthor=\count317
+\c@bookauthor=\count318
+\c@savedbookauthor=\count319
+\c@commentator=\count320
+\c@savedcommentator=\count321
+\c@editor=\count322
+\c@savededitor=\count323
+\c@editora=\count324
+\c@savededitora=\count325
+\c@editorb=\count326
+\c@savededitorb=\count327
+\c@editorc=\count328
+\c@savededitorc=\count329
+\c@foreword=\count330
+\c@savedforeword=\count331
+\c@holder=\count332
+\c@savedholder=\count333
+\c@introduction=\count334
+\c@savedintroduction=\count335
+\c@namea=\count336
+\c@savednamea=\count337
+\c@nameb=\count338
+\c@savednameb=\count339
+\c@namec=\count340
+\c@savednamec=\count341
+\c@translator=\count342
+\c@savedtranslator=\count343
+\c@shortauthor=\count344
+\c@savedshortauthor=\count345
+\c@shorteditor=\count346
+\c@savedshorteditor=\count347
+\c@labelname=\count348
+\c@savedlabelname=\count349
+\c@institution=\count350
+\c@savedinstitution=\count351
+\c@lista=\count352
+\c@savedlista=\count353
+\c@listb=\count354
+\c@savedlistb=\count355
+\c@listc=\count356
+\c@savedlistc=\count357
+\c@listd=\count358
+\c@savedlistd=\count359
+\c@liste=\count360
+\c@savedliste=\count361
+\c@listf=\count362
+\c@savedlistf=\count363
+\c@location=\count364
+\c@savedlocation=\count365
+\c@organization=\count366
+\c@savedorganization=\count367
+\c@origlocation=\count368
+\c@savedoriglocation=\count369
+\c@origpublisher=\count370
+\c@savedorigpublisher=\count371
+\c@publisher=\count372
+\c@savedpublisher=\count373
+\c@language=\count374
+\c@savedlanguage=\count375
+\c@origlanguage=\count376
+\c@savedoriglanguage=\count377
+\c@pageref=\count378
+\c@savedpageref=\count379
+\shorthandwidth=\skip59
+\shortjournalwidth=\skip60
+\shortserieswidth=\skip61
+\shorttitlewidth=\skip62
+\shortauthorwidth=\skip63
+\shorteditorwidth=\skip64
+\locallabelnumberwidth=\skip65
+\locallabelalphawidth=\skip66
+\localshorthandwidth=\skip67
+\localshortjournalwidth=\skip68
+\localshortserieswidth=\skip69
+\localshorttitlewidth=\skip70
+\localshortauthorwidth=\skip71
+\localshorteditorwidth=\skip72
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
 (C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
-File: blx-compat.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+File: blx-compat.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
-File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
-\c@textcitecount=\count377
-\c@textcitetotal=\count378
-\c@textcitemaxnames=\count379
-\c@biburlbigbreakpenalty=\count380
-\c@biburlbreakpenalty=\count381
-\c@biburlnumpenalty=\count382
-\c@biburlucpenalty=\count383
-\c@biburllcpenalty=\count384
+File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+\c@textcitecount=\count380
+\c@textcitetotal=\count381
+\c@textcitemaxnames=\count382
+\c@biburlbigbreakpenalty=\count383
+\c@biburlbreakpenalty=\count384
+\c@biburlnumpenalty=\count385
+\c@biburlucpenalty=\count386
+\c@biburllcpenalty=\count387
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count385
+\c@smartand=\count388
 )
-Package biblatex Info: Trying to load bibliography style 'numeric'...
-Package biblatex Info: ... file 'numeric.bbx' found.
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
 
-(C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bb
-x
-File: numeric.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+(C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\authoryear
+.bbx
+File: authoryear.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
 (C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
 bx
-File: standard.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count386
-\c@bbx:relatedtotal=\count387
+File: standard.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count389
+\c@bbx:relatedtotal=\count390
 ))
-Package biblatex Info: Trying to load citation style 'numeric'...
-Package biblatex Info: ... file 'numeric.cbx' found.
+Package biblatex Info: Trying to load citation style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.cbx' found.
 
-(C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric.cb
-x
-File: numeric.cbx 2022/02/02 v3.17 biblatex citation style (PK/MW)
+(C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\authoryear
+.cbx
+File: authoryear.cbx 2022/07/12 v3.18b biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
 Package biblatex Info: Redefining '\footcitetext'.
 Package biblatex Info: Redefining '\smartcite'.
-Package biblatex Info: Redefining '\supercite'.
 Package biblatex Info: Redefining '\textcite'.
 Package biblatex Info: Redefining '\textcites'.
-Package biblatex Info: Redefining '\cites'.
-Package biblatex Info: Redefining '\parencites'.
-Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
@@ -307,16 +315,16 @@ Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 
 (C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2022-02-24 L3 programming layer (loader) 
+Package: expl3 2023-02-02 L3 programming layer (loader) 
 
 (C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
-File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count388
-\l__pdf_internal_box=\box50
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count391
+\l__pdf_internal_box=\box52
 ))
 Package biblatex Info: ... and expl3
-(biblatex)             2022-02-24 L3 programming layer (loader) 
+(biblatex)             2023-02-02 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
@@ -324,45 +332,37 @@ Package biblatex Info: ... and expl3
 .sty
 (C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
 e.sty
-Package: xparse 2022-01-12 L3 Experimental document command parser
+Package: xparse 2023-01-16 L3 Experimental document command parser
 )
-Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
+Package: blx-case-expl3 2022/07/12 v3.18b expl3 case changing code for biblatex
+
 ))
-(C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
-Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip71
-\enit@outerparindent=\dimen147
-\enit@toks=\toks18
-\enit@inbox=\box51
-\enit@count@id=\count389
-\enitdp@description=\count390
-)
-\@quotelevel=\count391
-\@quotereset=\count392
-LaTeX Font Info:    Trying to load font information for OT1+ on input line 17.
-LaTeX Font Info:    No file OT1.fd. on input line 17.
+\@quotelevel=\count392
+\@quotereset=\count393
+LaTeX Font Info:    Trying to load font information for OT1+ on input line 19.
+LaTeX Font Info:    No file OT1.fd. on input line 19.
 
 
 LaTeX Font Warning: Font shape `OT1//m/n' undefined
-(Font)              using `OT1/cmr/m/n' instead on input line 17.
+(Font)              using `OT1/cmr/m/n' instead on input line 19.
 
 (Low_Code_Sonja_Klein.aux)
 \openout1 = `Low_Code_Sonja_Klein.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -403,7 +403,7 @@ Package biblatex Info: ... file 'english.lbx' found.
 
 (C:\Users\sonja\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lb
 x
-File: english.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
@@ -412,17 +412,24 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Low_Code_Sonja_Klein.bbl' found.
- (Low_Code_Sonja_Klein.bbl)
-Package biblatex Info: Reference section=0 on input line 17.
-Package biblatex Info: Reference segment=0 on input line 17.
+ (Low_Code_Sonja_Klein.bbl
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'Khorram.2020':
+(biblatex)                - Entry 'Khorram.2020' (LowCodeCitavi.bib): Invalid f
+ormat '16 10 2020 23 10 2020' of date field 'eventdate' - ignoring.
+
+)
+Package biblatex Info: Reference section=0 on input line 19.
+Package biblatex Info: Reference segment=0 on input line 19.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 54.
+(Font)              <14.4> on input line 46.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 54.
+(Font)              <7> on input line 46.
 
 
 LaTeX Font Warning: Font shape `OT1//b/n' undefined
-(Font)              using `OT1//m/n' instead on input line 55.
+(Font)              using `OT1//m/n' instead on input line 47.
 
 (Low_Code_Sonja_Klein.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -438,14 +445,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout4 = `Low_Code_Sonja_Klein.toc'.
 
  [2]
-
-LaTeX Warning: Citation 'AmyGlasscock.2021' on page 3 undefined on input line 5
-9.
-
-
-Overfull \hbox (15.70488pt too wide) in paragraph at lines 59--60
+Overfull \hbox (15.70488pt too wide) in paragraph at lines 51--52
 \OT1//b/n/12 wuchs auch die Rel-e-vanz von Low-Code De-vel-op-ment Plat-tfor-me
 n. Die au^^Yergew^^?ohnlichen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
+
  []
 
 
@@ -454,109 +466,82 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--60
  []
 
 
-LaTeX Warning: Citation 'AmyGlasscock.2021' on page 3 undefined on input line 6
-1.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--66
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
-
- []
-
-
-Overfull \hbox (8.10263pt too wide) in paragraph at lines 74--75
+Overfull \hbox (8.10263pt too wide) in paragraph at lines 66--67
 []\OT1//b/n/12 Wie l^^?asst sich der Be-griff von den Be-grif-fen High-Code- un
 d No-Code-Development-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--88
+Underfull \hbox (badness 10000) in paragraph at lines 77--80
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--102
+Underfull \hbox (badness 10000) in paragraph at lines 92--94
 
  []
 
 [4]
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
 
-LaTeX Warning: Citation 'DiRuscio.2022' on page 5 undefined on input line 109.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--108
+
+ []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 109--110
 
  []
 
-
-LaTeX Warning: Citation 'DiRuscio.2022' on page 5 undefined on input line 112.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 111--113
-
- []
-
-
-LaTeX Warning: Citation 'DiRuscio.2022' on page 5 undefined on input line 115.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--116
-
- []
-
-
-LaTeX Warning: Citation 'KevinShuler.2023' on page 5 undefined on input line 11
-7.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 117--118
-
- []
-
 [5]
-
-LaTeX Warning: Citation 'DiRuscio.2022' on page 6 undefined on input line 119.
-
-
-Overfull \hbox (2.66206pt too wide) in paragraph at lines 119--120
+Overfull \hbox (2.66206pt too wide) in paragraph at lines 111--112
 \OT1//b/n/12 Ap-pli-ca-tion Plat-form (LCAP) beze-ich-net wird. Ins-beson-dere 
 wur-den En-ter-prise LCAPs
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
 
  []
 
 
-LaTeX Warning: Citation 'DiRuscio.2022' on page 6 undefined on input line 121.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
 
  []
 
 
-LaTeX Warning: Citation 'DiRuscio.2022' on page 6 undefined on input line 123.
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+ []
+
+[6]
+Overfull \hbox (23.7469pt too wide) in paragraph at lines 123--124
+\OT1//b/n/12 High-Code oder tra-di-tionelle En-twick-lung bein-hal-tet manuelle
+ Pro-gram-mierung in mehreren
+ []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 123--124
@@ -564,232 +549,86 @@ Underfull \hbox (badness 10000) in paragraph at lines 123--124
  []
 
 
-LaTeX Warning: Citation 'DiRuscio.2022' on page 6 undefined on input line 125.
-
-[6]
-
-LaTeX Warning: Citation 'Mendix.2023' on page 7 undefined on input line 131.
-
-
-Overfull \hbox (23.7469pt too wide) in paragraph at lines 131--132
-\OT1//b/n/12 High-Code oder tra-di-tionelle En-twick-lung bein-hal-tet manuelle
- Pro-gram-mierung in mehreren
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 131--132
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
 
  []
 
 
-LaTeX Warning: Citation 'Mendix.2023' on page 7 undefined on input line 133.
+Underfull \hbox (badness 10000) in paragraph at lines 132--134
 
-
-LaTeX Warning: Citation 'DiRuscio.2022' on page 7 undefined on input line 136.
-
-
-LaTeX Warning: Citation 'Microsoft.2023' on page 7 undefined on input line 138.
-
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 138--139
-
- []
-
-
-LaTeX Warning: Citation 'Microsoft.2023' on page 7 undefined on input line 141.
-
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--142
-
- []
-
-
-LaTeX Warning: Citation 'Microsoft.2023' on page 7 undefined on input line 143.
-
-
-
-LaTeX Warning: Citation 'KevinShuler.2023' on page 7 undefined on input line 14
-6.
-
-
-Overfull \hbox (29.25658pt too wide) in paragraph at lines 146--147
-\OT1//b/n/12 dun-gen auf Un-ternehmensebene kann auf LCDPs zur^^?uck gegrif-fen
- wer-den [[]]. 
  []
 
 [7]
-
-LaTeX Warning: Citation 'KevinShuler.2023' on page 8 undefined on input line 15
-1.
-
-
-LaTeX Warning: Citation 'OleksiiGlib.2022' on page 8 undefined on input line 15
-4.
-
-
-Overfull \hbox (1.55684pt too wide) in paragraph at lines 154--155
+Overfull \hbox (1.55684pt too wide) in paragraph at lines 146--147
 \OT1//b/n/12 Ob eine An-wen-dung er-fol-gre-ich sein wird, ist erst m^^?oglich 
 zu wis-sen, wenn sie tats^^?achlich
  []
 
-
-LaTeX Warning: Citation 'OleksiiGlib.2022' on page 8 undefined on input line 15
-6.
-
-
-LaTeX Warning: Citation 'OleksiiGlib.2022' on page 8 undefined on input line 15
-8.
-
-
-LaTeX Warning: Citation 'KevinShuler.2023' on page 8 undefined on input line 16
-1.
-
 [8]
-
-LaTeX Warning: Citation 'KevinShuler.2023' on page 9 undefined on input line 16
-5.
-
-
-Overfull \hbox (40.22313pt too wide) in paragraph at lines 171--172
-\OT1//b/n/12 neue Plat-tfor-men: wie Aug-mented Re-al-ity, Vir-tual Re-al-ity o
-der di-al-o-gori-en-tierte Schnittstellen.
- []
-
-
-LaTeX Warning: Citation 'DiRuscio.2022' on page 9 undefined on input line 175.
-
-
-LaTeX Warning: Citation 'DiRuscio.2022' on page 9 undefined on input line 177.
-
-
-LaTeX Warning: Citation 'DiRuscio.2022' on page 9 undefined on input line 179.
-
-
-Overfull \hbox (0.59578pt too wide) in paragraph at lines 179--180
+Overfull \hbox (0.59578pt too wide) in paragraph at lines 171--172
 []\OT1//b/n/12 Au^^Yerdem k^^?onnen manche LCDPs die En-twick-lung durch Live-K
 ollaborations-Tools
  []
 
 
-LaTeX Warning: Citation 'DiRuscio.2022' on page 9 undefined on input line 181.
-
-
-Overfull \hbox (24.22063pt too wide) in paragraph at lines 181--182
+Overfull \hbox (24.22063pt too wide) in paragraph at lines 173--174
 \OT1//b/n/12 Node-RED beispiel-sweise un-terst^^?utzt in er-ster Linie die En-t
 wick-lung von IoT-Anwendungen.
  []
 
 
-LaTeX Warning: Citation 'DiRuscio.2022' on page 9 undefined on input line 183.
-
-[9]
-Overfull \hbox (6.47488pt too wide) in paragraph at lines 185--186
+Overfull \hbox (6.47488pt too wide) in paragraph at lines 177--178
 []\OT1//b/n/12 Bei der Be-tra-ch-tung der typ-is-chen Schritte einer An-wen-dun
 gsen-twick-lung mit LCDPs
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 185--186
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
 
  []
 
-
-LaTeX Warning: Citation 'KevinShuler.2023' on page 10 undefined on input line 2
-02.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 206--207
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
 
  []
 
-
-LaTeX Warning: Citation 'KevinShuler.2023' on page 10 undefined on input line 2
-08.
-
-[10]
-
-LaTeX Warning: Citation 'Alamin.2023' on page 11 undefined on input line 212.
-
-
-LaTeX Warning: Citation 'Alamin.2023' on page 11 undefined on input line 215.
-
-
-Overfull \hbox (14.65813pt too wide) in paragraph at lines 215--216
-\OT1//b/n/12 sive Berech-nun-gen auszuf^^?uhren und Big Data zu ver-wal-ten, di
-e mit ho-her Geschwindigkeit,
- []
-
-
-LaTeX Warning: Citation 'Alamin.2023' on page 11 undefined on input line 218.
-
-
-LaTeX Warning: Citation 'Alamin.2023' on page 11 undefined on input line 222.
-
-
-LaTeX Warning: Citation 'Khorram.2020' on page 11 undefined on input line 225.
-
-[11]
-
-LaTeX Warning: Citation 'Alamin.2023' on page 12 undefined on input line 228.
-
-
-LaTeX Warning: Citation 'Bucaioni.2022' on page 12 undefined on input line 234.
-
-
-
-LaTeX Warning: Citation 'Bucaioni.2022' on page 12 undefined on input line 236.
-
-
-
-Overfull \hbox (15.42616pt too wide) in paragraph at lines 236--237
-\OT1//b/n/12 op-er-abilit^^?at (6,3%), Be-nutzer-fre-undlichkeit und Flex-i-bil
-it^^?at (jew-eils 5,4%) [[]]. 
- []
-
-
-LaTeX Warning: Citation 'Bucaioni.2022' on page 12 undefined on input line 238.
-
-
-
-LaTeX Warning: Citation 'Mendix.2023' on page 12 undefined on input line 242.
-
-
-Overfull \hbox (4.64713pt too wide) in paragraph at lines 242--243
+[10] [11]
+Overfull \hbox (4.64713pt too wide) in paragraph at lines 232--233
 \OT1//b/n/12 LCDPs un-terst^^?utzen das sichere In-te-gri-eren von Daten und Lo
 gik aus be-liebi-gen Quellen,
  []
 
 [12]
+Overfull \hbox (7.35355pt too wide) in paragraph at lines 235--236
+\OT1//b/n/12 Soft-waresys-te-men ange-zo-gen und nicht von allt^^?aglichen An-w
+en-dun-gen. Dadurch entsteht
+ []
 
-LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 13 undefined on input line 2
-47.
 
-
-Overfull \hbox (33.17737pt too wide) in paragraph at lines 247--248
+Overfull \hbox (33.17737pt too wide) in paragraph at lines 237--238
 []\OT1//b/n/12 F^^?unfundsechzig Prozent be-fragter Un-ternehmen nen-nen man-ge
 l-nde tech-nis-che F^^?ahigkeiten
  []
 
 
-Overfull \hbox (17.53725pt too wide) in paragraph at lines 247--248
-\OT1//b/n/12 oder Ken-nt-nisse als Her-aus-forderung in der dig-i-talen Trans-f
-or-ma-tion [[]]. 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 247--248
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
 
  []
 
 
 LaTeX Font Warning: Font shape `OT1//m/it' undefined
-(Font)              using `OT1//m/n' instead on input line 249.
+(Font)              using `OT1//m/n' instead on input line 239.
 
 
-LaTeX Warning: Citation 'DiRuscio.2022' on page 13 undefined on input line 249.
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
 
+ []
+
+[13]
+Overfull \hbox (67.67006pt too wide) in paragraph at lines 246--247
+[]\OT1//b/n/12 In einer Um-frage von 2018 fand Mendix her-aus, dass 25% ihrer L
+ow-Code-Entwicklergemeinschaft
+ []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 249--250
@@ -797,185 +636,161 @@ Underfull \hbox (badness 10000) in paragraph at lines 249--250
  []
 
 
-LaTeX Warning: Citation 'DiRuscio.2022' on page 13 undefined on input line 252.
-
-
-[13]
-
-LaTeX Warning: Citation 'MichelleGardner.2022' on page 14 undefined on input li
-ne 254.
-
-
-LaTeX Warning: Citation 'OleksiiGlib.2022' on page 14 undefined on input line 2
-54.
-
-
-LaTeX Warning: Citation 'KevinShuler.2023' on page 14 undefined on input line 2
-56.
-
-
-Overfull \hbox (67.67006pt too wide) in paragraph at lines 256--257
-[]\OT1//b/n/12 In einer Um-frage von 2018 fand Mendix her-aus, dass 25% ihrer L
-ow-Code-Entwicklergemeinschaft
+Overfull \hbox (2.10129pt too wide) in paragraph at lines 251--252
+\OT1//b/n/12 En-twick-ler k^^?onnen neue An-wen-dun-gen in-ner-halb von Tagen o
+der Wochen statt Monaten
  []
-
-
-LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 14 undefined on input line 2
-61.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 261--262
-
- []
-
-
-LaTeX Warning: Citation 'KevinShuler.2023' on page 14 undefined on input line 2
-63.
-
-
-LaTeX Warning: Citation 'KevinShuler.2023' on page 14 undefined on input line 2
-65.
-
-
-LaTeX Warning: Citation 'KevinShuler.2023' on page 14 undefined on input line 2
-67.
-
-
-Overfull \hbox (56.28961pt too wide) in paragraph at lines 267--268
-\OT1//b/n/12 twick-lung, die auf einer Pro-gram-mier-sprache basiert, um 50 bis
- 90% re-duzieren [[]]. 
- []
-
-
-LaTeX Warning: Citation 'DiRuscio.2022' on page 14 undefined on input line 269.
-
 
 [14]
-
-LaTeX Warning: Citation 'Microsoft.2023' on page 15 undefined on input line 271
-.
-
-
-LaTeX Warning: Citation 'Microsoft.2023' on page 15 undefined on input line 273
-.
-
-
-LaTeX Warning: Citation 'Sanchis.2020b' on page 15 undefined on input line 276.
-
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
 
  []
 
 
-LaTeX Warning: Citation 'Sanchis.2020b' on page 15 undefined on input line 278.
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
 
-
-
-LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 15 undefined on input line 2
-84.
-
-
-LaTeX Warning: Citation 'KevinShuler.2023' on page 15 undefined on input line 2
-86.
-
-
-Overfull \hbox (10.30814pt too wide) in paragraph at lines 286--287
-\OT1//b/n/12 gibt Teams, die diese Sicher-heits-ma^^Y-nah-men regelm^^?a^^Yig a
-k-tu-al-isieren, um sicherzustellen,
  []
 
 
-LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 15 undefined on input line 2
-88.
+Overfull \hbox (1.05687pt too wide) in paragraph at lines 268--269
+[]\OT1//b/n/12 Au^^Yerdem kann, wie in 4.2[] bere-its erl^^?autert, durch LCDPs
+ die An-zahl der ben^^?otigten
+ []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
 
  []
 
 [15]
+Underfull \hbox (badness 10000) in paragraph at lines 273--274
 
-LaTeX Warning: Citation 'Sanchis.2020b' on page 16 undefined on input line 290.
-
-
-
-LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 16 undefined on input line 2
-95.
+ []
 
 
-LaTeX Warning: Citation 'EmmaVanPelt.2019' on page 16 undefined on input line 3
-01.
+Overfull \hbox (10.42157pt too wide) in paragraph at lines 275--276
+\OT1//b/n/12 gen im Bezug auf Sicher-heit erf^^?ullen. Un-ternehmen mit einer g
+erin-gen Tol-er-anz gegen^^?uber
+ []
 
 
-Overfull \hbox (6.75543pt too wide) in paragraph at lines 300--302
+Overfull \hbox (6.69662pt too wide) in paragraph at lines 275--276
+\OT1//b/n/12 am ehesten auf Low-Code. Ihre Bef^^?urwortung von Low-Code be-weis
+t, dass un-ternehmen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
+
+ []
+
+
+Overfull \hbox (6.75543pt too wide) in paragraph at lines 286--288
 []\OT1//b/n/12 Low-Code-Plattformen er-weit-ern Flex-i-bilit^^?at, Geschwindigk
 eit und Au-toma-tisierung.
  []
 
 
-Overfull \hbox (0.5652pt too wide) in paragraph at lines 300--302
+Overfull \hbox (0.5652pt too wide) in paragraph at lines 286--288
 \OT1//b/n/12 Vierund-sechzig Prozent der Un-ternehmen, die Low-Code f^^?ur Top-
 Anwendungen nutzen,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 300--302
+Underfull \hbox (badness 10000) in paragraph at lines 286--288
 
  []
 
-
-LaTeX Warning: Citation 'Sanchis.2020b' on page 16 undefined on input line 303.
-
-
-
-Overfull \hbox (4.73831pt too wide) in paragraph at lines 303--304
+[16]
+Overfull \hbox (4.73831pt too wide) in paragraph at lines 289--290
 \OT1//b/n/12 gesch^^?aftlichen An-forderun-gen zu gew^^?ahrleisten. Da Low-Code
 -Entwicklungsplattformen
  []
 
-[16]
 
-LaTeX Warning: Citation 'DiRuscio.2022' on page 17 undefined on input line 306.
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
 
-
-
-LaTeX Warning: Citation 'KevinShuler.2023' on page 17 undefined on input line 3
-18.
-
-
-LaTeX Warning: Citation 'KevinShuler.2023' on page 17 undefined on input line 3
-19.
-
-
-Overfull \hbox (10.32343pt too wide) in paragraph at lines 317--320
-\OT1//b/n/12 ternehmen, agil zu sein, und dem Streben nach schlanken, ef-fizien
--teren Gesch^^?aftssystemen
  []
 
 
-LaTeX Warning: Citation 'KevinShuler.2023' on page 17 undefined on input line 3
-22.
+Underfull \hbox (badness 10000) in paragraph at lines 302--305
+
+ []
 
 
-LaTeX Warning: Citation 'KevinShuler.2023' on page 17 undefined on input line 3
-24.
+Underfull \hbox (badness 10000) in paragraph at lines 306--308
+
+ []
 
 
-Overfull \hbox (4.38182pt too wide) in paragraph at lines 326--327
+Overfull \hbox (0.39948pt too wide) in paragraph at lines 309--310
+\OT1//b/n/12 B^^?urgerentwickler als pro-fes-sionelle En-twick-ler geben wird. 
+Low Code En-twick-lungsplat-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+
+ []
+
+[17]
+Overfull \hbox (4.38182pt too wide) in paragraph at lines 311--312
 \OT1//b/n/12 82% der Un-ternehmen an, dass die App-Entwicklung au^^Yer-halb der
  IT-Abteilung wichtig
  []
 
-[17]
 
-LaTeX Warning: Citation 'KevinShuler.2023' on page 18 undefined on input line 3
-28.
+Underfull \hbox (badness 10000) in paragraph at lines 311--312
+
+ []
 
 
-LaTeX Warning: Citation 'KevinShuler.2023' on page 18 undefined on input line 3
-30.
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
+
+ []
+
+
+Overfull \hbox (26.33856pt too wide) in paragraph at lines 317--318
+[]\OT1//b/n/12 Laut der Gartner-Umfrage haben 4% der Be-fragten derzeit B^^?urg
+erentwicklungsinitiativen
+ []
+
+
+Overfull \hbox (5.75682pt too wide) in paragraph at lines 317--318
+\OT1//b/n/12 Sys-teme und dem Bekan-ntwer-den ihrer Vorteile bei En-twick-lern 
+und IT-F^^?uhrungskr^^?aften
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--318
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--322
+
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
+
+ []
+
+
+Overfull \hbox (6.1897pt too wide) in paragraph at lines 330--331
+\OT1//b/n/12 viele Vorteile von Low Code En-twick-lungsplat-tfor-men fest-stell
+en. Die Gegen^^?uberstellung
+ []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 330--331
@@ -983,86 +798,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 330--331
  []
 
 
-LaTeX Warning: Citation 'KevinShuler.2023' on page 18 undefined on input line 3
-32.
-
-
-Overfull \hbox (26.33856pt too wide) in paragraph at lines 332--333
-[]\OT1//b/n/12 Laut der Gartner-Umfrage haben 4% der Be-fragten derzeit B^^?urg
-erentwicklungsinitiativen
+Overfull \hbox (45.20642pt too wide) in paragraph at lines 340--341
+[]\OT1//b/n/12 Die hohe An-zahl an LCDPs mit Un-ter-schiedlichen Merk-malen bri
+ngt Auswahlschwierigkeiten
  []
 
 
-Overfull \hbox (5.75682pt too wide) in paragraph at lines 332--333
-\OT1//b/n/12 Sys-teme und dem Bekan-ntwer-den ihrer Vorteile bei En-twick-lern 
-und IT-F^^?uhrungskr^^?aften
- []
-
-
-Overfull \hbox (20.44832pt too wide) in paragraph at lines 332--333
-\OT1//b/n/12 wird der Druck auf die Un-ternehmen steigen, diese Sys-teme einzuf
-^^?uhren [[]]. 
- []
-
-
-LaTeX Warning: Citation 'KevinShuler.2023' on page 18 undefined on input line 3
-34.
-
-
-LaTeX Warning: Citation 'KevinShuler.2023' on page 18 undefined on input line 3
-36.
-
-
-Overfull \hbox (9.01602pt too wide) in paragraph at lines 336--337
-\OT1//b/n/12 im-mer noch 20%, die dies nicht tun. Weltweit liegt diese Zahl bei
- 23% [[]]. 
- []
-
-
-LaTeX Warning: Citation 'KevinShuler.2023' on page 18 undefined on input line 3
-38.
-
-
-Overfull \hbox (19.30804pt too wide) in paragraph at lines 338--339
-\OT1//b/n/12 ihrer hochw-er-tig-sten An-wen-dun-gen damit en-twick-elt oder ber
-e-it-gestellt [[]]. 
- []
-
-
-LaTeX Warning: Citation 'Microsoft.2022' on page 18 undefined on input line 344
-.
-
-
-LaTeX Warning: Citation 'Microsoft.2022' on page 18 undefined on input line 344
-.
-
-
-Overfull \hbox (22.72887pt too wide) in paragraph at lines 344--345
-\OT1//b/n/12 und 150 Entschei-dungstr^^?agern in Un-ternehmen, die bere-its Low
- Code/No Code-Plattformen
- []
-
-[18]
-
-LaTeX Warning: Citation 'Microsoft.2022' on page 19 undefined on input line 346
-.
-
-
-Overfull \hbox (21.15758pt too wide) in paragraph at lines 346--347
-\OT1//b/n/12 als Hin-der-nis. Entschei-dungstr^^?ager dessen wis-sen am ehesten
-, wie der Entschei-dungsprozess
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 351--352
+Underfull \hbox (badness 10000) in paragraph at lines 340--341
 
  []
 
 [19]
+Overfull \hbox (18.03308pt too wide) in paragraph at lines 346--347
+[]\OT1//b/n/12 Low Code En-twick-lungsplat-tfor-men beschle-u-ni-gen Au^^Yer-de
+m den En-twick-lungsprozess.
+ []
 
-LaTeX Warning: Empty bibliography on input line 360.
 
-(Low_Code_Sonja_Klein.aux)
+Underfull \hbox (badness 10000) in paragraph at lines 352--353
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--356
+
+ []
+
+[20]
+Overfull \hbox (24.428pt too wide) in paragraph at lines 366--366
+\OT1//m/it/12 Quandary Con-sult-ing Group. URL: $\OT1/cmtt/m/n/12 https : / / q
+uandarycg . com / low -[] code -[] statistics/$
+ []
+
+[21]
+Overfull \hbox (4.08807pt too wide) in paragraph at lines 366--366
+\OT1//m/it/12 u-fac-tur-ing In-dus-try''. In: 10.1. PII: app10010012, p. 12. DO
+I: $\OT1/cmtt/m/n/12 10 . 3390 / app10010012$\OT1//m/it/12 . 
+ []
+
+[22] (Low_Code_Sonja_Klein.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1079,19 +853,20 @@ Package logreq Info: Writing requests to 'Low_Code_Sonja_Klein.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 9383 strings out of 478582
- 182994 string characters out of 2844344
- 895467 words of memory out of 3000000
- 27529 multiletter control sequences out of 15000+600000
- 473506 words of font info for 42 fonts, out of 8000000 for 9000
+ 9622 strings out of 476374
+ 188594 string characters out of 5788854
+ 1861340 words of memory out of 5000000
+ 29969 multiletter control sequences out of 15000+600000
+ 516703 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,68p,1391b,1136s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 63i,6n,68p,2571b,1896s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/sonja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmr12.pfb><C:/Users/sonja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmr17.pfb>
-Output written on Low_Code_Sonja_Klein.pdf (19 pages, 86172 bytes).
+onts/cm/cmr17.pfb><C:/Users/sonja/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmtt12.pfb>
+Output written on Low_Code_Sonja_Klein.pdf (22 pages, 103304 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
+ 88 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

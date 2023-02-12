@@ -54,8 +54,8 @@
       <file>blx-compat.def</file>
       <file>biblatex.def</file>
       <file>standard.bbx</file>
-      <file>numeric.bbx</file>
-      <file>numeric.cbx</file>
+      <file>authoryear.bbx</file>
+      <file>authoryear.cbx</file>
       <file>biblatex.cfg</file>
       <file>english.lbx</file>
     </requires>
@@ -79,7 +79,7 @@
       <file>Low_Code_Sonja_Klein.bcf</file>
     </requires>
     <requires type="editable">
-      <file>Low_Code_Citavi.bib</file>
+      <file>LowCodeCitavi.bib</file>
     </requires>
   </external>
 </requests>
