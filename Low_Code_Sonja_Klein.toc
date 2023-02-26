@@ -10,19 +10,19 @@
 \contentsline {subsection}{\numberline {2.3}Use Cases}{8}{}%
 \contentsline {subsubsection}{\numberline {2.3.1}Anwendungsfall: ERP und CRM}{8}{}%
 \contentsline {subsubsection}{\numberline {2.3.2}Anwendungsfall: MVPs}{8}{}%
-\contentsline {subsubsection}{\numberline {2.3.3}Anwendungsfall: Modernisierungen und Mobile-First}{8}{}%
+\contentsline {subsubsection}{\numberline {2.3.3}Anwendungsfall: Modernisierungen und Mobile-First}{9}{}%
 \contentsline {subsection}{\numberline {2.4}Übersicht von Low Code Development Plattformen in der Praxis}{9}{}%
 \contentsline {section}{\numberline {3}Nachteile von Low Code Development Plattformen}{10}{}%
 \contentsline {subsection}{\numberline {3.1}Probleme bei dem Erlernen}{11}{}%
 \contentsline {subsection}{\numberline {3.2}Geringe Interoperabilität und eine enge Bindung an einen Anbieter}{11}{}%
-\contentsline {subsection}{\numberline {3.3}Geringere Flexibilität und Anpassbarkeit}{11}{}%
+\contentsline {subsection}{\numberline {3.3}Geringere Flexibilität und Anpassbarkeit}{12}{}%
 \contentsline {subsection}{\numberline {3.4}Geringe Teststandards}{12}{}%
 \contentsline {subsection}{\numberline {3.5}Auswahlschwierigkeiten}{12}{}%
 \contentsline {section}{\numberline {4}Vorteile von Low Code Development Plattformen}{12}{}%
 \contentsline {subsection}{\numberline {4.1}Schnittstellenbereitstellung}{13}{}%
 \contentsline {subsection}{\numberline {4.2}Zusammenarbeit von Entwicklern und Fachkundigen}{13}{}%
-\contentsline {subsection}{\numberline {4.3}Beschleunigter Entwicklungsprozess}{14}{}%
-\contentsline {subsection}{\numberline {4.4}Reduzierte Kosten}{15}{}%
+\contentsline {subsection}{\numberline {4.3}Beschleunigter Entwicklungsprozess}{15}{}%
+\contentsline {subsection}{\numberline {4.4}Reduzierte Kosten}{16}{}%
 \contentsline {subsection}{\numberline {4.5}Hohe Sicherheitsstandards und geringe Ausfallzeiten}{16}{}%
 \contentsline {subsection}{\numberline {4.6}Schwierigkeiten mit komplexer Geschäftslogik}{17}{}%
 \contentsline {subsection}{\numberline {4.7}Gesteigerte Flexibilität}{17}{}%

@@ -1,17 +1,17 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [0] Config.pm:309> INFO - Logfile is 'Low_Code_Sonja_Klein.blg'
-[182] biber-MSWIN64:340> INFO - === 
-[247] Biber.pm:418> INFO - Reading 'Low_Code_Sonja_Klein.bcf'
-[460] Biber.pm:978> INFO - Found 13 citekeys in bib section 0
-[482] Biber.pm:4401> INFO - Processing section 0
-[500] Biber.pm:4592> INFO - Looking for bibtex file 'LowCodeCitavi.bib' for section 0
-[564] bibtex.pm:1713> INFO - LaTeX decoding ...
-[635] bibtex.pm:1518> INFO - Found BibTeX data source 'LowCodeCitavi.bib'
-[834] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[834] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[834] Biber.pm:4221> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[834] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
-[865] bbl.pm:654> INFO - Writing 'Low_Code_Sonja_Klein.bbl' with encoding 'UTF-8'
-[880] bbl.pm:757> INFO - Output to Low_Code_Sonja_Klein.bbl
-[881] Biber.pm:130> WARN - Entry 'Khorram.2020' (LowCodeCitavi.bib): Invalid format '16 10 2020 23 10 2020' of date field 'eventdate' - ignoring
-[881] Biber.pm:132> INFO - WARNINGS: 1
+[160] biber-MSWIN64:340> INFO - === 
+[211] Biber.pm:418> INFO - Reading 'Low_Code_Sonja_Klein.bcf'
+[380] Biber.pm:978> INFO - Found 13 citekeys in bib section 0
+[402] Biber.pm:4401> INFO - Processing section 0
+[418] Biber.pm:4592> INFO - Looking for bibtex file 'LowCodeCitavi.bib' for section 0
+[506] bibtex.pm:1713> INFO - LaTeX decoding ...
+[589] bibtex.pm:1518> INFO - Found BibTeX data source 'LowCodeCitavi.bib'
+[770] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[770] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[770] Biber.pm:4221> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[770] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[797] bbl.pm:654> INFO - Writing 'Low_Code_Sonja_Klein.bbl' with encoding 'UTF-8'
+[812] bbl.pm:757> INFO - Output to Low_Code_Sonja_Klein.bbl
+[812] Biber.pm:130> WARN - Entry 'Khorram.2020' (LowCodeCitavi.bib): Invalid format '16 10 2020 23 10 2020' of date field 'eventdate' - ignoring
+[812] Biber.pm:132> INFO - WARNINGS: 1

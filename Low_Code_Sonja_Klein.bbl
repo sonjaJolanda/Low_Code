@@ -293,8 +293,8 @@
            family={{Quandary Consulting Group}},
            familyi={Q\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {Quandary}%
+      \list{organization}{1}{%
+        {Quandary Consulting Group}%
       }
       \strng{namehash}{b850775ad76eef66f37530dd018a1311}
       \strng{fullhash}{b850775ad76eef66f37530dd018a1311}
@@ -312,7 +312,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{56+ Critical Low-Code Statistics to Review for 2023}
-      \field{urlday}{7}
+      \field{urlday}{12}
       \field{urlmonth}{2}
       \field{urlyear}{2023}
       \field{year}{2023}
@@ -454,7 +454,11 @@
       \field{labeltitlesource}{title}
       \field{subtitle}{Differences, Similarities, and How to Choose}
       \field{title}{What Is Low-code vs. No-code?}
+      \field{urlday}{2}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
       \field{year}{2022}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://lowcode.com/articles/low-code-vs--no-code--the-differences--similarities--and-how-to-.html
       \endverb
@@ -516,6 +520,9 @@
            family={Acropolium},
            familyi={A\bibinitperiod}}}%
       }
+      \list{organization}{1}{%
+        {Acropolium}%
+      }
       \strng{namehash}{6d786f2547cbefde0a5d381e735b2ba0}
       \strng{fullhash}{6d786f2547cbefde0a5d381e735b2ba0}
       \strng{bibnamehash}{6d786f2547cbefde0a5d381e735b2ba0}
@@ -531,7 +538,8 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{BUILDING AN MVP WITH A LOW-CODE APPROACH: PROS, CONS, GUIDE}
+      \field{subtitle}{Pros, Cons, Guide}
+      \field{title}{Building An MVP With A Low-Code Approach}
       \field{urlday}{25}
       \field{urlmonth}{1}
       \field{urlyear}{2023}
